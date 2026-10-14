@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-10-14T13:10:44.783352+00:00 · Status: **partial**
+Stand: 2026-10-14T13:55:19.871097+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -12,7 +12,7 @@ Stand: 2026-10-14T13:10:44.783352+00:00 · Status: **partial**
 | SEC 8-K | error | 0 | HTTPError: HTTP Error 403: Forbidden |
 | SEC 6-K | error | 0 | HTTPError: HTTP Error 403: Forbidden |
 | SEC Finanzierung | error | 0 | HTTPError: HTTP Error 403: Forbidden |
-| Yahoo Tagesgewinner | ok | 82 | keine erkannte; Vollständigkeit nicht garantiert |
+| Yahoo Tagesgewinner | ok | 25 | keine erkannte; Vollständigkeit nicht garantiert |
 
 ## Originalmeldungen · letzte 24 Stunden
 
@@ -22,26 +22,26 @@ Keine zeitlich zuordenbaren Meldungen im erfassten Fenster. Quellenstatus beacht
 
 | Symbol | Tagesänderung | Seit vorherigem Scan | Tagesvolumen / Ø ganzer Tag | Status |
 |---|---:|---:|---:|---|
-| RGC | 14.867% | offen | 2.903 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| EFXT | 14.369% | offen | 2.061 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| PARR | 8.133% | offen | 1.177 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| PBF | 7.234% | offen | 1.018 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CVI | 7.146% | offen | 0.796 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| LIFE | 6.022% | offen | 0.842 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| NSIT | 5.882% | offen | 0.789 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CDW | 5.711% | offen | 1.442 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| VG | 5.407% | offen | 0.832 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| INFY | 5.263% | offen | 1.293 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| TTMI | 5.23% | offen | 1.499 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| VRNS | 5.068% | offen | 0.835 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ECPG | 4.71% | offen | 0.623 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| VLO | 4.693% | offen | 0.838 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| NXT | 4.608% | offen | 0.84 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| NVTS | 4.605% | offen | 1.368 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CHA | 4.595% | offen | 1.042 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| LOGI | 4.515% | offen | 0.925 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CNH | 4.464% | offen | 0.847 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ARXS | 4.458% | offen | 1.818 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| BSP | 36.948% | offen | 2.212 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| LQDA | 30.399% | offen | 2.894 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| RGC | 9.046% | offen | 1.431 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ESLT | 6.069% | offen | 0.545 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| HALO | 5.82% | offen | 0.2 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| GFS | 4.55% | offen | 0.471 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| MNSO | 4.438% | offen | 0.445 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| AXSM | 4.046% | offen | 0.079 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CAI | 4.03% | offen | 0.048 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| RVMD | 4.001% | offen | 0.124 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| UNH | 3.832% | offen | 0.348 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| WIX | 3.75% | offen | 0.049 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| LLY | 3.591% | offen | 0.165 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| MDGL | 3.496% | offen | 0.181 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| FTRE | 3.346% | offen | 0.195 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ARWR | 3.32% | offen | 0.343 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| AZN | 3.209% | offen | 0.129 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CBOE | 3.196% | offen | 0.09 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| INTU | 3.138% | offen | 0.108 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ARGX | 3.071% | offen | 0.134 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 
 Kurse in Rohdaten mit Originalwährung und Zeitstempel. EUR-Umrechnung erst mit geprüftem Wechselkurs. Tagesänderung ist nicht die Reaktion seit einer Nachricht.
 
