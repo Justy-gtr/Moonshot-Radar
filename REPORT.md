@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-10-14T16:37:44.303108+00:00 · Status: **partial**
+Stand: 2026-10-14T17:16:34.321559+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -12,7 +12,7 @@ Stand: 2026-10-14T16:37:44.303108+00:00 · Status: **partial**
 | SEC 8-K | error | 0 | HTTPError: HTTP Error 403: Forbidden |
 | SEC 6-K | error | 0 | HTTPError: HTTP Error 403: Forbidden |
 | SEC Finanzierung | error | 0 | HTTPError: HTTP Error 403: Forbidden |
-| Yahoo Tagesgewinner | ok | 31 | keine erkannte; Vollständigkeit nicht garantiert |
+| Yahoo Tagesgewinner | ok | 33 | keine erkannte; Vollständigkeit nicht garantiert |
 
 ## Originalmeldungen · letzte 24 Stunden
 
@@ -25,26 +25,26 @@ Stand: 2026-10-14T16:37:44.303108+00:00 · Status: **partial**
 
 | Symbol | Tagesänderung | Seit vorherigem Scan | Tagesvolumen / Ø ganzer Tag | Status |
 |---|---:|---:|---:|---|
-| BSP | 41.284% | 1.47 | 5.074 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| LQDA | 27.042% | 1.128 | 5.853 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| LEGN | 9.172% | 2.145 | 0.689 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| HALO | 7.48% | -0.025 | 0.754 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| NRIX | 6.552% | 0.769 | 0.728 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CBOE | 4.43% | 0.986 | 0.452 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| WGS | 4.31% | 0.445 | 0.358 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ESLT | 4.276% | 0.319 | 1.144 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| AZN | 4.189% | 0.235 | 0.412 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| PRGO | 4.066% | 0.534 | 0.988 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| LLY | 4.008% | -0.184 | 0.54 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| MRK | 3.828% | 0.299 | 0.344 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| MBLY | 3.775% | 0.0 | 0.967 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| BLLN | 3.77% | -0.689 | 0.285 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CAI | 3.725% | 0.69 | 0.41 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ABBV | 3.721% | 0.374 | 0.314 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| RPRX | 3.633% | 0.394 | 0.311 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| OLLI | 3.566% | 0.577 | 0.416 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| GSK | 3.512% | 0.22 | 0.961 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| BMY | 3.406% | offen | 0.389 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| BSP | 48.389% | 5.029 | 5.725 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| LQDA | 26.413% | -0.499 | 6.164 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| LEGN | 9.284% | 0.102 | 0.742 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| HALO | 8.009% | 0.492 | 0.872 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| NRIX | 7.772% | 1.145 | 0.828 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| IBRX | 5.327% | offen | 1.514 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| GFS | 5.31% | offen | 1.747 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| WGS | 4.924% | 0.59 | 0.411 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| OLLI | 4.721% | 1.115 | 0.544 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ESLT | 4.705% | 0.412 | 1.272 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| DAO | 4.491% | offen | 0.685 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| AXSM | 4.312% | offen | 0.536 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CBOE | 4.291% | -0.136 | 0.511 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| AZN | 4.194% | 0.003 | 0.453 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| PRGO | 4.034% | -0.031 | 1.086 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| LLY | 3.912% | -0.092 | 0.604 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| MRK | 3.867% | 0.037 | 0.401 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| RPRX | 3.774% | 0.136 | 0.358 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ABBV | 3.734% | 0.012 | 0.366 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| BLLN | 3.674% | -0.092 | 0.312 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 
 Kurse in Rohdaten mit Originalwährung und Zeitstempel. EUR-Umrechnung erst mit geprüftem Wechselkurs. Tagesänderung ist nicht die Reaktion seit einer Nachricht.
 
