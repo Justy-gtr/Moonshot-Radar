@@ -1,25 +1,55 @@
-name: Moonshot Radar Test
+name: Moonshot Radar
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - 'scanner.py'
+      - 'test_scanner.py'
+      - '.github/workflows/radar.yml'
   schedule:
-    - cron: '7,37 13-21 * * 1-5'
+    - cron: '7,22,37,52 * * * *'
 permissions:
-  contents: read
+  contents: write
+concurrency:
+  group: moonshot-radar
+  cancel-in-progress: false
 jobs:
   scan:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 8
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+      - name: Test data integrity rules
+        run: python -m unittest -v test_scanner.py
       - name: Run scanner
+        id: scan
+        env:
+          SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
         run: python scanner.py
-      - name: Save scan output
+      - name: Save journal and report
+        if: always() && steps.scan.outcome != 'skipped'
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data REPORT.md
+          if ! git diff --cached --quiet; then
+            git commit -m 'Record radar observations and source health'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+      - name: Publish run summary
+        if: always()
+        run: |
+          if [ -f REPORT.md ]; then cat REPORT.md >> "$GITHUB_STEP_SUMMARY"; fi
+      - name: Save diagnostic output
         if: always()
         uses: actions/upload-artifact@v4
         with:
           name: moonshot-scan
-          path: output/latest.json
-          retention-days: 7
+          path: |
+            data/latest.json
+            REPORT.md
+          retention-days: 30
