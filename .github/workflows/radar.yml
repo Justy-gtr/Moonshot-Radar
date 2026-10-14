@@ -1,0 +1,25 @@
+name: Moonshot Radar Test
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '7,37 13-21 * * 1-5'
+permissions:
+  contents: read
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Run scanner
+        run: python scanner.py
+      - name: Save scan output
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: moonshot-scan
+          path: output/latest.json
+          retention-days: 7
