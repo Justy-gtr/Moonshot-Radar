@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "signal_id": "20261015T063554Z-KURN",
+  "prepared_utc": "2026-10-15T06:35:54Z",
+  "company": "Kuros Biosciences AG",
+  "ticker": "KURN",
+  "isin": "CH0325814116",
+  "exchange": "SIX Swiss Exchange",
+  "exchange_mic": "XSWX",
+  "original_sources": [
+    {
+      "url": "https://www.globenewswire.com/news-release/2026/10/15/3381269/0/en/kuros-biosciences-increases-2026-annual-guidance-the-company-reports-40-year-over-year-increase-in-sales-in-the-first-nine-months-of-2026.html",
+      "type": "company_ad_hoc_release"
+    },
+    {
+      "url": "https://www.six-group.com/en/products-services/the-swiss-stock-exchange/trading/trading-provisions/trading-hours.html",
+      "type": "exchange_calendar"
+    }
+  ],
+  "pub_utc": "2026-10-15T05:00:00Z",
+  "first_seen_utc": "2026-10-15T06:33:40Z",
+  "reference_price": {
+    "value": 18.79,
+    "currency": "CHF",
+    "price_utc": "2026-10-14T15:30:00Z",
+    "venue": "SIX Swiss Exchange",
+    "type": "previous_regular_close",
+    "delay_seconds_at_preparation": 54354,
+    "source_url": "https://www.investing.com/equities/cytos-biotechnology"
+  },
+  "measurement": {
+    "start": "first_verified_executable_regular_session_trade_on_or_after_2026-10-15T07:00:00Z",
+    "start_price": null,
+    "end_utc": "2026-10-16T07:00:00Z",
+    "calendar_basis": "SIX shares open 09:00 Europe/Zurich on regular business days",
+    "target_touch_pct": 5,
+    "status": "not_yet_measurable"
+  },
+  "catalyst": {
+    "summary": "Nine-month medical-device sales rose 40% to USD 141.8m, adjusted EBITDA rose 68% to USD 20.6m, and 2026 guidance was raised to 36%-40% sales growth and adjusted EBITDA margin above 14.5%.",
+    "previous_guidance": "At least 35% sales growth and adjusted EBITDA margin around 14%.",
+    "publication_timing": "before SIX regular session"
+  },
+  "market_cap": {
+    "value": 747030000,
+    "currency": "CHF",
+    "as_of": "2026-10-14",
+    "source_url": "https://www.investing.com/equities/cytos-biotechnology"
+  },
+  "risks": [
+    "Guidance uplift is incremental rather than transformational.",
+    "Valuation is high relative to current earnings.",
+    "Low trading volume can widen spreads and amplify reversals.",
+    "Live Trade Republic tradability and spread were not verified."
+  ],
+  "tr_check": {
+    "status": "listed_in_user_provided_universe",
+    "source": "TR_Radar_Universum.txt",
+    "matched_line": "CH0325814116 | Kuros | Aktien | 67",
+    "document_date": null,
+    "live_tradability": null
+  },
+  "status": "pending"
+}
