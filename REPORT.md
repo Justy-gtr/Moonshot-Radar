@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-10-15T13:28:34.369290+00:00 · Status: **partial**
+Stand: 2026-10-15T14:13:55.913016+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -12,7 +12,7 @@ Stand: 2026-10-15T13:28:34.369290+00:00 · Status: **partial**
 | SEC 8-K | error | 0 | HTTPError: HTTP Error 403: Forbidden |
 | SEC 6-K | error | 0 | HTTPError: HTTP Error 403: Forbidden |
 | SEC Finanzierung | error | 0 | HTTPError: HTTP Error 403: Forbidden |
-| Yahoo Tagesgewinner | ok | 59 | keine erkannte; Vollständigkeit nicht garantiert |
+| Yahoo Tagesgewinner | ok | 100 | keine erkannte; Vollständigkeit nicht garantiert |
 
 ## Originalmeldungen · letzte 24 Stunden
 
@@ -25,26 +25,26 @@ Stand: 2026-10-15T13:28:34.369290+00:00 · Status: **partial**
 
 | Symbol | Tagesänderung | Seit vorherigem Scan | Tagesvolumen / Ø ganzer Tag | Status |
 |---|---:|---:|---:|---|
-| BSP | 41.204% | offen | 7.472 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| LQDA | 26.595% | offen | 7.138 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| DAO | 7.616% | offen | 1.161 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| NRIX | 6.959% | offen | 2.738 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| HALO | 6.568% | offen | 1.697 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| LEGN | 6.488% | offen | 1.504 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| USB-PP | 6.016% | offen | 1.81 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CHWY | 5.682% | offen | 1.054 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| WGS | 5.619% | offen | 1.33 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| OLLI | 5.423% | offen | 1.285 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| BBWI | 5.278% | offen | 1.278 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ESLT | 5.049% | offen | 1.979 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| HRB | 4.997% | offen | 0.856 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CHEF | 4.833% | offen | 1.148 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| GFS | 4.797% | offen | 3.115 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| PI | 4.766% | offen | 1.323 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ACHC | 4.763% | offen | 1.011 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| UNH | 4.728% | offen | 1.504 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| DLTR | 4.713% | offen | 0.807 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| MRNA | 4.647% | offen | 0.889 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| SAH | 9.359% | offen | 0.214 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ERIC | 8.612% | offen | 1.527 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| PAG | 8.399% | offen | 3.022 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ARQT | 7.686% | offen | 0.2 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| HUBS | 7.524% | offen | 0.132 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| APPN | 7.438% | offen | 0.256 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| NCNO | 7.422% | offen | 0.134 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| TRU | 7.29% | offen | 0.101 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ZG | 7.243% | offen | 0.254 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| GPI | 7.107% | offen | 0.173 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| THO | 7.057% | offen | 0.191 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ABG | 7.045% | offen | 0.33 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| Z | 7.024% | offen | 0.276 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| LAD | 6.878% | offen | 0.197 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| EPAM | 6.813% | offen | 0.32 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| PATK | 6.658% | offen | 0.296 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| MMYT | 6.622% | offen | 0.172 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| RH | 6.456% | offen | 0.269 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| BRO | 6.451% | offen | 0.118 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| INTU | 6.417% | offen | 0.259 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 
 Kurse in Rohdaten mit Originalwährung und Zeitstempel. EUR-Umrechnung erst mit geprüftem Wechselkurs. Tagesänderung ist nicht die Reaktion seit einer Nachricht.
 
