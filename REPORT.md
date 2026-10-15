@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-10-15T15:38:47.242051+00:00 · Status: **partial**
+Stand: 2026-10-15T16:16:01.962720+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -16,33 +16,32 @@ Stand: 2026-10-15T15:38:47.242051+00:00 · Status: **partial**
 
 ## Originalmeldungen · letzte 24 Stunden
 
-- **ORIGINALMELDUNG PRÜFEN** · [FDA Launches the Rare Disease Framework Initiative to Develop a Holistic, Fit-For-Purpose Framework for Rare Disease Drug Development](http://www.fda.gov/news-events/press-announcements/fda-launches-rare-disease-framework-initiative-develop-holistic-fit-purpose-framework-rare-disease)
-  Quelle: FDA · Feedzeit: 2026-10-14T15:50:52+00:00 · entdeckt: 2026-10-14T16:37:44.303108+00:00
+Keine zeitlich zuordenbaren Meldungen im erfassten Fenster. Quellenstatus beachten.
 
 ## Momentum-Beobachtungen · keine Handelssignale
 
 | Symbol | Tagesänderung | Seit vorherigem Scan | Tagesvolumen / Ø ganzer Tag | Status |
 |---|---:|---:|---:|---|
-| APPN | 10.689% | 0.77 | 0.624 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| KRMN | 9.92% | 4.084 | 0.507 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ERIC | 8.976% | -0.049 | 2.332 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ARQT | 8.974% | 1.089 | 0.541 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| PAG | 8.424% | 0.028 | 4.266 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| KD | 8.397% | 1.711 | 0.306 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| TRU | 8.246% | 0.821 | 0.326 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| MNDY | 8.197% | 1.187 | 0.414 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| MMYT | 8.191% | 0.18 | 0.443 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ETSY | 8.135% | 2.369 | 0.55 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| THO | 8.034% | 0.447 | 0.497 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| SAH | 8.027% | -0.607 | 0.378 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| POOL | 7.823% | 1.013 | 0.539 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| MAAS | 7.802% | offen | 0.098 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| Z | 7.759% | 0.52 | 0.532 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ZG | 7.697% | 0.359 | 0.387 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| IP | 7.601% | 1.448 | 0.748 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| BSP | 7.258% | 1.67 | 1.518 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| APPF | 7.154% | 0.272 | 0.573 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CRCL | 7.002% | offen | 0.593 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| RGC | 13.84% | 8.381 | 1.062 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| APPN | 10.195% | -0.446 | 0.685 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| KRMN | 9.887% | -0.03 | 0.625 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ARQT | 9.125% | 0.139 | 0.62 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| PAG | 8.489% | 0.059 | 4.685 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ERIC | 8.454% | -0.479 | 2.458 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| TRU | 8.44% | 0.179 | 0.456 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ETSY | 7.965% | -0.151 | 0.698 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| MMYT | 7.929% | -0.233 | 0.531 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ZG | 7.772% | 0.07 | 0.44 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| Z | 7.766% | 0.007 | 0.595 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| KD | 7.761% | -0.587 | 0.38 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| BSP | 7.594% | 0.314 | 1.649 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| MAAS | 7.466% | -0.311 | 0.116 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| POOL | 7.286% | -0.499 | 0.708 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| GWRE | 6.9% | 0.133 | 0.483 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| TTD | 6.897% | 0.038 | 0.455 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| IP | 6.646% | -0.889 | 0.847 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| THO | 6.553% | -1.371 | 0.571 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| BHC | 6.537% | 0.198 | 0.324 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 
 Kurse in Rohdaten mit Originalwährung und Zeitstempel. EUR-Umrechnung erst mit geprüftem Wechselkurs. Tagesänderung ist nicht die Reaktion seit einer Nachricht.
 
