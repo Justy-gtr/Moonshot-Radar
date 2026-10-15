@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-10-15T06:44:54.758231+00:00 · Status: **partial**
+Stand: 2026-10-15T07:27:06.486234+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -12,7 +12,7 @@ Stand: 2026-10-15T06:44:54.758231+00:00 · Status: **partial**
 | SEC 8-K | error | 0 | HTTPError: HTTP Error 403: Forbidden |
 | SEC 6-K | error | 0 | HTTPError: HTTP Error 403: Forbidden |
 | SEC Finanzierung | error | 0 | HTTPError: HTTP Error 403: Forbidden |
-| Yahoo Tagesgewinner | ok | 59 | keine erkannte; Vollständigkeit nicht garantiert |
+| Yahoo Tagesgewinner | ok | 58 | keine erkannte; Vollständigkeit nicht garantiert |
 
 ## Originalmeldungen · letzte 24 Stunden
 
