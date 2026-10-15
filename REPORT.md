@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-10-15T14:13:55.913016+00:00 · Status: **partial**
+Stand: 2026-10-15T14:54:18.068725+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -25,26 +25,26 @@ Stand: 2026-10-15T14:13:55.913016+00:00 · Status: **partial**
 
 | Symbol | Tagesänderung | Seit vorherigem Scan | Tagesvolumen / Ø ganzer Tag | Status |
 |---|---:|---:|---:|---|
-| SAH | 9.359% | offen | 0.214 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ERIC | 8.612% | offen | 1.527 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| PAG | 8.399% | offen | 3.022 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ARQT | 7.686% | offen | 0.2 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| HUBS | 7.524% | offen | 0.132 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| APPN | 7.438% | offen | 0.256 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| NCNO | 7.422% | offen | 0.134 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| TRU | 7.29% | offen | 0.101 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ZG | 7.243% | offen | 0.254 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| GPI | 7.107% | offen | 0.173 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| THO | 7.057% | offen | 0.191 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ABG | 7.045% | offen | 0.33 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| Z | 7.024% | offen | 0.276 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| LAD | 6.878% | offen | 0.197 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| EPAM | 6.813% | offen | 0.32 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| PATK | 6.658% | offen | 0.296 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| MMYT | 6.622% | offen | 0.172 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| RH | 6.456% | offen | 0.269 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| BRO | 6.451% | offen | 0.118 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| INTU | 6.417% | offen | 0.259 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| APPN | 9.844% | 2.239 | 0.426 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ERIC | 9.025% | 0.384 | 1.827 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| SAH | 8.686% | -0.615 | 0.313 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| PAG | 8.394% | -0.005 | 3.612 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| MMYT | 7.986% | 1.279 | 0.336 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ARQT | 7.8% | 0.105 | 0.33 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| THO | 7.553% | 0.464 | 0.36 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| BHC | 7.385% | 1.606 | 0.216 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| TRU | 7.365% | 0.07 | 0.179 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ZG | 7.311% | 0.064 | 0.32 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| GWRE | 7.252% | 2.438 | 0.35 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| Z | 7.201% | 0.165 | 0.417 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| MNDY | 6.928% | 1.316 | 0.283 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| LAD | 6.871% | -0.006 | 0.299 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| APPF | 6.863% | 1.422 | 0.453 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| COMP | 6.792% | 1.519 | 0.3 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| HUBS | 6.779% | -0.693 | 0.193 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| PATK | 6.745% | 0.081 | 0.636 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| POOL | 6.742% | 0.68 | 0.364 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ABG | 6.581% | -0.433 | 0.501 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 
 Kurse in Rohdaten mit Originalwährung und Zeitstempel. EUR-Umrechnung erst mit geprüftem Wechselkurs. Tagesänderung ist nicht die Reaktion seit einer Nachricht.
 
