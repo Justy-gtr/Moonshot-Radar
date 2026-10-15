@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-10-15T10:10:34.079261+00:00 · Status: **partial**
+Stand: 2026-10-15T10:55:05.801892+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -12,7 +12,7 @@ Stand: 2026-10-15T10:10:34.079261+00:00 · Status: **partial**
 | SEC 8-K | error | 0 | HTTPError: HTTP Error 403: Forbidden |
 | SEC 6-K | error | 0 | HTTPError: HTTP Error 403: Forbidden |
 | SEC Finanzierung | error | 0 | HTTPError: HTTP Error 403: Forbidden |
-| Yahoo Tagesgewinner | ok | 59 | keine erkannte; Vollständigkeit nicht garantiert |
+| Yahoo Tagesgewinner | ok | 58 | keine erkannte; Vollständigkeit nicht garantiert |
 
 ## Originalmeldungen · letzte 24 Stunden
 
@@ -25,22 +25,22 @@ Stand: 2026-10-15T10:10:34.079261+00:00 · Status: **partial**
 
 | Symbol | Tagesänderung | Seit vorherigem Scan | Tagesvolumen / Ø ganzer Tag | Status |
 |---|---:|---:|---:|---|
-| BSP | 41.204% | offen | 8.326 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| BSP | 41.204% | offen | 7.472 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | LQDA | 26.595% | offen | 7.217 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| DAO | 7.616% | offen | 1.169 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| DAO | 7.616% | offen | 1.161 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | NRIX | 6.959% | offen | 2.747 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | HALO | 6.568% | offen | 1.697 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | LEGN | 6.488% | offen | 1.477 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| USB-PP | 6.016% | offen | 1.834 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CHWY | 5.682% | offen | 1.049 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| WGS | 5.619% | offen | 1.337 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| OLLI | 5.423% | offen | 1.29 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| USB-PP | 6.016% | offen | 1.846 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CHWY | 5.682% | offen | 1.054 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| WGS | 5.619% | offen | 1.33 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| OLLI | 5.423% | offen | 1.285 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | BBWI | 5.278% | offen | 1.278 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ESLT | 5.049% | offen | 1.984 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ESLT | 5.049% | offen | 1.979 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | HRB | 4.997% | offen | 0.856 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | CHEF | 4.833% | offen | 1.148 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| GFS | 4.797% | offen | 3.223 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| PI | 4.766% | offen | 1.33 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| GFS | 4.797% | offen | 3.115 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| PI | 4.766% | offen | 1.323 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | ACHC | 4.763% | offen | 1.011 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | UNH | 4.728% | offen | 1.504 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | DLTR | 4.713% | offen | 0.807 | BEREITS GESTIEGEN / DATEN PRÜFEN |
