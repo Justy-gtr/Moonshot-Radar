@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-10-15T14:54:18.068725+00:00 · Status: **partial**
+Stand: 2026-10-15T15:38:47.242051+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -18,33 +18,31 @@ Stand: 2026-10-15T14:54:18.068725+00:00 · Status: **partial**
 
 - **ORIGINALMELDUNG PRÜFEN** · [FDA Launches the Rare Disease Framework Initiative to Develop a Holistic, Fit-For-Purpose Framework for Rare Disease Drug Development](http://www.fda.gov/news-events/press-announcements/fda-launches-rare-disease-framework-initiative-develop-holistic-fit-purpose-framework-rare-disease)
   Quelle: FDA · Feedzeit: 2026-10-14T15:50:52+00:00 · entdeckt: 2026-10-14T16:37:44.303108+00:00
-- **ORIGINALMELDUNG PRÜFEN** · [FDA Approves First Treatment for Certain People With BCG-Unresponsive Bladder Cancer](http://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-certain-people-bcg-unresponsive-bladder-cancer)
-  Quelle: FDA · Feedzeit: 2026-10-14T15:14:51+00:00 · entdeckt: 2026-10-14T15:58:15.662610+00:00
 
 ## Momentum-Beobachtungen · keine Handelssignale
 
 | Symbol | Tagesänderung | Seit vorherigem Scan | Tagesvolumen / Ø ganzer Tag | Status |
 |---|---:|---:|---:|---|
-| APPN | 9.844% | 2.239 | 0.426 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ERIC | 9.025% | 0.384 | 1.827 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| SAH | 8.686% | -0.615 | 0.313 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| PAG | 8.394% | -0.005 | 3.612 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| MMYT | 7.986% | 1.279 | 0.336 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ARQT | 7.8% | 0.105 | 0.33 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| THO | 7.553% | 0.464 | 0.36 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| BHC | 7.385% | 1.606 | 0.216 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| TRU | 7.365% | 0.07 | 0.179 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ZG | 7.311% | 0.064 | 0.32 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| GWRE | 7.252% | 2.438 | 0.35 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| Z | 7.201% | 0.165 | 0.417 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| MNDY | 6.928% | 1.316 | 0.283 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| LAD | 6.871% | -0.006 | 0.299 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| APPF | 6.863% | 1.422 | 0.453 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| COMP | 6.792% | 1.519 | 0.3 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| HUBS | 6.779% | -0.693 | 0.193 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| PATK | 6.745% | 0.081 | 0.636 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| POOL | 6.742% | 0.68 | 0.364 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ABG | 6.581% | -0.433 | 0.501 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| APPN | 10.689% | 0.77 | 0.624 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| KRMN | 9.92% | 4.084 | 0.507 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ERIC | 8.976% | -0.049 | 2.332 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ARQT | 8.974% | 1.089 | 0.541 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| PAG | 8.424% | 0.028 | 4.266 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| KD | 8.397% | 1.711 | 0.306 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| TRU | 8.246% | 0.821 | 0.326 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| MNDY | 8.197% | 1.187 | 0.414 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| MMYT | 8.191% | 0.18 | 0.443 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ETSY | 8.135% | 2.369 | 0.55 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| THO | 8.034% | 0.447 | 0.497 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| SAH | 8.027% | -0.607 | 0.378 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| POOL | 7.823% | 1.013 | 0.539 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| MAAS | 7.802% | offen | 0.098 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| Z | 7.759% | 0.52 | 0.532 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ZG | 7.697% | 0.359 | 0.387 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| IP | 7.601% | 1.448 | 0.748 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| BSP | 7.258% | 1.67 | 1.518 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| APPF | 7.154% | 0.272 | 0.573 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CRCL | 7.002% | offen | 0.593 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 
 Kurse in Rohdaten mit Originalwährung und Zeitstempel. EUR-Umrechnung erst mit geprüftem Wechselkurs. Tagesänderung ist nicht die Reaktion seit einer Nachricht.
 
