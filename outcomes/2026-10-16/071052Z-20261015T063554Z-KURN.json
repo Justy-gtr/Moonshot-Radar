@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "outcome_id": "20261016T071052Z-20261015T063554Z-KURN",
+  "signal_id": "20261015T063554Z-KURN",
+  "evaluated_utc": "2026-10-16T07:10:52Z",
+  "company": "Kuros Biosciences AG",
+  "ticker": "KURN",
+  "isin": "CH0325814116",
+  "exchange": "SIX Swiss Exchange",
+  "exchange_mic": "XSWX",
+  "measurement": {
+    "start_utc": "2026-10-15T07:00:00Z",
+    "start_price": 20,
+    "currency": "CHF",
+    "start_price_type": "regular_session_open",
+    "scheduled_end_utc": "2026-10-16T07:00:00Z",
+    "target_touch_pct": 5,
+    "target_price": 21
+  },
+  "observed_data": {
+    "first_session_high": 20.74,
+    "first_session_low": 18.07,
+    "first_session_close": 18.49,
+    "first_session_date": "2026-10-15",
+    "maximum_observed_gain_pct": 3.7,
+    "maximum_observed_drawdown_pct": -9.65,
+    "close_return_pct": -7.55,
+    "exact_boundary_price": null,
+    "exact_boundary_price_utc": "2026-10-16T07:00:00Z"
+  },
+  "result": {
+    "primary_target_touch": null,
+    "end_return_pct": null,
+    "maximum_drawdown_before_first_target_pct": null,
+    "time_to_target_seconds": null,
+    "status": "not_evaluable",
+    "reason": "The +5% target was not reached during the fully verified 2026-10-15 regular session, but no source available at evaluation time supplied an unambiguous executable trade exactly at the 2026-10-16 07:00:00Z window boundary. Therefore neither a definitive miss nor an end return is asserted."
+  },
+  "evidence": [
+    {
+      "url": "https://stockanalysis.com/quote/swx/KURN/history/",
+      "type": "daily_ohlcv",
+      "as_of": "2026-10-15",
+      "note": "Reports open CHF 20.00, high CHF 20.74, low CHF 18.07, close CHF 18.49 and volume 641,585."
+    },
+    {
+      "url": "https://www.investing.com/equities/cytos-biotechnology-historical-data",
+      "type": "daily_ohlcv_cross_check",
+      "as_of": "2026-10-15",
+      "note": "Cross-checks the CHF 20.00 open and a sub-CHF 21.00 verified session high; live/boundary snippets were inconsistent and were not used for the final boundary price."
+    },
+    {
+      "url": "https://www.six-group.com/en/products-services/the-swiss-stock-exchange/trading/trading-provisions/trading-hours.html",
+      "type": "exchange_calendar",
+      "note": "SIX shares regular opening time basis."
+    }
+  ],
+  "data_quality": {
+    "start_price_confidence": "high",
+    "intraday_ohlcv_confidence": "high",
+    "exact_end_price_confidence": "missing",
+    "sequence_within_ohlcv": "not_available",
+    "notes": [
+      "Daily OHLC does not establish the intraday order of high and low.",
+      "No derivative outcome or leveraged product survivability is inferred."
+    ]
+  }
+}
