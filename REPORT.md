@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-10-16T20:51:42.071506+00:00 · Status: **partial**
+Stand: 2026-10-16T21:17:11.001150+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -22,8 +22,8 @@ Keine zeitlich zuordenbaren Meldungen im erfassten Fenster. Quellenstatus beacht
 
 | Symbol | Tagesänderung | Seit vorherigem Scan | Tagesvolumen / Ø ganzer Tag | Status |
 |---|---:|---:|---:|---|
-| CRGY | 10.072% | offen | 3.111 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| PAYP | 6.994% | offen | 1.523 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CRGY | 10.072% | offen | 3.112 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| PAYP | 6.994% | offen | 1.526 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | MTDR | 6.974% | offen | 1.028 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | AR | 6.065% | offen | 1.291 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | NOG | 5.476% | offen | 0.751 | BEREITS GESTIEGEN / DATEN PRÜFEN |
@@ -37,9 +37,9 @@ Keine zeitlich zuordenbaren Meldungen im erfassten Fenster. Quellenstatus beacht
 | TRGP | 4.371% | offen | 0.945 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | VET | 4.348% | offen | 0.838 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | RRC | 4.346% | offen | 0.908 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| FANG | 4.269% | offen | 1.043 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| EOG | 4.228% | offen | 1.757 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| KMI | 4.205% | offen | 1.462 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| FANG | 4.269% | offen | 1.076 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| EOG | 4.228% | offen | 1.76 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| KMI | 4.205% | offen | 1.465 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | CHRD | 4.2% | offen | 1.136 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | PR | 4.151% | offen | 0.907 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 
