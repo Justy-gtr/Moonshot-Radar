@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-10-16T08:09:18.427487+00:00 · Status: **partial**
+Stand: 2026-10-16T08:56:51.078145+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
