@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-10-16T13:26:14.919836+00:00 · Status: **partial**
+Stand: 2026-10-16T14:11:23.936355+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -12,7 +12,7 @@ Stand: 2026-10-16T13:26:14.919836+00:00 · Status: **partial**
 | SEC 8-K | error | 0 | HTTPError: HTTP Error 403: Forbidden |
 | SEC 6-K | error | 0 | HTTPError: HTTP Error 403: Forbidden |
 | SEC Finanzierung | error | 0 | HTTPError: HTTP Error 403: Forbidden |
-| Yahoo Tagesgewinner | ok | 100 | keine erkannte; Vollständigkeit nicht garantiert |
+| Yahoo Tagesgewinner | ok | 21 | keine erkannte; Vollständigkeit nicht garantiert |
 
 ## Originalmeldungen · letzte 24 Stunden
 
@@ -22,26 +22,26 @@ Keine zeitlich zuordenbaren Meldungen im erfassten Fenster. Quellenstatus beacht
 
 | Symbol | Tagesänderung | Seit vorherigem Scan | Tagesvolumen / Ø ganzer Tag | Status |
 |---|---:|---:|---:|---|
-| RGC | 17.386% | offen | 8.55 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| APPN | 13.966% | offen | 1.511 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| KRMN | 12.475% | offen | 1.47 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| KD | 11.874% | offen | 1.285 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ERIC | 11.795% | offen | 3.999 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| Z | 11.048% | offen | 3.238 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ZG | 10.796% | offen | 1.179 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| TRU | 10.726% | offen | 1.847 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| FIGR | 10.459% | offen | 1.15 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| INTA | 10.316% | offen | 1.378 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ARQT | 10.185% | offen | 1.715 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| COMP | 9.817% | offen | 1.352 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| SIG | 9.448% | offen | 2.065 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| WULF | 9.359% | offen | 3.385 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CRCL | 9.327% | offen | 1.209 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| IONQ | 9.325% | offen | 2.154 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| WIX | 9.199% | offen | 0.606 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| SMG | 9.111% | offen | 1.532 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| UPST | 8.839% | offen | 1.419 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| PAG | 8.835% | offen | 6.744 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| AA | 6.964% | offen | 0.686 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| KRMN | 6.49% | offen | 0.193 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| PAYP | 5.698% | offen | 0.226 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| INDB | 4.923% | offen | 0.157 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CENX | 4.576% | offen | 0.098 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| FMX | 4.405% | offen | 0.223 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| DKS | 3.98% | offen | 0.155 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CAVA | 3.773% | offen | 0.208 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| OII | 3.763% | offen | 0.116 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CRGY | 3.717% | offen | 0.198 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| SHO | 3.665% | offen | 0.144 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| HONA | 3.501% | offen | 0.103 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| HST | 3.417% | offen | 0.196 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| PLBL | 3.321% | offen | 0.13 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| GEF | 3.311% | offen | 0.193 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CELH | 3.249% | offen | 0.098 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| PK | 3.181% | offen | 0.162 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| KMX | 3.145% | offen | 0.08 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| FDXF | 2.756% | offen | 0.072 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| IDXX | 2.676% | offen | 0.183 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 
 Kurse in Rohdaten mit Originalwährung und Zeitstempel. EUR-Umrechnung erst mit geprüftem Wechselkurs. Tagesänderung ist nicht die Reaktion seit einer Nachricht.
 
