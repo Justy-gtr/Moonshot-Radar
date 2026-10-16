@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-10-16T00:04:38.987432+00:00 · Status: **partial**
+Stand: 2026-10-16T00:46:00.630117+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -32,7 +32,7 @@ Keine zeitlich zuordenbaren Meldungen im erfassten Fenster. Quellenstatus beacht
 | TRU | 10.726% | offen | 1.881 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | FIGR | 10.459% | offen | 1.16 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | INTA | 10.316% | offen | 1.379 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ARQT | 10.186% | offen | 1.741 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ARQT | 10.185% | offen | 1.741 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | COMP | 9.817% | offen | 1.361 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | SIG | 9.448% | offen | 2.097 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | WULF | 9.359% | offen | 3.505 | BEREITS GESTIEGEN / DATEN PRÜFEN |
