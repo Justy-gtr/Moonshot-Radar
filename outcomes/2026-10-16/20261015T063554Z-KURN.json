@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "outcome_id": "outcome-20261015T063554Z-KURN",
+  "signal_id": "20261015T063554Z-KURN",
+  "evaluated_utc": "2026-10-16T08:31:30Z",
+  "instrument": {
+    "company": "Kuros Biosciences AG",
+    "ticker": "KURN",
+    "isin": "CH0325814116",
+    "exchange": "SIX Swiss Exchange",
+    "currency": "CHF"
+  },
+  "measurement": {
+    "prescribed_start": "first_verified_executable_regular_session_trade_on_or_after_2026-10-15T07:00:00Z",
+    "start_utc": "2026-10-15T07:00:00Z",
+    "start_price": 20,
+    "end_utc": "2026-10-16T07:00:00Z",
+    "end_price": 18.6,
+    "target_touch_pct": 5,
+    "target_price": 21,
+    "observed_high": 20.74,
+    "observed_low_before_window_end": 18.07,
+    "target_touched": false,
+    "result": "miss",
+    "end_return_pct": -7,
+    "max_drawdown_before_target_or_window_end_pct": -9.65,
+    "time_to_target": null,
+    "ordering_note": "Daily OHLC does not establish intraday sequencing, but the recorded high of CHF 20.74 was below the CHF 21.00 target, so target non-attainment is unambiguous."
+  },
+  "evidence": [
+    {
+      "url": "https://stockanalysis.com/quote/swx/KURN/history/",
+      "type": "daily_OHLC_history",
+      "observed_values": "2026-10-15 open 20.00, high 20.74, low 18.07, close 18.49"
+    },
+    {
+      "url": "https://www.investing.com/equities/cytos-biotechnology-historical-data",
+      "type": "daily_OHLC_history",
+      "observed_values": "2026-10-16 open 18.60; 2026-10-15 high 20.74 and low 18.07"
+    }
+  ],
+  "data_quality": "Daily exchange-session OHLC from two public aggregators; no tick-level sequence. Start and end use the respective session opens fixed by the signal rule.",
+  "leverage_assessment": "not_assessed",
+  "status": "closed"
+}
