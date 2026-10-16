@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-10-16T03:33:39.101232+00:00 · Status: **partial**
+Stand: 2026-10-16T04:07:38.652285+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -26,7 +26,7 @@ Keine zeitlich zuordenbaren Meldungen im erfassten Fenster. Quellenstatus beacht
 | APPN | 13.966% | offen | 1.523 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | KRMN | 12.475% | offen | 1.481 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | KD | 11.874% | offen | 1.291 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ERIC | 11.795% | offen | 3.999 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ERIC | 11.795% | offen | 3.933 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | Z | 11.048% | offen | 3.357 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | ZG | 10.796% | offen | 1.179 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | TRU | 10.726% | offen | 1.872 | BEREITS GESTIEGEN / DATEN PRÜFEN |
@@ -36,9 +36,9 @@ Keine zeitlich zuordenbaren Meldungen im erfassten Fenster. Quellenstatus beacht
 | COMP | 9.817% | offen | 1.36 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | SIG | 9.448% | offen | 2.065 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | WULF | 9.359% | offen | 3.385 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CRCL | 9.327% | offen | 1.213 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CRCL | 9.327% | offen | 1.218 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | IONQ | 9.325% | offen | 2.194 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| WIX | 9.199% | offen | 0.602 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| WIX | 9.199% | offen | 0.603 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | SMG | 9.111% | offen | 1.513 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | UPST | 8.839% | offen | 1.429 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | PAG | 8.835% | offen | 6.744 | BEREITS GESTIEGEN / DATEN PRÜFEN |
