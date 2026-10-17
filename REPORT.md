@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-10-17T11:08:22.321019+00:00 · Status: **partial**
+Stand: 2026-10-17T11:45:21.318418+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -28,7 +28,7 @@ Keine zeitlich zuordenbaren Meldungen im erfassten Fenster. Quellenstatus beacht
 | AR | 6.065% | offen | 1.291 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | NOG | 5.476% | offen | 0.757 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | SM | 5.277% | offen | 0.759 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| OVV | 4.839% | offen | 1.048 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| OVV | 4.839% | offen | 1.053 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | MUR | 4.743% | offen | 0.909 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | TALO | 4.653% | offen | 2.672 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | EQNR | 4.586% | offen | 1.242 | BEREITS GESTIEGEN / DATEN PRÜFEN |
