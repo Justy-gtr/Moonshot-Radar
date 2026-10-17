@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "outcome_id": "20261017T062232Z-20261015T063554Z-KURN-final",
+  "supersedes_outcome_id": "20261016T071052Z-20261015T063554Z-KURN",
+  "supersedes_path": "outcomes/2026-10-16/071052Z-20261015T063554Z-KURN.json",
+  "signal_id": "20261015T063554Z-KURN",
+  "evaluated_utc": "2026-10-17T06:22:32Z",
+  "company": "Kuros Biosciences AG",
+  "ticker": "KURN",
+  "isin": "CH0325814116",
+  "exchange": "SIX Swiss Exchange",
+  "exchange_mic": "XSWX",
+  "measurement": {
+    "start_utc": "2026-10-15T07:00:00Z",
+    "start_local": "2026-10-15T09:00:00+02:00",
+    "start_price": 20,
+    "currency": "CHF",
+    "start_price_type": "regular_session_open",
+    "scheduled_end_utc": "2026-10-16T07:00:00Z",
+    "scheduled_end_local": "2026-10-16T09:00:00+02:00",
+    "target_touch_pct": 5,
+    "target_price": 21
+  },
+  "observed_data": {
+    "first_session_date": "2026-10-15",
+    "first_session_high": 20.74,
+    "first_session_low": 18.07,
+    "first_session_close": 18.49,
+    "boundary_session_date": "2026-10-16",
+    "boundary_session_open": 18.6,
+    "maximum_observed_price_within_window": 20.74,
+    "minimum_observed_price_within_window": 18.07,
+    "maximum_observed_gain_pct": 3.7,
+    "maximum_observed_drawdown_pct": -9.65,
+    "end_price": 18.6,
+    "end_price_type": "regular_session_open",
+    "end_return_pct": -7
+  },
+  "result": {
+    "primary_target_touch": false,
+    "end_return_pct": -7,
+    "maximum_drawdown_before_first_target_pct": null,
+    "maximum_observed_drawdown_pct": -9.65,
+    "time_to_target_seconds": null,
+    "status": "miss",
+    "reason": "The highest verified tradable price in the fixed window was CHF 20.74, below the CHF 21.00 target. The next regular session opened at CHF 18.60 exactly at the scheduled 09:00 Europe/Zurich boundary, yielding a -7.00% end return. Because the target was never touched, drawdown before first target is not applicable."
+  },
+  "evidence": [
+    {
+      "url": "https://stockanalysis.com/quote/swx/KURN/history/",
+      "type": "daily_ohlcv",
+      "as_of": "2026-10-16",
+      "note": "Reports 2026-10-15 open CHF 20.00, high CHF 20.74, low CHF 18.07, close CHF 18.49; and 2026-10-16 open CHF 18.60, high CHF 18.72, low CHF 16.72, close CHF 16.80."
+    },
+    {
+      "url": "https://www.six-group.com/en/market-data/shares/share-explorer/share-details.CH0325814116CHF4.html",
+      "type": "official_exchange_market_data_cross_check",
+      "as_of": "2026-10-16",
+      "note": "SIX cross-checks the 2026-10-16 CHF 18.60 open and subsequent session high/low."
+    },
+    {
+      "url": "https://www.six-group.com/en/products-services/the-swiss-stock-exchange/trading/trading-provisions/trading-hours.html",
+      "type": "exchange_calendar",
+      "note": "SIX shares regular-session opening-time basis."
+    }
+  ],
+  "data_quality": {
+    "start_price_confidence": "high",
+    "target_touch_confidence": "high",
+    "exact_end_price_confidence": "high",
+    "sequence_within_ohlcv": "not_available",
+    "notes": [
+      "Daily OHLC does not establish the intraday order of the high and low, but this does not affect the miss because the verified maximum stayed below the fixed target.",
+      "The maximum observed drawdown uses the lowest verified price in the window; its exact timestamp is not claimed.",
+      "No derivative outcome, spread, costs or leveraged-product survivability is inferred."
+    ]
+  }
+}
