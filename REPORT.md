@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-10-17T01:21:18.683595+00:00 · Status: **partial**
+Stand: 2026-10-17T01:53:17.347034+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -12,7 +12,7 @@ Stand: 2026-10-17T01:21:18.683595+00:00 · Status: **partial**
 | SEC 8-K | error | 0 | HTTPError: HTTP Error 403: Forbidden |
 | SEC 6-K | error | 0 | HTTPError: HTTP Error 403: Forbidden |
 | SEC Finanzierung | error | 0 | HTTPError: HTTP Error 403: Forbidden |
-| Yahoo Tagesgewinner | ok | 55 | keine erkannte; Vollständigkeit nicht garantiert |
+| Yahoo Tagesgewinner | ok | 56 | keine erkannte; Vollständigkeit nicht garantiert |
 
 ## Originalmeldungen · letzte 24 Stunden
 
@@ -22,19 +22,19 @@ Keine zeitlich zuordenbaren Meldungen im erfassten Fenster. Quellenstatus beacht
 
 | Symbol | Tagesänderung | Seit vorherigem Scan | Tagesvolumen / Ø ganzer Tag | Status |
 |---|---:|---:|---:|---|
-| CRGY | 10.072% | offen | 3.112 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| PAYP | 6.994% | offen | 1.526 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| MTDR | 6.974% | offen | 1.028 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| AR | 6.065% | offen | 1.291 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CRGY | 10.072% | offen | 3.108 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| PAYP | 6.994% | offen | 1.528 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| MTDR | 6.974% | offen | 1.025 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| AR | 6.065% | offen | 1.297 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | NOG | 5.476% | offen | 0.751 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | SM | 5.277% | offen | 0.76 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | OVV | 4.839% | offen | 1.048 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | MUR | 4.743% | offen | 0.91 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | TALO | 4.653% | offen | 2.75 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| EQNR | 4.586% | offen | 1.241 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| EQNR | 4.586% | offen | 1.247 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | FMX | 4.521% | offen | 3.408 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | DNOW | 4.394% | offen | 1.793 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| TRGP | 4.371% | offen | 0.945 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| TRGP | 4.371% | offen | 0.944 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | VET | 4.348% | offen | 0.838 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | RRC | 4.346% | offen | 0.908 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | FANG | 4.269% | offen | 1.076 | BEREITS GESTIEGEN / DATEN PRÜFEN |
