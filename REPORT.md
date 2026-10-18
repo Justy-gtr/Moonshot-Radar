@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-10-18T17:11:01.617714+00:00 · Status: **partial**
+Stand: 2026-10-18T17:43:59.138959+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -12,7 +12,7 @@ Stand: 2026-10-18T17:11:01.617714+00:00 · Status: **partial**
 | SEC 8-K | error | 0 | HTTPError: HTTP Error 403: Forbidden |
 | SEC 6-K | error | 0 | HTTPError: HTTP Error 403: Forbidden |
 | SEC Finanzierung | error | 0 | HTTPError: HTTP Error 403: Forbidden |
-| Yahoo Tagesgewinner | ok | 55 | keine erkannte; Vollständigkeit nicht garantiert |
+| Yahoo Tagesgewinner | ok | 56 | keine erkannte; Vollständigkeit nicht garantiert |
 
 ## Originalmeldungen · letzte 24 Stunden
 
@@ -40,7 +40,7 @@ Keine zeitlich zuordenbaren Meldungen im erfassten Fenster. Quellenstatus beacht
 | FANG | 4.269% | offen | 1.072 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | EOG | 4.228% | offen | 1.751 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | KMI | 4.205% | offen | 1.449 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CHRD | 4.2% | offen | 1.132 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CHRD | 4.2% | offen | 1.133 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | PR | 4.151% | offen | 0.905 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 
 Kurse in Rohdaten mit Originalwährung und Zeitstempel. EUR-Umrechnung erst mit geprüftem Wechselkurs. Tagesänderung ist nicht die Reaktion seit einer Nachricht.
