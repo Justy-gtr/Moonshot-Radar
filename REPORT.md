@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-10-19T16:57:31.545532+00:00 · Status: **partial**
+Stand: 2026-10-19T17:33:45.979526+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -16,32 +16,33 @@ Stand: 2026-10-19T16:57:31.545532+00:00 · Status: **partial**
 
 ## Originalmeldungen · letzte 24 Stunden
 
-Keine zeitlich zuordenbaren Meldungen im erfassten Fenster. Quellenstatus beachten.
+- **ORIGINALMELDUNG PRÜFEN** · [FDA Approves Immunotherapy That May Allow Certain Patients with Rectal Cancer to Avoid Chemotherapy, Radiation and Surgery](http://www.fda.gov/news-events/press-announcements/fda-approves-immunotherapy-may-allow-certain-patients-rectal-cancer-avoid-chemotherapy-radiation-and)
+  Quelle: FDA · Feedzeit: 2026-10-19T16:19:38+00:00 · entdeckt: 2026-10-19T17:33:45.979526+00:00
 
 ## Momentum-Beobachtungen · keine Handelssignale
 
 | Symbol | Tagesänderung | Seit vorherigem Scan | Tagesvolumen / Ø ganzer Tag | Status |
 |---|---:|---:|---:|---|
-| IRON | 39.444% | 2.722 | 12.88 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CLF | 16.543% | 0.893 | 2.655 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| AXTI | 13.153% | -1.655 | 0.839 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| PBLS | 12.967% | -1.287 | 1.173 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ARQT | 11.805% | 1.849 | 1.059 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| MANE | 10.274% | 1.428 | 1.077 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| MXL | 10.188% | -1.712 | 0.732 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| XERS | 9.748% | 0.668 | 1.083 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| APLD | 8.795% | -0.921 | 1.057 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| DXC | 8.737% | 1.633 | 1.674 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| FROG | 8.635% | 0.055 | 0.375 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| VRDN | 8.092% | 1.882 | 0.537 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| AGIO | 8.046% | offen | 0.438 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| PRAX | 7.613% | 1.078 | 0.634 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| FORM | 7.59% | -1.113 | 0.541 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CLDX | 7.428% | 1.772 | 0.486 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| RGC | 7.351% | 2.54 | 2.768 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| SMMT | 7.314% | 0.031 | 0.506 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| SYRE | 7.09% | 1.609 | 0.45 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ACMR | 7.062% | -1.336 | 0.453 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| IRON | 37.438% | -1.438 | 13.357 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CLF | 15.8% | -0.637 | 2.941 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| PBLS | 12.349% | -0.545 | 1.278 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ARQT | 12.266% | 0.419 | 1.197 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| AXTI | 11.968% | -1.047 | 0.89 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| MANE | 10.66% | 0.35 | 1.122 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| MXL | 9.871% | -0.288 | 0.767 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| XERS | 9.36% | -0.354 | 1.186 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| AGIO | 9.323% | 1.182 | 0.513 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| APLD | 9.058% | 0.242 | 1.154 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| FROG | 9.05% | 0.382 | 0.455 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| DXC | 8.774% | 0.034 | 3.396 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| VRDN | 8.671% | 0.535 | 0.66 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| SLGN | 8.082% | 1.264 | 0.733 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CLDX | 7.973% | 0.507 | 0.536 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| PRAX | 7.706% | 0.086 | 0.776 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| SYRE | 7.434% | 0.321 | 0.474 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| SMMT | 7.04% | -0.255 | 0.54 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| COHU | 6.977% | -0.028 | 0.388 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| RGC | 6.778% | -0.534 | 2.992 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 
 Kurse in Rohdaten mit Originalwährung und Zeitstempel. EUR-Umrechnung erst mit geprüftem Wechselkurs. Tagesänderung ist nicht die Reaktion seit einer Nachricht.
 
