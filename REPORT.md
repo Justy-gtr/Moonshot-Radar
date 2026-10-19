@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-10-19T20:35:03.902412+00:00 · Status: **partial**
+Stand: 2026-10-19T21:05:47.758134+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -23,26 +23,26 @@ Stand: 2026-10-19T20:35:03.902412+00:00 · Status: **partial**
 
 | Symbol | Tagesänderung | Seit vorherigem Scan | Tagesvolumen / Ø ganzer Tag | Status |
 |---|---:|---:|---:|---|
-| IRON | 38.863% | offen | 17.139 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CLF | 16.337% | offen | 4.677 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| MANE | 12.369% | offen | 1.887 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| IRON | 38.863% | offen | 17.166 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CLF | 16.337% | offen | 4.686 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| MANE | 12.369% | offen | 1.888 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | AGIO | 11.43% | offen | 1.783 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| PBLS | 11.429% | offen | 2.879 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ARQT | 10.652% | offen | 2.52 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| AXTI | 10.336% | offen | 1.345 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| PBLS | 11.429% | offen | 2.905 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ARQT | 10.652% | offen | 2.522 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| AXTI | 10.336% | offen | 1.351 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | VRDN | 9.301% | offen | 1.448 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| MXL | 8.118% | offen | 1.295 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| FROG | 7.935% | offen | 1.062 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CLDX | 7.773% | offen | 1.214 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| PRAX | 7.615% | offen | 1.693 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| PHVS | 7.318% | offen | 1.221 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| MXL | 8.118% | offen | 1.299 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| FROG | 7.935% | offen | 1.078 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CLDX | 7.773% | offen | 1.269 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| PRAX | 7.615% | offen | 1.793 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| PHVS | 7.318% | offen | 1.224 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | WRBY | 7.069% | offen | 1.523 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | PLSE | 7.022% | offen | 0.659 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | DYN | 6.877% | offen | 1.132 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | TNGX | 6.76% | offen | 0.668 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| APLD | 6.648% | offen | 1.819 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| APLD | 6.648% | offen | 1.827 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | KOD | 6.531% | offen | 0.631 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| SMMT | 6.425% | offen | 1.019 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| SMMT | 6.425% | offen | 1.02 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 
 Kurse in Rohdaten mit Originalwährung und Zeitstempel. EUR-Umrechnung erst mit geprüftem Wechselkurs. Tagesänderung ist nicht die Reaktion seit einer Nachricht.
 
