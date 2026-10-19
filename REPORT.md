@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-10-19T23:15:34.059973+00:00 · Status: **partial**
+Stand: 2026-10-19T23:50:09.248722+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -23,7 +23,7 @@ Stand: 2026-10-19T23:15:34.059973+00:00 · Status: **partial**
 
 | Symbol | Tagesänderung | Seit vorherigem Scan | Tagesvolumen / Ø ganzer Tag | Status |
 |---|---:|---:|---:|---|
-| IRON | 38.863% | offen | 17.166 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| IRON | 38.864% | offen | 17.166 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | CLF | 16.337% | offen | 4.686 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | MANE | 12.369% | offen | 1.888 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | AGIO | 11.43% | offen | 1.783 | BEREITS GESTIEGEN / DATEN PRÜFEN |
