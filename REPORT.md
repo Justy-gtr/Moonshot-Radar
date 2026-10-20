@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-10-20T15:54:51.461535+00:00 · Status: **partial**
+Stand: 2026-10-20T16:35:37.304046+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -16,35 +16,35 @@ Stand: 2026-10-20T15:54:51.461535+00:00 · Status: **partial**
 
 ## Originalmeldungen · letzte 24 Stunden
 
+- **ORIGINALMELDUNG PRÜFEN** · [FDA Approves Once-Weekly Generic Hormone Therapy Patch for Women](http://www.fda.gov/news-events/press-announcements/fda-approves-once-weekly-generic-hormone-therapy-patch-women)
+  Quelle: FDA · Feedzeit: 2026-10-20T15:57:36+00:00 · entdeckt: 2026-10-20T16:35:37.304046+00:00
 - **ORIGINALMELDUNG PRÜFEN** · [FDA Issues Final Guidance on Prescription Drug Apps and Software](http://www.fda.gov/news-events/press-announcements/fda-issues-final-guidance-prescription-drug-apps-and-software)
   Quelle: FDA · Feedzeit: 2026-10-20T13:03:14+00:00 · entdeckt: 2026-10-20T15:14:08.554123+00:00
-- **ORIGINALMELDUNG PRÜFEN** · [FDA Approves Immunotherapy That May Allow Certain Patients with Rectal Cancer to Avoid Chemotherapy, Radiation and Surgery](http://www.fda.gov/news-events/press-announcements/fda-approves-immunotherapy-may-allow-certain-patients-rectal-cancer-avoid-chemotherapy-radiation-and)
-  Quelle: FDA · Feedzeit: 2026-10-19T16:19:38+00:00 · entdeckt: 2026-10-19T17:33:45.979526+00:00
 
 ## Momentum-Beobachtungen · keine Handelssignale
 
 | Symbol | Tagesänderung | Seit vorherigem Scan | Tagesvolumen / Ø ganzer Tag | Status |
 |---|---:|---:|---:|---|
-| BRZE | 51.115% | 0.265 | 20.106 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| EFX | 11.323% | -0.476 | 1.004 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| SLS | 9.965% | 1.098 | 0.607 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| TLK | 9.809% | 0.218 | 2.746 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| RCUS | 9.801% | 0.082 | 2.635 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| KVYO | 9.675% | 0.523 | 0.953 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| HSAI | 8.901% | 1.078 | 1.1 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| SYRE | 8.54% | -0.054 | 0.453 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| PONY | 8.383% | 1.781 | 0.42 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ERAS | 7.93% | 0.0 | 0.339 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| DOCS | 7.822% | 0.415 | 0.338 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CELC | 7.799% | 1.844 | 0.355 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| IMNM | 7.573% | 1.178 | 0.609 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| PLSE | 7.55% | 0.235 | 0.208 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| XPEV | 7.547% | -0.202 | 1.089 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| RLAY | 7.461% | 0.99 | 0.198 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| HTFL | 7.262% | 0.764 | 0.503 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| TRU | 7.248% | -0.019 | 0.564 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| VRDN | 7.048% | 0.952 | 0.377 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| MNDY | 7.017% | 0.786 | 0.445 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| BRZE | 51.615% | 0.33 | 21.601 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| TLK | 11.005% | 1.089 | 2.962 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| KVYO | 9.903% | 0.208 | 1.051 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| SLS | 9.819% | -0.133 | 0.691 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| EFX | 9.762% | -1.402 | 1.194 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| HSAI | 9.017% | 0.107 | 1.191 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| PONY | 8.982% | 0.552 | 0.505 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| HTFL | 8.644% | 1.288 | 0.607 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| PLSE | 8.538% | 0.919 | 0.268 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| EQPT | 8.459% | 1.544 | 0.442 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| RCUS | 8.446% | -1.234 | 2.835 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| IMNM | 8.11% | 0.499 | 0.787 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| SYRE | 8.044% | -0.457 | 0.504 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| SRPT | 7.84% | offen | 0.334 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ERAS | 7.783% | -0.136 | 0.368 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| XPEV | 7.763% | 0.202 | 1.259 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| DOCS | 7.615% | -0.192 | 0.426 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| RVMD | 7.321% | 0.403 | 0.687 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| TEM | 7.029% | 1.567 | 0.295 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| DYN | 7.026% | 0.123 | 0.383 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 
 Kurse in Rohdaten mit Originalwährung und Zeitstempel. EUR-Umrechnung erst mit geprüftem Wechselkurs. Tagesänderung ist nicht die Reaktion seit einer Nachricht.
 
