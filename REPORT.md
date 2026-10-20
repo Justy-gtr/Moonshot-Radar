@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-10-20T13:07:43.191160+00:00 · Status: **partial**
+Stand: 2026-10-20T13:59:27.396522+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -23,26 +23,26 @@ Stand: 2026-10-20T13:07:43.191160+00:00 · Status: **partial**
 
 | Symbol | Tagesänderung | Seit vorherigem Scan | Tagesvolumen / Ø ganzer Tag | Status |
 |---|---:|---:|---:|---|
-| IRON | 38.864% | offen | 13.64 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CLF | 16.337% | offen | 4.455 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| MANE | 12.369% | offen | 1.854 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| AGIO | 11.43% | offen | 1.75 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| PBLS | 11.429% | offen | 2.815 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ARQT | 10.652% | offen | 2.447 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| AXTI | 10.336% | offen | 1.337 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| VRDN | 9.301% | offen | 1.443 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| MXL | 8.118% | offen | 1.302 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| FROG | 7.935% | offen | 1.075 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CLDX | 7.773% | offen | 1.252 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| PRAX | 7.615% | offen | 1.754 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| PHVS | 7.318% | offen | 1.207 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| WRBY | 7.069% | offen | 1.52 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| PLSE | 7.022% | offen | 0.658 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| DYN | 6.877% | offen | 1.127 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| TNGX | 6.76% | offen | 0.666 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| APLD | 6.648% | offen | 1.809 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| KOD | 6.531% | offen | 0.628 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| SMMT | 6.425% | offen | 1.011 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| BRZE | 50.849% | offen | 8.755 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| EFX | 10.618% | offen | 0.388 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| KVYO | 10.537% | offen | 0.555 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| TLK | 8.527% | offen | 1.846 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| NOC | 6.982% | offen | 0.601 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| HSAI | 6.767% | offen | 0.466 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| QTWO | 6.713% | offen | 0.064 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| RCUS | 6.095% | offen | 1.198 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| HAS | 6.021% | offen | 1.224 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| FIVN | 5.975% | offen | 0.125 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| RH | 5.953% | offen | 0.155 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| TRU | 5.882% | offen | 0.129 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| GWRE | 5.835% | offen | 0.09 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| MNDY | 5.834% | offen | 0.153 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| HUBS | 5.778% | offen | 0.09 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| DOCS | 5.723% | offen | 0.089 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ASAN | 5.362% | offen | 0.064 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| NCNO | 5.16% | offen | 0.035 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| MSCI | 5.145% | offen | 0.288 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| MMM | 5.117% | offen | 0.483 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 
 Kurse in Rohdaten mit Originalwährung und Zeitstempel. EUR-Umrechnung erst mit geprüftem Wechselkurs. Tagesänderung ist nicht die Reaktion seit einer Nachricht.
 
