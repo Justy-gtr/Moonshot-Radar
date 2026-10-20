@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-10-20T20:53:47.343381+00:00 · Status: **partial**
+Stand: 2026-10-20T21:34:30.021010+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -27,26 +27,26 @@ Stand: 2026-10-20T20:53:47.343381+00:00 · Status: **partial**
 
 | Symbol | Tagesänderung | Seit vorherigem Scan | Tagesvolumen / Ø ganzer Tag | Status |
 |---|---:|---:|---:|---|
-| BRZE | 51.698% | offen | 26.394 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| LION | 14.407% | offen | 5.5 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| SLS | 14.204% | offen | 1.573 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| KVYO | 11.929% | offen | 2.084 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| EQPT | 11.828% | offen | 1.392 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| BRZE | 51.698% | offen | 26.399 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| LION | 14.407% | offen | 5.504 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| SLS | 14.204% | offen | 1.577 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| KVYO | 11.929% | offen | 2.085 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| EQPT | 11.828% | offen | 1.393 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | TLK | 11.388% | offen | 5.403 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| EFX | 11.332% | offen | 2.424 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| HAS | 11.199% | offen | 4.349 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| NESR | 11.117% | offen | 2.693 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| SPHR | 9.671% | offen | 1.786 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| HTFL | 8.957% | offen | 1.58 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| BB | 8.701% | offen | 1.14 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| EFX | 11.332% | offen | 2.426 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| HAS | 11.199% | offen | 4.358 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| NESR | 11.117% | offen | 2.705 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| SPHR | 9.671% | offen | 1.883 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| HTFL | 8.957% | offen | 1.582 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| BB | 8.701% | offen | 1.144 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | HSAI | 8.282% | offen | 1.891 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| SRPT | 8.122% | offen | 0.987 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| MNDY | 7.964% | offen | 1.229 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| SRPT | 8.122% | offen | 1.074 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| MNDY | 7.964% | offen | 1.231 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | RLAY | 7.958% | offen | 0.713 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| RVMD | 7.906% | offen | 1.388 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| SYRE | 7.885% | offen | 1.245 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| RVMD | 7.906% | offen | 1.391 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| SYRE | 7.885% | offen | 1.411 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | VRDN | 7.837% | offen | 1.106 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| XPEV | 7.6% | offen | 2.209 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| XPEV | 7.6% | offen | 2.216 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 
 Kurse in Rohdaten mit Originalwährung und Zeitstempel. EUR-Umrechnung erst mit geprüftem Wechselkurs. Tagesänderung ist nicht die Reaktion seit einer Nachricht.
 
