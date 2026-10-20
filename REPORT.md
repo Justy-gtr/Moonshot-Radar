@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-10-20T01:06:36.081572+00:00 · Status: **partial**
+Stand: 2026-10-20T01:40:55.149280+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -35,7 +35,7 @@ Stand: 2026-10-20T01:06:36.081572+00:00 · Status: **partial**
 | FROG | 7.935% | offen | 1.078 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | CLDX | 7.773% | offen | 1.269 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | PRAX | 7.615% | offen | 1.793 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| PHVS | 7.318% | offen | 1.224 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| PHVS | 7.318% | offen | 1.207 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | WRBY | 7.069% | offen | 1.523 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | PLSE | 7.022% | offen | 0.659 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | DYN | 6.877% | offen | 1.132 | BEREITS GESTIEGEN / DATEN PRÜFEN |
