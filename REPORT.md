@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-10-20T13:59:27.396522+00:00 · Status: **partial**
+Stand: 2026-10-20T14:36:53.745209+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -23,26 +23,26 @@ Stand: 2026-10-20T13:59:27.396522+00:00 · Status: **partial**
 
 | Symbol | Tagesänderung | Seit vorherigem Scan | Tagesvolumen / Ø ganzer Tag | Status |
 |---|---:|---:|---:|---|
-| BRZE | 50.849% | offen | 8.755 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| EFX | 10.618% | offen | 0.388 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| KVYO | 10.537% | offen | 0.555 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| TLK | 8.527% | offen | 1.846 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| NOC | 6.982% | offen | 0.601 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| HSAI | 6.767% | offen | 0.466 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| QTWO | 6.713% | offen | 0.064 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| RCUS | 6.095% | offen | 1.198 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| HAS | 6.021% | offen | 1.224 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| FIVN | 5.975% | offen | 0.125 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| RH | 5.953% | offen | 0.155 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| TRU | 5.882% | offen | 0.129 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| GWRE | 5.835% | offen | 0.09 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| MNDY | 5.834% | offen | 0.153 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| HUBS | 5.778% | offen | 0.09 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| DOCS | 5.723% | offen | 0.089 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ASAN | 5.362% | offen | 0.064 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| NCNO | 5.16% | offen | 0.035 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| MSCI | 5.145% | offen | 0.288 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| MMM | 5.117% | offen | 0.483 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| BRZE | 50.816% | -0.022 | 15.001 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| EFX | 9.863% | -0.664 | 0.667 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| TLK | 9.382% | 0.927 | 2.177 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| HSAI | 8.978% | 2.066 | 0.743 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| RCUS | 8.921% | 2.617 | 1.893 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| KVYO | 8.733% | -1.576 | 0.75 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| SYRE | 8.699% | 3.635 | 0.264 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| BLSH | 7.768% | offen | 0.178 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| AAL | 7.621% | 3.928 | 0.336 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ERAS | 7.305% | offen | 0.157 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| VICR | 7.274% | 2.753 | 0.801 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| BMNR | 7.255% | offen | 0.241 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| XPEV | 7.007% | 2.283 | 0.509 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| DFTX | 7.006% | 2.261 | 0.244 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ASST | 6.614% | offen | 0.381 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| PLSE | 6.564% | offen | 0.065 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| XXI | 6.455% | offen | 0.252 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| RVMD | 6.404% | 1.692 | 0.305 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| SLS | 6.387% | offen | 0.27 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| DYN | 6.369% | 2.662 | 0.146 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 
 Kurse in Rohdaten mit Originalwährung und Zeitstempel. EUR-Umrechnung erst mit geprüftem Wechselkurs. Tagesänderung ist nicht die Reaktion seit einer Nachricht.
 
