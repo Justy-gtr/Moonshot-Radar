@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-10-21T12:42:39.028940+00:00 · Status: **partial**
+Stand: 2026-10-21T13:27:39.294759+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -20,8 +20,6 @@ Stand: 2026-10-21T12:42:39.028940+00:00 · Status: **partial**
   Quelle: FDA · Feedzeit: 2026-10-20T19:40:38+00:00 · entdeckt: 2026-10-20T20:53:47.343381+00:00
 - **ORIGINALMELDUNG PRÜFEN** · [FDA Approves Once-Weekly Generic Hormone Therapy Patch for Women](http://www.fda.gov/news-events/press-announcements/fda-approves-once-weekly-generic-hormone-therapy-patch-women)
   Quelle: FDA · Feedzeit: 2026-10-20T15:57:36+00:00 · entdeckt: 2026-10-20T16:35:37.304046+00:00
-- **ORIGINALMELDUNG PRÜFEN** · [FDA Issues Final Guidance on Prescription Drug Apps and Software](http://www.fda.gov/news-events/press-announcements/fda-issues-final-guidance-prescription-drug-apps-and-software)
-  Quelle: FDA · Feedzeit: 2026-10-20T13:03:14+00:00 · entdeckt: 2026-10-20T15:14:08.554123+00:00
 
 ## Momentum-Beobachtungen · keine Handelssignale
 
