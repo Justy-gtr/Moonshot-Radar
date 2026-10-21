@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-10-21T19:22:17.575537+00:00 · Status: **partial**
+Stand: 2026-10-21T20:04:24.192234+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -16,33 +16,32 @@ Stand: 2026-10-21T19:22:17.575537+00:00 · Status: **partial**
 
 ## Originalmeldungen · letzte 24 Stunden
 
-- **ORIGINALMELDUNG PRÜFEN** · [FDA Approves First-of-Its-Kind Chronic Hepatitis B Treatment](http://www.fda.gov/news-events/press-announcements/fda-approves-first-its-kind-chronic-hepatitis-b-treatment)
-  Quelle: FDA · Feedzeit: 2026-10-20T19:40:38+00:00 · entdeckt: 2026-10-20T20:53:47.343381+00:00
+Keine zeitlich zuordenbaren Meldungen im erfassten Fenster. Quellenstatus beachten.
 
 ## Momentum-Beobachtungen · keine Handelssignale
 
 | Symbol | Tagesänderung | Seit vorherigem Scan | Tagesvolumen / Ø ganzer Tag | Status |
 |---|---:|---:|---:|---|
-| UAL | 4.142% | -2.406 | 1.962 | MOMENTUM PRÜFEN |
-| ASST | 13.958% | -1.596 | 1.511 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| SEI | 10.712% | -0.199 | 0.753 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ALMR | 10.085% | 0.519 | 1.6 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| SKYD | 10.07% | -0.446 | 1.686 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| APPN | 10.031% | -0.133 | 1.409 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CDLR | 9.938% | -0.459 | 1.13 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| APLD | 9.512% | -1.77 | 1.132 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CRL | 9.174% | -0.422 | 2.006 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| KYIV | 8.991% | -0.36 | 3.741 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| MANE | 8.98% | 0.065 | 0.655 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| INOD | 8.833% | -0.651 | 0.594 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| SMCI | 8.823% | -0.311 | 1.548 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| NTSK | 8.371% | 0.14 | 0.65 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| LIFE | 8.164% | -0.815 | 1.135 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| GLXY | 8.154% | -2.265 | 1.356 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| BE | 7.635% | -0.678 | 0.588 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ZS | 7.519% | 0.022 | 0.683 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| MSTR | 7.434% | -1.014 | 0.763 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| WFRD | 7.43% | -0.606 | 1.501 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| VICR | 4.546% | -0.434 | 1.593 | MOMENTUM PRÜFEN |
+| ZYME | 4.478% | 0.393 | 1.515 | MOMENTUM PRÜFEN |
+| AMBA | 4.397% | offen | 1.985 | MOMENTUM PRÜFEN |
+| DHR | 4.361% | offen | 1.826 | MOMENTUM PRÜFEN |
+| LION | 4.28% | offen | 2.388 | MOMENTUM PRÜFEN |
+| OZK | 4.181% | offen | 2.515 | MOMENTUM PRÜFEN |
+| HAS | 4.091% | offen | 2.777 | MOMENTUM PRÜFEN |
+| ASST | 13.636% | -0.276 | 1.813 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ALMR | 11.683% | 1.452 | 2.33 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| SKYD | 10.634% | 0.512 | 2.1 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| NTSK | 10.04% | 1.536 | 1.044 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| INOD | 10.019% | 1.09 | 0.792 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CDLR | 9.74% | -0.18 | 1.535 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| SMCI | 9.547% | 0.666 | 1.791 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| SEI | 9.536% | -1.062 | 1.022 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| APPN | 9.481% | -0.5 | 1.878 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CRL | 9.307% | 0.122 | 2.601 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| KYIV | 9.306% | 0.289 | 4.491 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| APLD | 8.536% | -0.891 | 1.442 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| FLY | 8.246% | 2.023 | 0.839 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 
 Kurse in Rohdaten mit Originalwährung und Zeitstempel. EUR-Umrechnung erst mit geprüftem Wechselkurs. Tagesänderung ist nicht die Reaktion seit einer Nachricht.
 
