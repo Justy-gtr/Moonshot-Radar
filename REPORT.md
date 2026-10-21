@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-10-21T20:04:24.192234+00:00 · Status: **partial**
+Stand: 2026-10-21T20:36:30.942487+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -22,26 +22,26 @@ Keine zeitlich zuordenbaren Meldungen im erfassten Fenster. Quellenstatus beacht
 
 | Symbol | Tagesänderung | Seit vorherigem Scan | Tagesvolumen / Ø ganzer Tag | Status |
 |---|---:|---:|---:|---|
-| VICR | 4.546% | -0.434 | 1.593 | MOMENTUM PRÜFEN |
-| ZYME | 4.478% | 0.393 | 1.515 | MOMENTUM PRÜFEN |
-| AMBA | 4.397% | offen | 1.985 | MOMENTUM PRÜFEN |
-| DHR | 4.361% | offen | 1.826 | MOMENTUM PRÜFEN |
-| LION | 4.28% | offen | 2.388 | MOMENTUM PRÜFEN |
-| OZK | 4.181% | offen | 2.515 | MOMENTUM PRÜFEN |
-| HAS | 4.091% | offen | 2.777 | MOMENTUM PRÜFEN |
-| ASST | 13.636% | -0.276 | 1.813 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ALMR | 11.683% | 1.452 | 2.33 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| SKYD | 10.634% | 0.512 | 2.1 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| NTSK | 10.04% | 1.536 | 1.044 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| INOD | 10.019% | 1.09 | 0.792 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CDLR | 9.74% | -0.18 | 1.535 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| SMCI | 9.547% | 0.666 | 1.791 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| SEI | 9.536% | -1.062 | 1.022 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| APPN | 9.481% | -0.5 | 1.878 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CRL | 9.307% | 0.122 | 2.601 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| KYIV | 9.306% | 0.289 | 4.491 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| APLD | 8.536% | -0.891 | 1.442 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| FLY | 8.246% | 2.023 | 0.839 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ASST | 13.636% | offen | 1.838 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ALMR | 11.683% | offen | 2.394 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| SKYD | 10.845% | offen | 2.303 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| NTSK | 10.04% | offen | 1.049 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| INOD | 10.019% | offen | 0.805 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| SMCI | 9.547% | offen | 1.825 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| SEI | 9.52% | offen | 1.13 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| APPN | 9.481% | offen | 1.89 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CDLR | 9.431% | offen | 1.631 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CRL | 9.326% | offen | 2.896 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| KYIV | 9.306% | offen | 4.517 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| APLD | 8.536% | offen | 1.449 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| FLY | 8.246% | offen | 0.845 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| EQPT | 8.013% | offen | 1.167 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ZS | 7.841% | offen | 0.967 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| SPCX | 7.795% | offen | 2.273 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| WFRD | 7.751% | offen | 2.402 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| LIFE | 7.67% | offen | 1.535 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| MSTR | 7.539% | offen | 1.005 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| OKTA | 7.535% | offen | 1.143 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 
 Kurse in Rohdaten mit Originalwährung und Zeitstempel. EUR-Umrechnung erst mit geprüftem Wechselkurs. Tagesänderung ist nicht die Reaktion seit einer Nachricht.
 
