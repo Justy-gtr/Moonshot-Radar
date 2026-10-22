@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-10-22T11:11:16.430478+00:00 · Status: **partial**
+Stand: 2026-10-22T11:54:04.289946+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -25,20 +25,20 @@ Keine zeitlich zuordenbaren Meldungen im erfassten Fenster. Quellenstatus beacht
 | ASST | 13.636% | offen | 1.798 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | ALMR | 11.683% | offen | 2.324 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | SKYD | 10.845% | offen | 2.245 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| NTSK | 10.04% | offen | 1.049 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| NTSK | 10.04% | offen | 1.046 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | INOD | 10.019% | offen | 0.809 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | SMCI | 9.547% | offen | 1.879 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| SEI | 9.52% | offen | 1.128 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| APPN | 9.481% | offen | 1.865 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| SEI | 9.52% | offen | 1.119 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| APPN | 9.481% | offen | 1.89 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | CDLR | 9.431% | offen | 1.612 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | CRL | 9.326% | offen | 2.797 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| KYIV | 9.306% | offen | 4.291 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| KYIV | 9.306% | offen | 4.266 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | APLD | 8.536% | offen | 1.437 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | FLY | 8.246% | offen | 0.844 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| EQPT | 8.013% | offen | 1.164 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| EQPT | 8.013% | offen | 1.183 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | ZS | 7.841% | offen | 0.965 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | SPCX | 7.795% | offen | 2.235 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| WFRD | 7.751% | offen | 2.35 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| WFRD | 7.751% | offen | 2.4 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | LIFE | 7.67% | offen | 1.503 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | MSTR | 7.539% | offen | 1.002 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | OKTA | 7.535% | offen | 1.141 | BEREITS GESTIEGEN / DATEN PRÜFEN |
