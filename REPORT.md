@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-10-22T19:22:16.047509+00:00 · Status: **partial**
+Stand: 2026-10-22T20:07:01.303905+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -23,26 +23,26 @@ Stand: 2026-10-22T19:22:16.047509+00:00 · Status: **partial**
 
 | Symbol | Tagesänderung | Seit vorherigem Scan | Tagesvolumen / Ø ganzer Tag | Status |
 |---|---:|---:|---:|---|
-| BHVN | 26.128% | 0.407 | 10.836 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CNXC | 13.038% | 1.871 | 0.633 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| KSS | 12.658% | 1.546 | 1.59 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| POOL | 11.772% | 0.7 | 1.956 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| SPOT | 11.643% | 1.029 | 2.307 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| BMI | 11.611% | 1.249 | 1.979 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| WCN | 10.708% | 0.177 | 2.854 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ALLE | 10.396% | 0.683 | 1.141 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ROP | 10.227% | 1.402 | 1.743 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| R | 9.296% | 1.783 | 1.431 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| BOBS | 9.151% | 0.427 | 0.33 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ZG | 9.071% | -0.254 | 0.64 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| RTO | 9.054% | 0.065 | 1.883 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| Z | 9.039% | -0.495 | 0.991 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| WSO | 8.36% | 2.496 | 1.417 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| LEN-B | 8.152% | 0.7 | 0.728 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| LEN | 8.14% | 0.55 | 1.13 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| MHK | 8.112% | 1.177 | 0.805 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| RH | 8.062% | -0.317 | 1.388 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| BX | 7.876% | 0.669 | 1.652 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| BHVN | 25.106% | offen | 11.401 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| POOL | 14.364% | offen | 2.801 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CNXC | 13.768% | offen | 0.981 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| BMI | 13.541% | offen | 2.855 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| KSS | 11.778% | offen | 2.029 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| SPOT | 11.056% | offen | 2.679 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ALLE | 11.0% | offen | 1.489 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| R | 10.631% | offen | 1.825 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| WCN | 9.835% | offen | 3.58 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ROP | 9.727% | offen | 2.379 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| RH | 9.562% | offen | 1.832 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| WDFC | 9.15% | offen | 2.591 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| MHK | 9.022% | offen | 1.31 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| LEN-B | 8.955% | offen | 1.283 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| RHI | 8.79% | offen | 1.14 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| LEN | 8.752% | offen | 1.439 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| RTO | 8.745% | offen | 2.13 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CPB | 8.691% | offen | 1.25 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| Z | 8.528% | offen | 1.361 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ZG | 8.423% | offen | 0.903 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 
 Kurse in Rohdaten mit Originalwährung und Zeitstempel. EUR-Umrechnung erst mit geprüftem Wechselkurs. Tagesänderung ist nicht die Reaktion seit einer Nachricht.
 
