@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-10-22T13:30:48.220913+00:00 · Status: **partial**
+Stand: 2026-10-22T14:12:42.747294+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -12,7 +12,7 @@ Stand: 2026-10-22T13:30:48.220913+00:00 · Status: **partial**
 | SEC 8-K | error | 0 | HTTPError: HTTP Error 403: Forbidden |
 | SEC 6-K | error | 0 | HTTPError: HTTP Error 403: Forbidden |
 | SEC Finanzierung | error | 0 | HTTPError: HTTP Error 403: Forbidden |
-| Yahoo Tagesgewinner | ok | 100 | keine erkannte; Vollständigkeit nicht garantiert |
+| Yahoo Tagesgewinner | ok | 86 | keine erkannte; Vollständigkeit nicht garantiert |
 
 ## Originalmeldungen · letzte 24 Stunden
 
@@ -22,26 +22,26 @@ Keine zeitlich zuordenbaren Meldungen im erfassten Fenster. Quellenstatus beacht
 
 | Symbol | Tagesänderung | Seit vorherigem Scan | Tagesvolumen / Ø ganzer Tag | Status |
 |---|---:|---:|---:|---|
-| CDLR | 9.431% | offen | 0.003 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| NET | 5.324% | offen | 0.043 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| TEO | 4.571% | offen | 0.002 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| LION | 4.362% | offen | 2.532 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CRWD | 1.283% | offen | 0.061 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| DHR | 0.82% | offen | 0.07 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CVLT | 0.743% | offen | 0.011 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ZS | 0.741% | offen | 0.04 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| HRI | 0.671% | offen | 0.013 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| DXC | 0.464% | offen | 0.021 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| AMPL | 0.363% | offen | 0.008 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| AMX | 0.164% | offen | 0.008 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| FTRE | 0.084% | offen | 0.012 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| TENB | 0.074% | offen | 0.008 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| SEZL | 0.029% | offen | 0.016 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| BRKR | 0.008% | offen | 0.004 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| APPN | 0.0% | offen | 0.05 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CRL | -0.012% | offen | 0.017 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| NTSK | -0.046% | offen | 0.011 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| NSIT | -0.119% | offen | 0.005 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| BHVN | 30.979% | offen | 7.163 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| BMI | 10.898% | offen | 0.463 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| POOL | 10.053% | offen | 0.538 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| SPOT | 8.981% | offen | 0.832 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| R | 8.133% | offen | 0.302 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| RTO | 7.507% | offen | 0.415 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| KSS | 7.283% | offen | 0.225 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ZGN | 7.276% | offen | 0.328 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| WCN | 7.149% | offen | 0.649 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ALLE | 7.091% | offen | 0.332 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| LMT | 6.859% | offen | 0.897 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| QXO | 6.65% | offen | 0.171 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| NDAQ | 6.102% | offen | 0.292 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| FSV | 6.099% | offen | 0.108 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CSX | 6.033% | offen | 0.534 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| Z | 5.589% | offen | 0.154 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| RKT | 5.581% | offen | 0.161 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CELC | 5.385% | offen | 0.228 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| KBH | 5.313% | offen | 0.222 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ZG | 5.307% | offen | 0.12 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 
 Kurse in Rohdaten mit Originalwährung und Zeitstempel. EUR-Umrechnung erst mit geprüftem Wechselkurs. Tagesänderung ist nicht die Reaktion seit einer Nachricht.
 
