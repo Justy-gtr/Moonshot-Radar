@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-10-22T14:12:42.747294+00:00 · Status: **partial**
+Stand: 2026-10-22T14:55:54.940361+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -12,7 +12,7 @@ Stand: 2026-10-22T14:12:42.747294+00:00 · Status: **partial**
 | SEC 8-K | error | 0 | HTTPError: HTTP Error 403: Forbidden |
 | SEC 6-K | error | 0 | HTTPError: HTTP Error 403: Forbidden |
 | SEC Finanzierung | error | 0 | HTTPError: HTTP Error 403: Forbidden |
-| Yahoo Tagesgewinner | ok | 86 | keine erkannte; Vollständigkeit nicht garantiert |
+| Yahoo Tagesgewinner | ok | 100 | keine erkannte; Vollständigkeit nicht garantiert |
 
 ## Originalmeldungen · letzte 24 Stunden
 
@@ -22,26 +22,26 @@ Keine zeitlich zuordenbaren Meldungen im erfassten Fenster. Quellenstatus beacht
 
 | Symbol | Tagesänderung | Seit vorherigem Scan | Tagesvolumen / Ø ganzer Tag | Status |
 |---|---:|---:|---:|---|
-| BHVN | 30.979% | offen | 7.163 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| BMI | 10.898% | offen | 0.463 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| POOL | 10.053% | offen | 0.538 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| SPOT | 8.981% | offen | 0.832 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| R | 8.133% | offen | 0.302 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| RTO | 7.507% | offen | 0.415 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| KSS | 7.283% | offen | 0.225 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ZGN | 7.276% | offen | 0.328 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| WCN | 7.149% | offen | 0.649 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ALLE | 7.091% | offen | 0.332 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| LMT | 6.859% | offen | 0.897 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| QXO | 6.65% | offen | 0.171 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| NDAQ | 6.102% | offen | 0.292 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| FSV | 6.099% | offen | 0.108 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CSX | 6.033% | offen | 0.534 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| Z | 5.589% | offen | 0.154 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| RKT | 5.581% | offen | 0.161 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CELC | 5.385% | offen | 0.228 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| KBH | 5.313% | offen | 0.222 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ZG | 5.307% | offen | 0.12 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| BHVN | 30.247% | -0.535 | 7.879 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| BMI | 10.075% | -0.742 | 0.779 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| POOL | 8.91% | -1.038 | 0.873 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ALLE | 8.61% | 1.418 | 0.533 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| RTO | 8.603% | 1.017 | 0.726 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| WCN | 8.103% | 0.89 | 1.014 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| SPOT | 7.824% | -1.062 | 1.243 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| KSS | 7.762% | 0.442 | 0.361 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| QXO | 7.333% | 0.646 | 0.345 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CSGP | 7.128% | 1.864 | 0.177 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| LMT | 7.093% | 0.219 | 1.113 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CSX | 6.756% | 0.682 | 0.881 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| R | 6.644% | -1.378 | 0.429 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CELC | 6.628% | 1.179 | 0.371 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| RKT | 6.616% | 0.98 | 0.334 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| FSV | 6.567% | 0.442 | 0.211 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ZGN | 6.54% | -0.685 | 0.524 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| NDAQ | 6.414% | 0.294 | 0.422 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| LEN | 6.358% | 2.031 | 0.515 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| KBH | 6.266% | 0.905 | 0.325 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 
 Kurse in Rohdaten mit Originalwährung und Zeitstempel. EUR-Umrechnung erst mit geprüftem Wechselkurs. Tagesänderung ist nicht die Reaktion seit einer Nachricht.
 
