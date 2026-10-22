@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-10-22T12:43:02.268597+00:00 · Status: **partial**
+Stand: 2026-10-22T13:30:48.220913+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -22,26 +22,26 @@ Keine zeitlich zuordenbaren Meldungen im erfassten Fenster. Quellenstatus beacht
 
 | Symbol | Tagesänderung | Seit vorherigem Scan | Tagesvolumen / Ø ganzer Tag | Status |
 |---|---:|---:|---:|---|
-| ASST | 13.636% | offen | 1.798 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ALMR | 11.683% | offen | 2.324 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| SKYD | 10.845% | offen | 2.245 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| NTSK | 10.04% | offen | 1.046 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| INOD | 10.019% | offen | 0.809 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| SMCI | 9.547% | offen | 1.879 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| SEI | 9.52% | offen | 1.119 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| APPN | 9.481% | offen | 1.89 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CDLR | 9.431% | offen | 1.612 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CRL | 9.326% | offen | 2.797 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| KYIV | 9.306% | offen | 4.266 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| APLD | 8.536% | offen | 1.437 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| FLY | 8.246% | offen | 0.844 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| EQPT | 8.013% | offen | 1.183 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ZS | 7.841% | offen | 0.965 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| SPCX | 7.795% | offen | 2.235 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| WFRD | 7.751% | offen | 2.4 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| LIFE | 7.67% | offen | 1.503 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| MSTR | 7.539% | offen | 1.002 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| OKTA | 7.535% | offen | 1.141 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CDLR | 9.431% | offen | 0.003 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| NET | 5.324% | offen | 0.043 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| TEO | 4.571% | offen | 0.002 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| LION | 4.362% | offen | 2.532 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CRWD | 1.283% | offen | 0.061 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| DHR | 0.82% | offen | 0.07 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CVLT | 0.743% | offen | 0.011 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ZS | 0.741% | offen | 0.04 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| HRI | 0.671% | offen | 0.013 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| DXC | 0.464% | offen | 0.021 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| AMPL | 0.363% | offen | 0.008 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| AMX | 0.164% | offen | 0.008 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| FTRE | 0.084% | offen | 0.012 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| TENB | 0.074% | offen | 0.008 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| SEZL | 0.029% | offen | 0.016 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| BRKR | 0.008% | offen | 0.004 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| APPN | 0.0% | offen | 0.05 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CRL | -0.012% | offen | 0.017 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| NTSK | -0.046% | offen | 0.011 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| NSIT | -0.119% | offen | 0.005 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 
 Kurse in Rohdaten mit Originalwährung und Zeitstempel. EUR-Umrechnung erst mit geprüftem Wechselkurs. Tagesänderung ist nicht die Reaktion seit einer Nachricht.
 
