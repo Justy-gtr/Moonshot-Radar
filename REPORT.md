@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-10-22T18:03:29.389630+00:00 · Status: **partial**
+Stand: 2026-10-22T18:39:58.826976+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -16,32 +16,33 @@ Stand: 2026-10-22T18:03:29.389630+00:00 · Status: **partial**
 
 ## Originalmeldungen · letzte 24 Stunden
 
-Keine zeitlich zuordenbaren Meldungen im erfassten Fenster. Quellenstatus beachten.
+- **ORIGINALMELDUNG PRÜFEN** · [FDA Launches New Program to Advance Neuroscience Medical Product Development](http://www.fda.gov/news-events/press-announcements/fda-launches-new-program-advance-neuroscience-medical-product-development)
+  Quelle: FDA · Feedzeit: 2026-10-22T16:58:19+00:00 · entdeckt: 2026-10-22T18:39:58.826976+00:00
 
 ## Momentum-Beobachtungen · keine Handelssignale
 
 | Symbol | Tagesänderung | Seit vorherigem Scan | Tagesvolumen / Ø ganzer Tag | Status |
 |---|---:|---:|---:|---|
-| BHVN | 24.96% | -0.844 | 10.364 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| KSS | 11.575% | 0.0 | 1.286 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CNXC | 10.679% | offen | 0.398 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| SPOT | 10.342% | 0.593 | 1.974 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| WCN | 10.283% | 0.224 | 2.318 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| Z | 10.061% | 0.849 | 0.794 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| POOL | 9.969% | -1.137 | 1.644 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ZG | 9.778% | 0.836 | 0.518 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ROP | 9.512% | 0.31 | 1.283 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| BOBS | 9.483% | 0.091 | 0.243 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| BMI | 9.271% | 1.508 | 1.661 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ALLE | 8.95% | -0.374 | 0.956 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| RTO | 8.912% | -0.057 | 1.687 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| GPI | 7.836% | -0.043 | 0.614 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| SSL | 7.536% | -0.029 | 1.497 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| MNDY | 7.499% | -0.232 | 0.831 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CWST | 7.426% | 0.165 | 0.841 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| WDFC | 7.421% | 0.063 | 1.28 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| LEN-B | 7.407% | 0.272 | 0.56 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| LEN | 7.342% | -0.066 | 0.941 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| BHVN | 25.617% | 0.545 | 10.558 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| POOL | 10.995% | 0.933 | 1.779 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CNXC | 10.962% | 0.255 | 0.502 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| KSS | 10.943% | -0.566 | 1.404 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| WCN | 10.512% | 0.207 | 2.565 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| SPOT | 10.506% | 0.148 | 2.094 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| BMI | 10.234% | 0.881 | 1.772 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ALLE | 9.648% | 0.635 | 1.018 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| Z | 9.582% | -0.435 | 0.87 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ZG | 9.349% | -0.393 | 0.572 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| RTO | 8.983% | 0.065 | 1.784 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ROP | 8.703% | -0.738 | 1.487 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| BOBS | 8.687% | -0.727 | 0.272 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| RH | 8.406% | 1.462 | 1.228 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| WDFC | 8.314% | 0.832 | 1.396 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| GPI | 7.632% | -0.19 | 0.703 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| LEN | 7.548% | 0.192 | 1.016 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| MHO | 7.48% | 1.828 | 1.098 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| MNDY | 7.469% | -0.028 | 0.904 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| LEN-B | 7.4% | offen | 0.614 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 
 Kurse in Rohdaten mit Originalwährung und Zeitstempel. EUR-Umrechnung erst mit geprüftem Wechselkurs. Tagesänderung ist nicht die Reaktion seit einer Nachricht.
 
