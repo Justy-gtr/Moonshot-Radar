@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-10-23T19:01:50.986198+00:00 · Status: **partial**
+Stand: 2026-10-23T19:35:12.401641+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -22,26 +22,26 @@ Keine zeitlich zuordenbaren Meldungen im erfassten Fenster. Quellenstatus beacht
 
 | Symbol | Tagesänderung | Seit vorherigem Scan | Tagesvolumen / Ø ganzer Tag | Status |
 |---|---:|---:|---:|---|
-| OII | 4.82% | -0.583 | 1.715 | MOMENTUM PRÜFEN |
-| RNG | 4.785% | -2.598 | 1.737 | MOMENTUM PRÜFEN |
-| AMT | 4.274% | offen | 2.327 | MOMENTUM PRÜFEN |
-| SBAC | 4.039% | offen | 1.929 | MOMENTUM PRÜFEN |
-| RHI | 22.505% | -0.216 | 2.09 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CCI | 10.364% | 0.254 | 3.27 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| FCNCA | 9.695% | 0.956 | 3.209 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| GMAB | 9.55% | 0.782 | 2.964 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CUBI | 9.119% | 0.538 | 1.828 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| TTMI | 9.013% | 1.168 | 1.982 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| SAIL | 8.799% | 0.115 | 0.993 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| NE | 8.602% | 0.063 | 0.965 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ZLAB | 8.598% | -0.643 | 2.934 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| VG | 8.47% | 1.312 | 1.131 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| HSAI | 8.402% | 0.535 | 1.057 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| NTSK | 8.149% | -0.164 | 0.941 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| FSLY | 8.04% | -0.676 | 0.46 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| SLB | 7.376% | 0.245 | 1.085 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CLF | 7.318% | 1.083 | 0.964 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CRWD | 7.248% | 0.433 | 0.973 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| RNG | 4.795% | 0.018 | 1.935 | MOMENTUM PRÜFEN |
+| GBCI | 4.479% | -0.497 | 1.622 | MOMENTUM PRÜFEN |
+| VEON | 4.302% | offen | 1.983 | MOMENTUM PRÜFEN |
+| E | 4.132% | -0.064 | 1.514 | MOMENTUM PRÜFEN |
+| RHI | 23.248% | 0.607 | 2.337 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| GMAB | 10.025% | 0.434 | 3.335 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| FCNCA | 9.852% | 0.144 | 3.698 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| NTSK | 9.414% | 1.166 | 1.042 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ZLAB | 9.301% | 0.648 | 3.22 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| NE | 8.589% | -0.01 | 1.052 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| FSLY | 8.508% | 0.433 | 0.506 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CCI | 8.468% | -1.718 | 3.567 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| SAIL | 8.4% | -0.367 | 1.101 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| HSAI | 8.114% | -0.266 | 1.128 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| VG | 7.963% | -0.468 | 1.256 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| TTMI | 7.917% | -1.006 | 2.183 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| TDW | 7.87% | 0.688 | 0.57 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CRWD | 7.786% | 0.502 | 1.078 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| RITM | 7.776% | 0.646 | 2.147 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CUBI | 7.418% | -1.56 | 2.211 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 
 Kurse in Rohdaten mit Originalwährung und Zeitstempel. EUR-Umrechnung erst mit geprüftem Wechselkurs. Tagesänderung ist nicht die Reaktion seit einer Nachricht.
 
