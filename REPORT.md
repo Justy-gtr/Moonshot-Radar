@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-10-23T13:26:59.280257+00:00 · Status: **partial**
+Stand: 2026-10-23T14:16:17.050969+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -12,7 +12,7 @@ Stand: 2026-10-23T13:26:59.280257+00:00 · Status: **partial**
 | SEC 8-K | error | 0 | HTTPError: HTTP Error 403: Forbidden |
 | SEC 6-K | error | 0 | HTTPError: HTTP Error 403: Forbidden |
 | SEC Finanzierung | error | 0 | HTTPError: HTTP Error 403: Forbidden |
-| Yahoo Tagesgewinner | ok | 100 | keine erkannte; Vollständigkeit nicht garantiert |
+| Yahoo Tagesgewinner | ok | 61 | keine erkannte; Vollständigkeit nicht garantiert |
 
 ## Originalmeldungen · letzte 24 Stunden
 
@@ -23,26 +23,26 @@ Stand: 2026-10-23T13:26:59.280257+00:00 · Status: **partial**
 
 | Symbol | Tagesänderung | Seit vorherigem Scan | Tagesvolumen / Ø ganzer Tag | Status |
 |---|---:|---:|---:|---|
-| BHVN | 25.021% | offen | 9.994 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| POOL | 14.364% | offen | 2.808 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CNXC | 13.768% | offen | 1.081 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| BMI | 13.484% | offen | 3.138 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| KSS | 11.823% | offen | 2.138 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| SPOT | 11.101% | offen | 2.733 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ALLE | 11.019% | offen | 1.721 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| R | 10.495% | offen | 2.129 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| WCN | 9.865% | offen | 3.714 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ROP | 9.727% | offen | 2.474 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| RH | 9.484% | offen | 1.976 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| WDFC | 9.15% | offen | 2.632 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| LEN-B | 9.033% | offen | 1.665 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| MHK | 9.031% | offen | 1.516 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| RHI | 8.776% | offen | 1.461 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| RTO | 8.745% | offen | 2.158 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CPB | 8.691% | offen | 1.345 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| LEN | 8.687% | offen | 1.597 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| Z | 8.528% | offen | 1.475 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ZG | 8.423% | offen | 0.97 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| RHI | 12.473% | offen | 0.455 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CCI | 12.111% | offen | 1.099 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| FCNCA | 8.005% | offen | 0.88 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| HSAI | 7.939% | offen | 0.423 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| SBAC | 7.45% | offen | 0.4 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| RNG | 6.648% | offen | 0.747 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| NE | 6.189% | offen | 0.201 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ZLAB | 6.171% | offen | 0.813 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| AMT | 6.139% | offen | 0.896 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| SIGI | 6.121% | offen | 0.483 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| VET | 5.949% | offen | 0.257 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| RITM | 5.818% | offen | 0.659 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| SDRL | 5.58% | offen | 0.172 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| VAL | 5.234% | offen | 0.173 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| TTMI | 5.217% | offen | 0.618 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| RIG | 5.099% | offen | 0.208 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| REXR | 5.072% | offen | 0.212 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| COCO | 4.966% | offen | 0.217 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| VG | 4.936% | offen | 0.267 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| SMTC | 4.699% | offen | 0.184 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 
 Kurse in Rohdaten mit Originalwährung und Zeitstempel. EUR-Umrechnung erst mit geprüftem Wechselkurs. Tagesänderung ist nicht die Reaktion seit einer Nachricht.
 
