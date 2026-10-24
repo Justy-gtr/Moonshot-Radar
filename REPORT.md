@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-10-24T23:26:34.749910+00:00 · Status: **partial**
+Stand: 2026-10-24T23:54:47.527075+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -23,6 +23,7 @@ Keine zeitlich zuordenbaren Meldungen im erfassten Fenster. Quellenstatus beacht
 | Symbol | Tagesänderung | Seit vorherigem Scan | Tagesvolumen / Ø ganzer Tag | Status |
 |---|---:|---:|---:|---|
 | RHI | 21.736% | offen | 3.395 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| BUUU | 18.345% | offen | 2.078 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | GMAB | 9.475% | offen | 4.027 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | NTSK | 9.369% | offen | 1.422 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | VG | 9.29% | offen | 1.594 | BEREITS GESTIEGEN / DATEN PRÜFEN |
@@ -41,7 +42,6 @@ Keine zeitlich zuordenbaren Meldungen im erfassten Fenster. Quellenstatus beacht
 | HOS | 8.067% | offen | 1.509 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | LQDA | 7.458% | offen | 1.162 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | CUBI | 7.38% | offen | 3.4 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ZS | 7.314% | offen | 1.356 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 
 Kurse in Rohdaten mit Originalwährung und Zeitstempel. EUR-Umrechnung erst mit geprüftem Wechselkurs. Tagesänderung ist nicht die Reaktion seit einer Nachricht.
 
