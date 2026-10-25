@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-10-25T01:21:59.783546+00:00 · Status: **partial**
+Stand: 2026-10-25T01:55:24.986437+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -23,7 +23,7 @@ Keine zeitlich zuordenbaren Meldungen im erfassten Fenster. Quellenstatus beacht
 | Symbol | Tagesänderung | Seit vorherigem Scan | Tagesvolumen / Ø ganzer Tag | Status |
 |---|---:|---:|---:|---|
 | RHI | 21.736% | offen | 3.395 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| BUUU | 18.345% | offen | 2.078 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| BUUU | 18.345% | offen | 0.206 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | GMAB | 9.475% | offen | 4.027 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | NTSK | 9.369% | offen | 1.422 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | VG | 9.29% | offen | 1.594 | BEREITS GESTIEGEN / DATEN PRÜFEN |
