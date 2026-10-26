@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-10-26T19:29:30.979121+00:00 · Status: **partial**
+Stand: 2026-10-26T20:08:50.574914+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -22,26 +22,26 @@ Keine zeitlich zuordenbaren Meldungen im erfassten Fenster. Quellenstatus beacht
 
 | Symbol | Tagesänderung | Seit vorherigem Scan | Tagesvolumen / Ø ganzer Tag | Status |
 |---|---:|---:|---:|---|
-| LCII | 4.346% | offen | 1.816 | MOMENTUM PRÜFEN |
-| SGRY | 47.556% | 0.194 | 24.419 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| RRC | 16.257% | -0.992 | 8.211 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| XNCR | 14.774% | -2.939 | 5.802 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ORKA | 11.915% | 0.787 | 1.706 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| INIO | 11.469% | 0.534 | 1.551 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| VICR | 11.321% | -0.533 | 0.684 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| AAOI | 9.87% | -0.034 | 0.854 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| LITE | 9.678% | -0.519 | 1.088 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| AXTI | 9.562% | -0.123 | 0.672 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| TTMI | 8.513% | -0.098 | 1.945 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| TSEM | 8.14% | -0.726 | 0.995 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| VSAT | 7.923% | -2.016 | 0.62 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| WULF | 7.862% | -1.094 | 1.265 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| P | 7.861% | -0.787 | 0.432 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| PARR | 7.609% | -0.18 | 0.425 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| DOCN | 7.52% | -1.407 | 0.553 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| FIX | 7.302% | -0.262 | 1.535 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| BAH | 7.278% | -0.089 | 0.788 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| NOK | 7.269% | 0.192 | 0.793 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| SGRY | 47.619% | offen | 25.896 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| RRC | 17.685% | offen | 9.648 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| XNCR | 15.886% | offen | 6.553 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ORKA | 12.701% | offen | 2.192 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| VICR | 10.64% | offen | 0.95 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| INIO | 9.336% | offen | 2.231 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| LITE | 8.19% | offen | 1.229 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| TENB | 8.118% | offen | 1.481 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| AXTI | 8.045% | offen | 0.811 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| VSAT | 8.004% | offen | 0.935 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CART | 7.867% | offen | 7.792 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| PARR | 7.79% | offen | 0.574 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| FIX | 7.178% | offen | 1.804 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| GLXY | 6.812% | offen | 1.253 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| DOCN | 6.801% | offen | 0.702 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| TTMI | 6.728% | offen | 2.636 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| TSEM | 6.678% | offen | 1.367 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| AAOI | 6.562% | offen | 1.055 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| P | 6.554% | offen | 0.559 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CVI | 6.465% | offen | 0.572 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 
 Kurse in Rohdaten mit Originalwährung und Zeitstempel. EUR-Umrechnung erst mit geprüftem Wechselkurs. Tagesänderung ist nicht die Reaktion seit einer Nachricht.
 
