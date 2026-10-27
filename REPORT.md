@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-10-27T10:58:19.218400+00:00 · Status: **partial**
+Stand: 2026-10-27T11:38:06.081394+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -34,14 +34,14 @@ Keine zeitlich zuordenbaren Meldungen im erfassten Fenster. Quellenstatus beacht
 | VSAT | 8.004% | offen | 1.0 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | CART | 7.867% | offen | 7.189 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | PARR | 7.803% | offen | 0.681 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| FIX | 7.178% | offen | 1.941 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| FIX | 7.178% | offen | 1.956 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | GLXY | 6.812% | offen | 1.279 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | DOCN | 6.769% | offen | 0.789 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | TTMI | 6.728% | offen | 2.6 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | TSEM | 6.678% | offen | 1.394 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | CVI | 6.637% | offen | 0.696 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | AAOI | 6.562% | offen | 1.082 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| P | 6.487% | offen | 0.753 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| P | 6.487% | offen | 0.745 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 
 Kurse in Rohdaten mit Originalwährung und Zeitstempel. EUR-Umrechnung erst mit geprüftem Wechselkurs. Tagesänderung ist nicht die Reaktion seit einer Nachricht.
 
