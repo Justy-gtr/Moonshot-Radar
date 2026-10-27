@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-10-27T19:44:02.840325+00:00 · Status: **partial**
+Stand: 2026-10-27T20:22:35.011092+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -22,26 +22,26 @@ Keine zeitlich zuordenbaren Meldungen im erfassten Fenster. Quellenstatus beacht
 
 | Symbol | Tagesänderung | Seit vorherigem Scan | Tagesvolumen / Ø ganzer Tag | Status |
 |---|---:|---:|---:|---|
-| KNSA | 23.527% | 0.738 | 2.917 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| HRI | 22.567% | -0.32 | 2.357 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CHRN | 20.198% | 2.927 | 1.526 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CTOS | 14.928% | -0.048 | 1.503 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| USAR | 14.759% | 1.311 | 1.279 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| HWKN | 14.534% | -0.286 | 2.027 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| SOFI | 13.866% | -0.393 | 2.946 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| AEHR | 13.436% | 0.203 | 0.815 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| INFQ | 13.268% | 0.981 | 0.757 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| PNR | 12.342% | 1.191 | 1.98 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CLS | 12.246% | -0.265 | 2.747 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| NVTS | 11.758% | -0.184 | 0.913 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| NBIS | 11.729% | 0.203 | 0.815 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| MXL | 11.682% | 0.815 | 0.986 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| VSH | 11.419% | 0.575 | 0.617 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| LEU | 11.139% | 0.344 | 1.095 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CRDO | 11.025% | 0.621 | 0.717 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| WEGZY | 10.925% | offen | 0.141 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CBRS | 10.856% | 0.296 | 1.582 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| OUST | 10.838% | 0.611 | 0.872 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| HRI | 22.756% | offen | 3.072 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| KNSA | 22.225% | offen | 3.757 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CHRN | 19.549% | offen | 1.667 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| USAR | 16.723% | offen | 1.596 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CTOS | 16.648% | offen | 2.498 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| HWKN | 13.593% | offen | 2.456 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| SOFI | 13.416% | offen | 3.242 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| AEHR | 12.986% | offen | 1.03 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| INFQ | 12.862% | offen | 0.982 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| PNR | 12.803% | offen | 2.488 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ABG | 12.737% | offen | 3.106 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| MXL | 12.336% | offen | 1.399 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CLS | 12.118% | offen | 3.097 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| NVTS | 11.31% | offen | 1.151 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| NBIS | 11.222% | offen | 0.956 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| LEU | 11.154% | offen | 1.398 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| VSH | 10.932% | offen | 1.178 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CRDO | 10.771% | offen | 0.998 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| DPC | 10.745% | offen | 2.018 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| PPTA | 10.663% | offen | 1.076 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 
 Kurse in Rohdaten mit Originalwährung und Zeitstempel. EUR-Umrechnung erst mit geprüftem Wechselkurs. Tagesänderung ist nicht die Reaktion seit einer Nachricht.
 
