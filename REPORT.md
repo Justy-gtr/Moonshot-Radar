@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-10-27T23:16:30.654507+00:00 · Status: **partial**
+Stand: 2026-10-27T23:50:27.077987+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -35,7 +35,7 @@ Keine zeitlich zuordenbaren Meldungen im erfassten Fenster. Quellenstatus beacht
 | ABG | 12.737% | offen | 3.106 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | MXL | 12.336% | offen | 1.408 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | CLS | 12.118% | offen | 3.106 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| NVTS | 11.31% | offen | 1.156 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| NVTS | 11.309% | offen | 1.156 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | NBIS | 11.222% | offen | 0.96 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | LEU | 11.154% | offen | 1.402 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | VSH | 10.932% | offen | 1.179 | BEREITS GESTIEGEN / DATEN PRÜFEN |
