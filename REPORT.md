@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-10-28T22:23:14.649154+00:00 · Status: **partial**
+Stand: 2026-10-28T23:11:39.840441+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -25,8 +25,8 @@ Keine zeitlich zuordenbaren Meldungen im erfassten Fenster. Quellenstatus beacht
 | AXGN | 31.474% | offen | 7.383 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | GMAB | 28.252% | offen | 8.748 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | ICLR | 17.04% | offen | 4.621 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| VRT | 16.485% | offen | 3.404 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| BLCO | 15.777% | offen | 9.324 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| VRT | 16.485% | offen | 3.412 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| BLCO | 15.777% | offen | 9.327 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | BEAM | 15.582% | offen | 2.823 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | SDGR | 15.531% | offen | 1.71 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | HAYW | 13.507% | offen | 2.799 | BEREITS GESTIEGEN / DATEN PRÜFEN |
@@ -41,7 +41,7 @@ Keine zeitlich zuordenbaren Meldungen im erfassten Fenster. Quellenstatus beacht
 | JLL | 11.139% | offen | 2.853 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | GLXY | 11.118% | offen | 1.502 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | PVLA | 10.955% | offen | 1.788 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ORCL | 10.733% | offen | 2.723 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ORCL | 10.733% | offen | 2.758 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 
 Kurse in Rohdaten mit Originalwährung und Zeitstempel. EUR-Umrechnung erst mit geprüftem Wechselkurs. Tagesänderung ist nicht die Reaktion seit einer Nachricht.
 
