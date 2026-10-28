@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-10-28T18:24:09.859535+00:00 · Status: **partial**
+Stand: 2026-10-28T19:26:29.673992+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -22,26 +22,26 @@ Keine zeitlich zuordenbaren Meldungen im erfassten Fenster. Quellenstatus beacht
 
 | Symbol | Tagesänderung | Seit vorherigem Scan | Tagesvolumen / Ø ganzer Tag | Status |
 |---|---:|---:|---:|---|
-| AERO | 4.181% | -0.654 | 1.507 | MOMENTUM PRÜFEN |
-| GMAB | 33.445% | 1.976 | 6.636 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| AXGN | 30.379% | 1.538 | 5.417 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| VRT | 15.327% | 1.118 | 2.347 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| EAT | 14.279% | 0.575 | 1.919 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| WING | 13.585% | 0.361 | 2.111 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| BEAM | 13.047% | 1.368 | 1.811 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| SKHY | 12.58% | -0.445 | 1.731 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| SDGR | 12.537% | 0.194 | 1.156 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| EVR | 12.139% | 0.053 | 1.218 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| HAYW | 11.55% | -0.411 | 1.476 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ICLR | 11.287% | -0.701 | 2.515 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| JLL | 11.099% | -1.154 | 1.663 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| BLCO | 10.891% | 1.008 | 3.992 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CECO | 10.588% | -1.264 | 0.705 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ABSI | 10.123% | offen | 1.157 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| LH | 9.934% | -0.32 | 1.417 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| OSW | 9.86% | -1.029 | 0.886 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| FLEX | 9.814% | 0.027 | 2.131 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ENSG | 9.33% | -0.938 | 1.722 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| FTRE | 4.441% | offen | 1.589 | MOMENTUM PRÜFEN |
+| DB | 4.265% | offen | 1.798 | MOMENTUM PRÜFEN |
+| TXRH | 4.004% | offen | 1.678 | MOMENTUM PRÜFEN |
+| GNRC | 3.939% | offen | 1.582 | MOMENTUM PRÜFEN |
+| AXGN | 30.953% | offen | 6.106 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| GMAB | 28.632% | offen | 7.7 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| VRT | 16.7% | offen | 2.809 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| EAT | 13.08% | offen | 2.223 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| BEAM | 13.012% | offen | 2.102 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| SKHY | 12.83% | offen | 1.936 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| SDGR | 12.818% | offen | 1.382 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| BLCO | 12.372% | offen | 6.029 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ICLR | 12.335% | offen | 3.302 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| HAYW | 11.934% | offen | 1.871 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| EVR | 11.727% | offen | 1.449 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| FLEX | 11.692% | offen | 2.45 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ORCL | 11.484% | offen | 1.958 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| JLL | 10.899% | offen | 1.947 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| WING | 10.848% | offen | 2.337 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| AXTI | 10.41% | offen | 0.863 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 
 Kurse in Rohdaten mit Originalwährung und Zeitstempel. EUR-Umrechnung erst mit geprüftem Wechselkurs. Tagesänderung ist nicht die Reaktion seit einer Nachricht.
 
