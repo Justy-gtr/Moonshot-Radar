@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-10-29T19:28:25.394801+00:00 · Status: **partial**
+Stand: 2026-10-29T20:18:48.755542+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -22,26 +22,26 @@ Keine zeitlich zuordenbaren Meldungen im erfassten Fenster. Quellenstatus beacht
 
 | Symbol | Tagesänderung | Seit vorherigem Scan | Tagesvolumen / Ø ganzer Tag | Status |
 |---|---:|---:|---:|---|
-| WCC | 4.981% | offen | 1.76 | MOMENTUM PRÜFEN |
-| ADT | 33.738% | offen | 17.301 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| GKOS | 32.842% | offen | 4.791 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| BHC | 27.962% | offen | 5.888 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| PRCH | 27.739% | offen | 3.664 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CROX | 25.023% | offen | 3.415 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| PURR | 20.923% | offen | 2.761 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CVNA | 16.859% | offen | 2.025 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| MESO | 16.318% | offen | 2.651 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| FTAI | 15.767% | offen | 1.612 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| BOOT | 15.278% | offen | 1.802 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| GEN | 14.436% | offen | 0.943 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| INSM | 14.225% | offen | 3.133 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| NCLH | 14.166% | offen | 2.862 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| HII | 13.48% | offen | 2.649 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| FCN | 12.583% | offen | 2.226 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| DRS | 12.423% | offen | 1.533 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| MSGR | 12.183% | offen | 1.76 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| TXT | 11.549% | offen | 1.708 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| BLDR | 11.543% | offen | 1.436 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| GKOS | 33.649% | offen | 6.091 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ADT | 33.198% | offen | 21.436 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| BHC | 28.757% | offen | 6.866 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| PRCH | 28.16% | offen | 4.659 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CROX | 25.541% | offen | 4.544 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| PURR | 23.27% | offen | 3.121 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| FTAI | 17.273% | offen | 2.2 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| MESO | 17.028% | offen | 3.114 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| MSGR | 16.26% | offen | 2.63 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| GEN | 15.811% | offen | 1.358 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CVNA | 15.656% | offen | 2.674 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| BOOT | 15.163% | offen | 2.586 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| INSM | 15.065% | offen | 4.055 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| FCN | 14.282% | offen | 2.939 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| NCLH | 13.45% | offen | 3.763 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| HII | 13.231% | offen | 3.406 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| BLDR | 12.849% | offen | 2.098 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| STGW | 12.684% | offen | 3.054 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| FLS | 11.893% | offen | 2.305 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| TXT | 11.67% | offen | 2.57 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 
 Kurse in Rohdaten mit Originalwährung und Zeitstempel. EUR-Umrechnung erst mit geprüftem Wechselkurs. Tagesänderung ist nicht die Reaktion seit einer Nachricht.
 
