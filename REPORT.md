@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-10-29T12:57:08.367033+00:00 · Status: **partial**
+Stand: 2026-10-29T14:02:28.639392+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -22,26 +22,26 @@ Keine zeitlich zuordenbaren Meldungen im erfassten Fenster. Quellenstatus beacht
 
 | Symbol | Tagesänderung | Seit vorherigem Scan | Tagesvolumen / Ø ganzer Tag | Status |
 |---|---:|---:|---:|---|
-| AXGN | 31.474% | offen | 6.809 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| GMAB | 28.252% | offen | 7.73 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ICLR | 17.04% | offen | 4.429 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| VRT | 16.485% | offen | 3.429 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| BLCO | 15.777% | offen | 8.293 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| BEAM | 15.582% | offen | 2.74 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| SDGR | 15.531% | offen | 1.674 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| HAYW | 13.507% | offen | 2.775 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| SKHY | 13.305% | offen | 2.268 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| EVR | 12.514% | offen | 2.013 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| OSW | 12.505% | offen | 1.812 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ABSI | 12.394% | offen | 1.647 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| EAT | 12.21% | offen | 2.756 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| WING | 12.184% | offen | 2.88 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| FLEX | 11.614% | offen | 3.164 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| VSAT | 11.323% | offen | 2.323 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| JLL | 11.139% | offen | 2.804 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| GLXY | 11.118% | offen | 1.493 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| PVLA | 10.955% | offen | 1.757 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ORCL | 10.733% | offen | 2.683 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ADT | 34.009% | offen | 2.689 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| PRCH | 28.405% | offen | 1.217 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| GKOS | 28.049% | offen | 1.58 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CROX | 22.445% | offen | 0.918 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| BHC | 19.22% | offen | 1.377 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CVNA | 16.282% | offen | 0.567 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| MESO | 15.609% | offen | 0.883 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| GEN | 14.456% | offen | 0.231 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| INSM | 12.9% | offen | 0.967 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| TXT | 11.721% | offen | 0.269 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| FTAI | 11.284% | offen | 0.289 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| PI | 11.248% | offen | 0.285 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| NCLH | 11.208% | offen | 0.984 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| BOOT | 11.174% | offen | 0.36 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| PURR | 10.832% | offen | 0.672 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| DRS | 9.437% | offen | 0.224 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CHDN | 9.347% | offen | 0.359 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| TRN | 9.155% | offen | 0.18 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| WHD | 8.921% | offen | 0.156 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| MBIN | 8.701% | offen | 0.092 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 
 Kurse in Rohdaten mit Originalwährung und Zeitstempel. EUR-Umrechnung erst mit geprüftem Wechselkurs. Tagesänderung ist nicht die Reaktion seit einer Nachricht.
 
