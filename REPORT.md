@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-10-30T00:55:27.944384+00:00 · Status: **partial**
+Stand: 2026-10-30T01:57:10.037841+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -24,16 +24,16 @@ Keine zeitlich zuordenbaren Meldungen im erfassten Fenster. Quellenstatus beacht
 |---|---:|---:|---:|---|
 | GKOS | 33.649% | offen | 6.092 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | ADT | 33.198% | offen | 21.448 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| BHC | 28.757% | offen | 9.875 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| BHC | 28.757% | offen | 8.658 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | PRCH | 28.16% | offen | 4.669 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | CROX | 25.541% | offen | 4.547 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | PURR | 23.27% | offen | 3.185 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | FTAI | 17.273% | offen | 2.201 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| MESO | 17.028% | offen | 3.114 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| MESO | 17.028% | offen | 3.016 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | MSGR | 16.26% | offen | 2.633 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| GEN | 15.811% | offen | 1.369 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| GEN | 15.811% | offen | 1.361 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | CVNA | 15.682% | offen | 2.682 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| BOOT | 15.163% | offen | 2.586 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| BOOT | 15.163% | offen | 2.524 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | INSM | 15.065% | offen | 4.059 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | FCN | 14.282% | offen | 2.939 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | NCLH | 13.45% | offen | 3.81 | BEREITS GESTIEGEN / DATEN PRÜFEN |
