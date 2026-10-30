@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-10-30T12:57:15.122867+00:00 · Status: **partial**
+Stand: 2026-10-30T14:00:50.107512+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -12,7 +12,7 @@ Stand: 2026-10-30T12:57:15.122867+00:00 · Status: **partial**
 | SEC 8-K | error | 0 | HTTPError: HTTP Error 403: Forbidden |
 | SEC 6-K | error | 0 | HTTPError: HTTP Error 403: Forbidden |
 | SEC Finanzierung | error | 0 | HTTPError: HTTP Error 403: Forbidden |
-| Yahoo Tagesgewinner | ok | 100 | keine erkannte; Vollständigkeit nicht garantiert |
+| Yahoo Tagesgewinner | ok | 79 | keine erkannte; Vollständigkeit nicht garantiert |
 
 ## Originalmeldungen · letzte 24 Stunden
 
@@ -22,26 +22,26 @@ Keine zeitlich zuordenbaren Meldungen im erfassten Fenster. Quellenstatus beacht
 
 | Symbol | Tagesänderung | Seit vorherigem Scan | Tagesvolumen / Ø ganzer Tag | Status |
 |---|---:|---:|---:|---|
-| GKOS | 33.649% | offen | 5.8 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ADT | 33.198% | offen | 16.337 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| BHC | 28.757% | offen | 9.219 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| PRCH | 28.16% | offen | 4.545 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CROX | 25.541% | offen | 4.426 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| PURR | 23.27% | offen | 3.045 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| FTAI | 17.273% | offen | 2.236 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| MESO | 17.028% | offen | 3.005 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| MSGR | 16.26% | offen | 2.633 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| GEN | 15.811% | offen | 1.349 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CVNA | 15.682% | offen | 2.732 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| BOOT | 15.163% | offen | 2.578 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| INSM | 15.065% | offen | 3.886 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| FCN | 14.282% | offen | 2.878 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| NCLH | 13.45% | offen | 3.708 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| HII | 13.231% | offen | 3.372 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| BLDR | 12.849% | offen | 2.086 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| STGW | 12.684% | offen | 2.961 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| FLS | 11.893% | offen | 2.302 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| TXT | 11.67% | offen | 2.527 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CDNA | 24.86% | offen | 0.629 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CPRI | 16.169% | offen | 0.5 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CVCO | 13.444% | offen | 0.449 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| BTSG | 12.62% | offen | 0.354 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| REGN | 12.039% | offen | 1.051 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| FDXF | 11.118% | offen | 0.281 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| MEOH | 10.217% | offen | 0.689 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| AN | 9.05% | offen | 0.498 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| EXEL | 8.036% | offen | 0.214 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| VLTO | 7.678% | offen | 0.227 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ATR | 7.241% | offen | 0.178 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| AZN | 6.749% | offen | 0.335 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CBOE | 6.162% | offen | 0.14 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| BBIO | 5.931% | offen | 0.357 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| MIAX | 5.757% | offen | 0.082 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| MICC | 5.405% | offen | 0.137 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| DXCM | 5.267% | offen | 0.369 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| MTZ | 5.044% | offen | 0.325 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| PPC | 4.817% | offen | 0.05 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| RKT | 4.74% | offen | 0.216 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 
 Kurse in Rohdaten mit Originalwährung und Zeitstempel. EUR-Umrechnung erst mit geprüftem Wechselkurs. Tagesänderung ist nicht die Reaktion seit einer Nachricht.
 
