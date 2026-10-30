@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-10-30T16:35:00.240812+00:00 · Status: **partial**
+Stand: 2026-10-30T17:22:08.987066+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -12,7 +12,7 @@ Stand: 2026-10-30T16:35:00.240812+00:00 · Status: **partial**
 | SEC 8-K | error | 0 | HTTPError: HTTP Error 403: Forbidden |
 | SEC 6-K | error | 0 | HTTPError: HTTP Error 403: Forbidden |
 | SEC Finanzierung | error | 0 | HTTPError: HTTP Error 403: Forbidden |
-| Yahoo Tagesgewinner | ok | 93 | keine erkannte; Vollständigkeit nicht garantiert |
+| Yahoo Tagesgewinner | ok | 94 | keine erkannte; Vollständigkeit nicht garantiert |
 
 ## Originalmeldungen · letzte 24 Stunden
 
@@ -22,26 +22,26 @@ Keine zeitlich zuordenbaren Meldungen im erfassten Fenster. Quellenstatus beacht
 
 | Symbol | Tagesänderung | Seit vorherigem Scan | Tagesvolumen / Ø ganzer Tag | Status |
 |---|---:|---:|---:|---|
-| SNY | 3.525% | 0.179 | 2.299 | MOMENTUM PRÜFEN |
-| CDNA | 22.798% | -0.729 | 1.516 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| GPN | 17.321% | offen | 2.239 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CPRI | 16.812% | 1.269 | 1.158 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| FDXF | 16.147% | 1.596 | 0.954 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| MEOH | 13.396% | 0.975 | 2.021 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CVCO | 13.071% | 0.463 | 1.229 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| REGN | 11.514% | -0.095 | 2.152 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| OLN | 10.155% | offen | 0.793 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| VLTO | 10.081% | 1.068 | 0.823 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| BTSG | 9.997% | 0.837 | 1.049 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| EXEL | 8.293% | 0.196 | 0.724 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| AZN | 7.403% | 0.467 | 0.986 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CBOE | 7.348% | -0.037 | 0.529 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| TMUS | 7.268% | 0.146 | 1.042 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| GDDY | 6.611% | 1.074 | 0.406 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| BAH | 6.459% | 0.538 | 1.019 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| MIAX | 6.202% | 0.406 | 0.399 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| GLOB | 6.136% | offen | 0.348 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| DAO | 6.114% | offen | 0.519 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| SNY | 3.257% | -0.258 | 4.219 | MOMENTUM PRÜFEN |
+| SFM | 3.187% | -0.121 | 1.849 | MOMENTUM PRÜFEN |
+| CDNA | 21.693% | -0.9 | 1.647 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CPRI | 16.562% | -0.214 | 1.232 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| FDXF | 16.114% | -0.029 | 1.206 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| MEOH | 14.487% | 0.951 | 2.246 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| GPN | 12.476% | -4.145 | 4.136 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CVCO | 11.623% | -1.281 | 1.296 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| REGN | 11.191% | -0.289 | 2.315 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| VLTO | 10.556% | 0.432 | 0.921 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| OLN | 9.595% | -0.508 | 0.884 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| BTSG | 8.295% | -1.547 | 1.181 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CBOE | 7.989% | 0.597 | 0.761 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| EXEL | 7.689% | -0.558 | 0.838 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| TMUS | 7.441% | 0.161 | 1.197 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| AZN | 7.417% | 0.013 | 1.111 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| GDDY | 6.913% | 0.283 | 0.495 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| GLOB | 6.754% | 0.582 | 0.424 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| MHK | 6.447% | 0.68 | 1.324 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ERIE | 6.196% | 0.323 | 0.788 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 
 Kurse in Rohdaten mit Originalwährung und Zeitstempel. EUR-Umrechnung erst mit geprüftem Wechselkurs. Tagesänderung ist nicht die Reaktion seit einer Nachricht.
 
