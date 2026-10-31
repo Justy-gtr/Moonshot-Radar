@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-10-31T16:38:21.322632+00:00 · Status: **partial**
+Stand: 2026-10-31T17:16:46.725352+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -8,7 +8,7 @@ Stand: 2026-10-31T16:38:21.322632+00:00 · Status: **partial**
 
 | Quelle | Status | Einträge | Lücke/Fehler |
 |---|---|---:|---|
-| FDA | error | 0 | HTTPError: HTTP Error 404: Not Found |
+| FDA | ok | 20 | keine erkannte; Vollständigkeit nicht garantiert |
 | SEC 8-K | error | 0 | HTTPError: HTTP Error 403: Forbidden |
 | SEC 6-K | error | 0 | HTTPError: HTTP Error 403: Forbidden |
 | SEC Finanzierung | error | 0 | HTTPError: HTTP Error 403: Forbidden |
