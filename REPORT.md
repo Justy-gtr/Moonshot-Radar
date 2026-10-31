@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-10-31T19:53:17.112926+00:00 · Status: **partial**
+Stand: 2026-10-31T20:36:56.337077+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -16,8 +16,7 @@ Stand: 2026-10-31T19:53:17.112926+00:00 · Status: **partial**
 
 ## Originalmeldungen · letzte 24 Stunden
 
-- **ORIGINALMELDUNG PRÜFEN** · [FDA Approves First Plasmid DNA-based Immunotherapy for Adults with Recurrent Respiratory Papillomatosis](http://www.fda.gov/news-events/press-announcements/fda-approves-first-plasmid-dna-based-immunotherapy-adults-recurrent-respiratory-papillomatosis)
-  Quelle: FDA · Feedzeit: 2026-10-30T20:32:08+00:00 · entdeckt: 2026-10-30T20:58:49.364850+00:00
+Keine zeitlich zuordenbaren Meldungen im erfassten Fenster. Quellenstatus beachten.
 
 ## Momentum-Beobachtungen · keine Handelssignale
 
