@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-10-31T11:36:41.113347+00:00 · Status: **partial**
+Stand: 2026-10-31T12:12:28.517609+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -23,26 +23,26 @@ Stand: 2026-10-31T11:36:41.113347+00:00 · Status: **partial**
 
 | Symbol | Tagesänderung | Seit vorherigem Scan | Tagesvolumen / Ø ganzer Tag | Status |
 |---|---:|---:|---:|---|
-| CDNA | 22.218% | offen | 2.673 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CPRI | 16.314% | offen | 2.151 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CDNA | 22.218% | offen | 2.72 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CPRI | 16.314% | offen | 2.141 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | FDXF | 14.906% | offen | 2.403 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | MEOH | 14.038% | offen | 3.791 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| REGN | 13.327% | offen | 3.851 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CVCO | 13.111% | offen | 2.279 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| GPN | 12.973% | offen | 6.168 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| BTSG | 11.076% | offen | 2.321 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| REGN | 13.327% | offen | 3.885 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CVCO | 13.111% | offen | 2.333 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| GPN | 12.973% | offen | 6.178 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| BTSG | 11.076% | offen | 2.397 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | GDDY | 10.719% | offen | 1.705 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| OLN | 9.657% | offen | 1.826 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| INTA | 7.954% | offen | 1.646 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CDLR | 7.756% | offen | 1.247 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| HGV | 7.645% | offen | 1.719 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| OLN | 9.657% | offen | 1.878 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| INTA | 7.954% | offen | 1.652 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CDLR | 7.756% | offen | 1.244 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| HGV | 7.645% | offen | 1.728 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | RKT | 7.383% | offen | 1.657 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| MHK | 7.247% | offen | 2.642 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CSGP | 7.214% | offen | 1.474 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| AZN | 7.024% | offen | 1.562 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| MIAX | 6.966% | offen | 1.452 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| GLOB | 6.96% | offen | 0.965 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CBOE | 6.772% | offen | 2.16 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| MHK | 7.247% | offen | 2.674 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CSGP | 7.214% | offen | 1.48 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| AZN | 7.024% | offen | 1.549 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| MIAX | 6.966% | offen | 1.448 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| GLOB | 6.96% | offen | 0.983 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CBOE | 6.772% | offen | 2.177 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 
 Kurse in Rohdaten mit Originalwährung und Zeitstempel. EUR-Umrechnung erst mit geprüftem Wechselkurs. Tagesänderung ist nicht die Reaktion seit einer Nachricht.
 
