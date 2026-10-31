@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-10-31T10:56:50.610679+00:00 · Status: **partial**
+Stand: 2026-10-31T11:36:41.113347+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -25,18 +25,18 @@ Stand: 2026-10-31T10:56:50.610679+00:00 · Status: **partial**
 |---|---:|---:|---:|---|
 | CDNA | 22.218% | offen | 2.673 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | CPRI | 16.314% | offen | 2.151 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| FDXF | 14.906% | offen | 2.418 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| MEOH | 14.038% | offen | 3.759 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| FDXF | 14.906% | offen | 2.403 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| MEOH | 14.038% | offen | 3.791 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | REGN | 13.327% | offen | 3.851 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | CVCO | 13.111% | offen | 2.279 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | GPN | 12.973% | offen | 6.168 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | BTSG | 11.076% | offen | 2.321 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| GDDY | 10.719% | offen | 1.65 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| GDDY | 10.719% | offen | 1.705 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | OLN | 9.657% | offen | 1.826 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | INTA | 7.954% | offen | 1.646 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | CDLR | 7.756% | offen | 1.247 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | HGV | 7.645% | offen | 1.719 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| RKT | 7.383% | offen | 1.666 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| RKT | 7.383% | offen | 1.657 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | MHK | 7.247% | offen | 2.642 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | CSGP | 7.214% | offen | 1.474 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | AZN | 7.024% | offen | 1.562 | BEREITS GESTIEGEN / DATEN PRÜFEN |
