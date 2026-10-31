@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-10-31T13:58:54.403021+00:00 · Status: **partial**
+Stand: 2026-10-31T14:37:24.529077+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -24,7 +24,6 @@ Stand: 2026-10-31T13:58:54.403021+00:00 · Status: **partial**
 | Symbol | Tagesänderung | Seit vorherigem Scan | Tagesvolumen / Ø ganzer Tag | Status |
 |---|---:|---:|---:|---|
 | CDNA | 22.218% | offen | 2.72 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CPRI | 16.314% | offen | 2.141 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | FDXF | 14.906% | offen | 2.403 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | MEOH | 14.038% | offen | 3.791 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | REGN | 13.327% | offen | 3.885 | BEREITS GESTIEGEN / DATEN PRÜFEN |
@@ -43,6 +42,7 @@ Stand: 2026-10-31T13:58:54.403021+00:00 · Status: **partial**
 | MIAX | 6.966% | offen | 1.448 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | GLOB | 6.96% | offen | 0.983 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | CBOE | 6.772% | offen | 2.177 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| VLTO | 6.765% | offen | 2.485 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 
 Kurse in Rohdaten mit Originalwährung und Zeitstempel. EUR-Umrechnung erst mit geprüftem Wechselkurs. Tagesänderung ist nicht die Reaktion seit einer Nachricht.
 
