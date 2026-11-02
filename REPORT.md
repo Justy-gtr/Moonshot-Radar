@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-11-02T18:26:38.967424+00:00 · Status: **partial**
+Stand: 2026-11-02T19:29:54.926132+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -23,26 +23,26 @@ Stand: 2026-11-02T18:26:38.967424+00:00 · Status: **partial**
 
 | Symbol | Tagesänderung | Seit vorherigem Scan | Tagesvolumen / Ø ganzer Tag | Status |
 |---|---:|---:|---:|---|
-| IDXX | 20.727% | 0.856 | 2.286 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| NXT | 15.574% | -0.591 | 1.228 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| NWL | 13.115% | -1.925 | 1.339 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| WING | 12.008% | -0.167 | 1.352 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| TEM | 11.718% | -0.766 | 1.573 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| LOAR | 10.836% | 0.306 | 1.827 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| PHIN | 10.593% | 0.556 | 0.612 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| SFM | 10.282% | 1.219 | 1.718 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ENPH | 10.274% | -0.123 | 0.91 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| RIVN | 10.238% | 0.075 | 1.827 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| MGRC | 9.824% | offen | 3.538 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ESAB | 9.737% | 0.588 | 0.484 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| KVYO | 9.608% | 0.891 | 0.63 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| USLM | 9.255% | offen | 1.27 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| TRLV | 9.241% | -0.089 | 0.604 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CIGI | 9.219% | 1.329 | 0.907 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CPRI | 8.994% | -0.391 | 0.883 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| BOBS | 8.962% | -0.028 | 0.505 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| RKT | 8.945% | 1.087 | 0.703 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ALGT | 8.887% | -0.206 | 0.565 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| IDXX | 20.357% | offen | 2.537 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| NWL | 15.927% | offen | 1.563 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| NXT | 15.908% | offen | 1.455 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| TEM | 13.002% | offen | 1.783 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| SFM | 11.127% | offen | 2.052 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| LOAR | 11.045% | offen | 2.022 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| PHIN | 10.72% | offen | 0.771 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| NSP | 9.994% | offen | 0.78 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| WING | 9.973% | offen | 1.522 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CIGI | 9.633% | offen | 1.119 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| MGRC | 9.579% | offen | 4.39 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| AIN | 9.567% | offen | 0.774 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| USLM | 9.28% | offen | 1.441 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| VSEC | 9.106% | offen | 0.564 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| RIVN | 9.087% | offen | 2.053 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ENPH | 9.025% | offen | 1.089 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CWK | 9.023% | offen | 1.238 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ESAB | 9.002% | offen | 0.618 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| BOBS | 8.932% | offen | 0.618 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CPRI | 8.913% | offen | 0.991 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 
 Kurse in Rohdaten mit Originalwährung und Zeitstempel. EUR-Umrechnung erst mit geprüftem Wechselkurs. Tagesänderung ist nicht die Reaktion seit einer Nachricht.
 
