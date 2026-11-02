@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-11-02T14:20:38.088931+00:00 · Status: **partial**
+Stand: 2026-11-02T15:16:58.799582+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -16,32 +16,33 @@ Stand: 2026-11-02T14:20:38.088931+00:00 · Status: **partial**
 
 ## Originalmeldungen · letzte 24 Stunden
 
-Keine zeitlich zuordenbaren Meldungen im erfassten Fenster. Quellenstatus beachten.
+- **ORIGINALMELDUNG PRÜFEN** · [FDA Provides Clarity to Support Cell and Gene Therapy Development and Quality](http://www.fda.gov/news-events/press-announcements/fda-provides-clarity-support-cell-and-gene-therapy-development-and-quality)
+  Quelle: FDA · Feedzeit: 2026-11-02T13:56:06+00:00 · entdeckt: 2026-11-02T15:16:58.799582+00:00
 
 ## Momentum-Beobachtungen · keine Handelssignale
 
 | Symbol | Tagesänderung | Seit vorherigem Scan | Tagesvolumen / Ø ganzer Tag | Status |
 |---|---:|---:|---:|---|
-| CDNA | 22.218% | offen | 0.005 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| FDXF | 14.906% | offen | 0.001 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| MEOH | 14.038% | offen | 3.791 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| REGN | 13.327% | offen | 0.003 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CVCO | 13.111% | offen | 2.35 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| GPN | 12.973% | offen | 0.004 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| BTSG | 11.076% | offen | 0.002 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| GDDY | 10.719% | offen | 1.705 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| OLN | 9.657% | offen | 1.878 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| INTA | 7.954% | offen | 1.653 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CDLR | 7.756% | offen | 0.02 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| HGV | 7.645% | offen | 1.728 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| RKT | 7.383% | offen | 0.006 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| MHK | 7.247% | offen | 0.005 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CSGP | 7.214% | offen | 0.002 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| AZN | 7.024% | offen | 0.022 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| MIAX | 6.966% | offen | 1.448 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| GLOB | 6.96% | offen | 0.011 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CBOE | 6.772% | offen | 2.177 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| VLTO | 6.765% | offen | 2.485 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| IDXX | 16.108% | offen | 0.968 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| NXT | 14.082% | offen | 0.367 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ENPH | 11.033% | offen | 0.395 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| RIVN | 9.416% | offen | 0.736 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| GPGI | 8.766% | offen | 0.094 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ALK | 8.723% | offen | 0.332 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| LOAR | 8.678% | offen | 0.594 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| FTAI | 8.635% | offen | 0.315 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ALGT | 8.579% | offen | 0.162 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| TEM | 8.426% | offen | 0.574 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| WING | 8.225% | offen | 0.378 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| BILI | 7.886% | offen | 0.566 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| XPEV | 7.857% | offen | 0.401 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| NWL | 7.819% | offen | 0.269 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| SRAD | 7.731% | offen | 0.294 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ROAD | 7.684% | offen | 0.1 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| MHK | 7.655% | offen | 0.287 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| PHIN | 7.589% | offen | 0.161 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| VSEC | 7.563% | offen | 0.127 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| PENN | 7.426% | offen | 0.206 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 
 Kurse in Rohdaten mit Originalwährung und Zeitstempel. EUR-Umrechnung erst mit geprüftem Wechselkurs. Tagesänderung ist nicht die Reaktion seit einer Nachricht.
 
