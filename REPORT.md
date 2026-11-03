@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-11-03T15:08:46.615718+00:00 · Status: **partial**
+Stand: 2026-11-03T16:14:17.335187+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -22,26 +22,26 @@ Keine zeitlich zuordenbaren Meldungen im erfassten Fenster. Quellenstatus beacht
 
 | Symbol | Tagesänderung | Seit vorherigem Scan | Tagesvolumen / Ø ganzer Tag | Status |
 |---|---:|---:|---:|---|
-| AEHR | 24.037% | offen | 1.148 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| BETA | 16.769% | offen | 0.362 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| GPK | 14.201% | offen | 0.372 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| NBIX | 13.74% | offen | 0.882 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| FN | 12.806% | offen | 0.47 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| SRAD | 12.743% | offen | 0.424 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| LSCC | 12.343% | offen | 1.513 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| HUT | 12.262% | offen | 0.352 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| RVTY | 12.15% | offen | 0.442 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| BE | 11.088% | offen | 0.306 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| PENG | 10.684% | offen | 0.282 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CIFR | 10.219% | offen | 0.273 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| AEIS | 10.141% | offen | 0.364 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| AXTI | 10.104% | offen | 0.353 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| RIOT | 9.794% | offen | 0.225 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| FORM | 9.611% | offen | 0.144 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| FRVO | 9.576% | offen | 0.16 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| TTMI | 9.082% | offen | 0.151 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| GLXY | 9.047% | offen | 0.187 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| IREN | 8.946% | offen | 0.285 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| AEHR | 24.208% | offen | 1.726 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| GPK | 17.471% | offen | 0.929 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| FN | 15.874% | offen | 0.933 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| BETA | 15.849% | offen | 0.698 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| HUT | 15.759% | offen | 0.622 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| NBIX | 15.17% | offen | 1.301 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| LSCC | 14.816% | offen | 2.269 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| SRAD | 14.763% | offen | 0.892 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| RIOT | 14.189% | offen | 0.637 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| PENG | 12.905% | offen | 0.452 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| AEIS | 12.229% | offen | 0.618 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CIFR | 12.035% | offen | 0.455 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| NVTS | 11.98% | offen | 0.492 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| FISV | 11.67% | offen | 0.892 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| PTCT | 11.523% | offen | 0.88 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| RRX | 11.499% | offen | 1.132 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CLSK | 11.391% | offen | 0.363 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| GLXY | 11.241% | offen | 0.344 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| MWH | 10.958% | offen | 0.276 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| RVTY | 10.872% | offen | 0.732 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 
 Kurse in Rohdaten mit Originalwährung und Zeitstempel. EUR-Umrechnung erst mit geprüftem Wechselkurs. Tagesänderung ist nicht die Reaktion seit einer Nachricht.
 
