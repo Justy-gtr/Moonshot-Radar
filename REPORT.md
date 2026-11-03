@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-11-03T20:48:39.627377+00:00 · Status: **partial**
+Stand: 2026-11-03T21:27:16.617391+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -22,26 +22,26 @@ Keine zeitlich zuordenbaren Meldungen im erfassten Fenster. Quellenstatus beacht
 
 | Symbol | Tagesänderung | Seit vorherigem Scan | Tagesvolumen / Ø ganzer Tag | Status |
 |---|---:|---:|---:|---|
-| AEHR | 23.956% | -1.147 | 2.854 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| GPK | 20.418% | 0.853 | 2.698 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CIFR | 17.566% | 0.939 | 1.352 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| RIOT | 16.681% | 1.32 | 1.594 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| XMTR | 15.729% | -2.08 | 2.535 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| FN | 15.526% | -0.422 | 2.094 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| HUT | 15.462% | -0.455 | 1.248 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| NBIX | 14.441% | -1.247 | 2.501 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| BETA | 14.181% | -0.257 | 1.282 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| WULF | 14.169% | 0.282 | 1.164 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| GLXY | 14.119% | 1.493 | 1.004 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CLSK | 13.776% | 1.119 | 0.892 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CORZ | 13.635% | 2.341 | 1.227 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| PENG | 13.326% | 0.476 | 0.931 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| SRAD | 13.131% | -1.02 | 2.535 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| LSCC | 12.846% | 1.652 | 3.39 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| FISV | 12.748% | -1.039 | 2.206 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| MWH | 12.25% | -0.333 | 1.035 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| IREN | 11.694% | 1.485 | 0.943 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| MARA | 11.664% | 1.628 | 0.722 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| AEHR | 26.501% | offen | 3.264 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| GPK | 21.222% | offen | 3.598 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| RIOT | 18.412% | offen | 2.111 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CIFR | 18.367% | offen | 1.653 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| XMTR | 16.546% | offen | 3.402 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| BETA | 15.996% | offen | 1.607 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| HUT | 15.899% | offen | 1.565 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| FN | 15.453% | offen | 2.528 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| GLXY | 15.353% | offen | 1.38 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| WULF | 14.534% | offen | 1.428 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CLSK | 13.986% | offen | 1.089 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CORZ | 13.874% | offen | 1.556 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| NBIX | 13.416% | offen | 3.23 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| FRVO | 12.97% | offen | 1.216 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| FISV | 12.459% | offen | 2.761 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| PENG | 11.979% | offen | 1.139 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| PTCT | 11.892% | offen | 2.485 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| RRX | 11.806% | offen | 2.568 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| MWH | 11.708% | offen | 1.424 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| INIO | 11.578% | offen | 1.08 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 
 Kurse in Rohdaten mit Originalwährung und Zeitstempel. EUR-Umrechnung erst mit geprüftem Wechselkurs. Tagesänderung ist nicht die Reaktion seit einer Nachricht.
 
