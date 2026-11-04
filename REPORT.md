@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-11-04T01:40:24.641188+00:00 · Status: **partial**
+Stand: 2026-11-04T02:32:07.112756+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -22,7 +22,7 @@ Keine zeitlich zuordenbaren Meldungen im erfassten Fenster. Quellenstatus beacht
 
 | Symbol | Tagesänderung | Seit vorherigem Scan | Tagesvolumen / Ø ganzer Tag | Status |
 |---|---:|---:|---:|---|
-| AEHR | 26.501% | offen | 3.295 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| AEHR | 26.501% | offen | 3.294 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | GPK | 21.222% | offen | 3.6 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | RIOT | 18.412% | offen | 2.13 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | CIFR | 18.367% | offen | 1.66 | BEREITS GESTIEGEN / DATEN PRÜFEN |
