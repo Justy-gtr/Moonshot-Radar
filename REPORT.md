@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-11-05T15:31:33.054623+00:00 · Status: **partial**
+Stand: 2026-11-05T16:39:11.051780+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -12,7 +12,7 @@ Stand: 2026-11-05T15:31:33.054623+00:00 · Status: **partial**
 | SEC 8-K | error | 0 | HTTPError: HTTP Error 403: Forbidden |
 | SEC 6-K | error | 0 | HTTPError: HTTP Error 403: Forbidden |
 | SEC Finanzierung | error | 0 | HTTPError: HTTP Error 403: Forbidden |
-| Yahoo Tagesgewinner | ok | 100 | keine erkannte; Vollständigkeit nicht garantiert |
+| Yahoo Tagesgewinner | ok | 71 | keine erkannte; Vollständigkeit nicht garantiert |
 
 ## Originalmeldungen · letzte 24 Stunden
 
@@ -22,26 +22,26 @@ Keine zeitlich zuordenbaren Meldungen im erfassten Fenster. Quellenstatus beacht
 
 | Symbol | Tagesänderung | Seit vorherigem Scan | Tagesvolumen / Ø ganzer Tag | Status |
 |---|---:|---:|---:|---|
-| APP | 32.603% | offen | 1.976 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| XERS | 28.503% | offen | 1.51 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ADMA | 25.668% | offen | 1.496 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| WRBY | 21.982% | offen | 0.902 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ARDT | 20.015% | offen | 0.862 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| MGNI | 19.285% | offen | 1.328 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| VCEL | 18.734% | offen | 0.887 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| SEZL | 17.679% | offen | 1.463 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| EPAM | 16.446% | offen | 0.615 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ECPG | 14.43% | offen | 0.397 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| PGNY | 13.505% | offen | 0.344 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ACHC | 11.504% | offen | 1.065 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| U | 11.093% | offen | 1.931 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CPAY | 10.799% | offen | 1.072 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| VERX | 10.678% | offen | 0.576 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| MSI | 9.919% | offen | 0.959 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| TM | 9.786% | offen | 1.291 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| BSY | 9.693% | offen | 1.325 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| IPAR | 9.141% | offen | 0.281 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CF | 8.896% | offen | 0.449 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ACAD | 4.192% | offen | 1.737 | MOMENTUM PRÜFEN |
+| APP | 30.263% | offen | 2.749 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ADMA | 26.622% | offen | 2.243 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| XERS | 25.765% | offen | 2.189 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| WRBY | 25.082% | offen | 1.499 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| MGNI | 20.842% | offen | 1.763 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| SEZL | 19.025% | offen | 2.078 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ARDT | 17.86% | offen | 2.082 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ECPG | 16.692% | offen | 0.629 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| EPAM | 16.69% | offen | 0.962 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| PGNY | 13.389% | offen | 1.027 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| U | 13.377% | offen | 2.587 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| VCEL | 12.434% | offen | 1.756 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| VERX | 11.118% | offen | 0.951 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| GCT | 10.996% | offen | 0.94 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| TM | 10.926% | offen | 1.802 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| FWONA | 9.739% | offen | 2.088 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ACHC | 8.93% | offen | 1.427 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CPAY | 8.892% | offen | 1.639 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| MSI | 8.294% | offen | 1.541 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 
 Kurse in Rohdaten mit Originalwährung und Zeitstempel. EUR-Umrechnung erst mit geprüftem Wechselkurs. Tagesänderung ist nicht die Reaktion seit einer Nachricht.
 
