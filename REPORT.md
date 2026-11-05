@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-11-05T22:12:01.128224+00:00 · Status: **partial**
+Stand: 2026-11-05T23:04:14.710852+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -12,11 +12,12 @@ Stand: 2026-11-05T22:12:01.128224+00:00 · Status: **partial**
 | SEC 8-K | error | 0 | HTTPError: HTTP Error 403: Forbidden |
 | SEC 6-K | error | 0 | HTTPError: HTTP Error 403: Forbidden |
 | SEC Finanzierung | error | 0 | HTTPError: HTTP Error 403: Forbidden |
-| Yahoo Tagesgewinner | ok | 67 | keine erkannte; Vollständigkeit nicht garantiert |
+| Yahoo Tagesgewinner | ok | 68 | keine erkannte; Vollständigkeit nicht garantiert |
 
 ## Originalmeldungen · letzte 24 Stunden
 
-Keine zeitlich zuordenbaren Meldungen im erfassten Fenster. Quellenstatus beachten.
+- **ORIGINALMELDUNG PRÜFEN** · [FDA Grants Accelerated Approval to a New Treatment for Head and Neck Squamous Cell Carcinoma](http://www.fda.gov/news-events/press-announcements/fda-grants-accelerated-approval-new-treatment-head-and-neck-squamous-cell-carcinoma)
+  Quelle: FDA · Feedzeit: 2026-11-05T22:30:38+00:00 · entdeckt: 2026-11-05T23:04:14.710852+00:00
 
 ## Momentum-Beobachtungen · keine Handelssignale
 
