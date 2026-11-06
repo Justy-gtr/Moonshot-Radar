@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-11-06T00:27:08.720750+00:00 · Status: **partial**
+Stand: 2026-11-06T01:48:01.001550+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -23,23 +23,23 @@ Stand: 2026-11-06T00:27:08.720750+00:00 · Status: **partial**
 
 | Symbol | Tagesänderung | Seit vorherigem Scan | Tagesvolumen / Ø ganzer Tag | Status |
 |---|---:|---:|---:|---|
-| APP | 31.04% | offen | 4.266 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| APP | 31.04% | offen | 4.261 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | ECPG | 26.258% | offen | 2.305 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ADMA | 26.05% | offen | 5.2 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ADMA | 26.05% | offen | 5.199 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | XERS | 25.048% | offen | 5.131 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | WRBY | 22.499% | offen | 3.73 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | ARDT | 22.402% | offen | 5.741 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | MGNI | 20.755% | offen | 4.082 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | EPAM | 20.632% | offen | 3.104 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| U | 14.932% | offen | 4.657 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| U | 14.932% | offen | 4.656 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | PGNY | 14.186% | offen | 2.492 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | VCEL | 13.852% | offen | 4.956 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| SEZL | 13.395% | offen | 3.249 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| RUN | 12.287% | offen | 4.06 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| SEZL | 13.395% | offen | 3.246 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| RUN | 12.287% | offen | 4.059 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | VERX | 10.49% | offen | 3.145 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | FWONA | 9.546% | offen | 4.546 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | IPAR | 9.476% | offen | 3.364 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| TM | 9.35% | offen | 3.382 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| TM | 9.35% | offen | 3.38 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | LFTO | 9.305% | offen | 1.286 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | GCT | 8.863% | offen | 1.866 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | RYN | 8.627% | offen | 1.736 | BEREITS GESTIEGEN / DATEN PRÜFEN |
