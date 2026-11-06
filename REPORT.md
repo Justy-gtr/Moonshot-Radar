@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-11-06T15:07:06.054064+00:00 · Status: **partial**
+Stand: 2026-11-06T15:54:09.795890+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -23,26 +23,26 @@ Stand: 2026-11-06T15:07:06.054064+00:00 · Status: **partial**
 
 | Symbol | Tagesänderung | Seit vorherigem Scan | Tagesvolumen / Ø ganzer Tag | Status |
 |---|---:|---:|---:|---|
-| FROG | 31.774% | offen | 0.921 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| KRMN | 23.216% | offen | 0.366 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| LASR | 23.211% | offen | 0.321 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| TMDX | 22.079% | offen | 0.794 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| EXTR | 18.195% | offen | 0.97 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| IREN | 17.526% | offen | 0.8 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| OKLO | 16.403% | offen | 0.475 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| FLY | 15.717% | offen | 0.655 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| PENG | 15.624% | offen | 0.35 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| UI | 14.531% | offen | 0.204 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| NET | 13.243% | offen | 0.866 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| PLUS | 12.483% | offen | 0.174 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CECO | 12.047% | offen | 0.296 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| DXPE | 11.571% | offen | 0.328 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| AMD | 11.442% | offen | 0.668 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| COHR | 11.304% | offen | 0.51 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| IONQ | 10.821% | offen | 0.374 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| SITM | 10.444% | offen | 0.47 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| FTAI | 10.366% | offen | 0.494 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| FORM | 10.215% | offen | 0.176 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| FROG | 31.707% | -0.051 | 1.518 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| KRMN | 25.101% | 1.492 | 0.715 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| LASR | 23.108% | -0.083 | 0.588 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| FLY | 21.779% | 5.239 | 0.991 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| IREN | 21.243% | 3.162 | 1.11 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| TMDX | 20.948% | -0.926 | 1.204 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| OKLO | 18.229% | 1.569 | 0.853 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| EXTR | 16.033% | -1.829 | 1.542 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| PENG | 15.059% | -0.5 | 0.579 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CGON | 14.622% | 5.444 | 0.321 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| UI | 13.893% | offen | 0.326 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| SITM | 12.683% | 2.028 | 0.866 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| LEU | 12.529% | offen | 0.51 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ONDS | 12.058% | offen | 0.242 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| NET | 11.963% | -1.13 | 1.182 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| IONQ | 11.956% | 1.024 | 0.566 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| PLUS | 11.877% | -0.539 | 0.615 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| NVMI | 11.819% | 2.03 | 0.386 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| COHR | 11.625% | 0.288 | 0.716 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| SEI | 11.424% | 4.344 | 0.394 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 
 Kurse in Rohdaten mit Originalwährung und Zeitstempel. EUR-Umrechnung erst mit geprüftem Wechselkurs. Tagesänderung ist nicht die Reaktion seit einer Nachricht.
 
