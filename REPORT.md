@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-11-07T00:10:33.210452+00:00 · Status: **partial**
+Stand: 2026-11-07T01:25:19.051644+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -37,7 +37,7 @@ Keine zeitlich zuordenbaren Meldungen im erfassten Fenster. Quellenstatus beacht
 | CIFR | 17.928% | offen | 1.935 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | LEU | 17.488% | offen | 1.732 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | SITM | 17.441% | offen | 3.155 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CGON | 17.269% | offen | 4.124 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CGON | 17.268% | offen | 4.124 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | PPTA | 16.597% | offen | 2.649 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | SMR | 16.247% | offen | 1.203 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | XERS | 16.208% | offen | 3.111 | BEREITS GESTIEGEN / DATEN PRÜFEN |
