@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-11-09T13:59:52.260234+00:00 · Status: **partial**
+Stand: 2026-11-09T14:56:28.336663+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -22,26 +22,26 @@ Keine zeitlich zuordenbaren Meldungen im erfassten Fenster. Quellenstatus beacht
 
 | Symbol | Tagesänderung | Seit vorherigem Scan | Tagesvolumen / Ø ganzer Tag | Status |
 |---|---:|---:|---:|---|
-| KRMN | 42.132% | offen | 3.006 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| FLY | 36.804% | offen | 4.222 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| FROG | 35.326% | offen | 3.576 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| LASR | 29.584% | offen | 2.307 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| TMDX | 27.921% | offen | 4.589 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| IONQ | 23.42% | offen | 1.926 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| OKLO | 22.656% | offen | 2.475 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| IREN | 20.022% | offen | 2.302 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| INFQ | 19.489% | offen | 1.292 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| RGTI | 19.289% | offen | 1.723 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ONDS | 18.031% | offen | 0.757 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| QBTS | 18.011% | offen | 1.739 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CIFR | 17.928% | offen | 1.913 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| LEU | 17.488% | offen | 1.707 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| SITM | 17.441% | offen | 3.072 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CGON | 17.269% | offen | 3.914 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| PPTA | 16.597% | offen | 2.626 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| SMR | 16.247% | offen | 1.197 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| XERS | 16.208% | offen | 3.009 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CECO | 16.065% | offen | 2.615 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CECO | 23.084% | offen | 1.081 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| IMVT | 15.689% | offen | 0.42 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| WRBY | 15.604% | offen | 0.321 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| QXO | 14.273% | offen | 0.276 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| VIR | 13.211% | offen | 1.54 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| VSAT | 12.463% | offen | 0.106 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| SGRY | 12.284% | offen | 0.935 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| BE | 11.651% | offen | 0.281 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| TIC | 11.603% | offen | 0.218 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| COHR | 11.317% | offen | 0.338 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| LITE | 11.229% | offen | 0.283 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| FERG | 10.826% | offen | 0.338 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| TTD | 10.789% | offen | 0.355 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| FLEX | 10.656% | offen | 0.171 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ALAB | 10.125% | offen | 0.205 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CIEN | 9.945% | offen | 0.095 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CRDO | 9.775% | offen | 0.147 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| STRL | 9.699% | offen | 0.158 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| DPC | 9.694% | offen | 0.037 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| VICR | 9.532% | offen | 0.094 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 
 Kurse in Rohdaten mit Originalwährung und Zeitstempel. EUR-Umrechnung erst mit geprüftem Wechselkurs. Tagesänderung ist nicht die Reaktion seit einer Nachricht.
 
