@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-11-09T16:01:53.871853+00:00 · Status: **partial**
+Stand: 2026-11-09T17:09:33.286456+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -22,26 +22,26 @@ Keine zeitlich zuordenbaren Meldungen im erfassten Fenster. Quellenstatus beacht
 
 | Symbol | Tagesänderung | Seit vorherigem Scan | Tagesvolumen / Ø ganzer Tag | Status |
 |---|---:|---:|---:|---|
-| CECO | 24.731% | offen | 1.828 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| WRBY | 21.075% | offen | 1.305 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| FRVO | 19.224% | offen | 0.753 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| COHR | 17.909% | offen | 0.74 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| VSAT | 17.514% | offen | 0.576 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ASTS | 17.254% | offen | 0.759 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| QXO | 16.882% | offen | 0.591 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| TTD | 16.125% | offen | 1.07 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| IMVT | 15.626% | offen | 0.823 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| FLY | 15.077% | offen | 1.15 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| BE | 15.066% | offen | 0.556 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ALAB | 14.86% | offen | 0.472 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| FPS | 14.476% | offen | 0.287 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| STRL | 14.39% | offen | 0.464 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| PL | 13.984% | offen | 0.312 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| FLEX | 13.966% | offen | 0.515 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| VIR | 13.923% | offen | 2.106 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| LITE | 13.816% | offen | 0.524 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| SGRY | 13.728% | offen | 1.944 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| MXL | 13.298% | offen | 0.263 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| FRVO | 24.211% | offen | 1.393 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CECO | 24.045% | offen | 2.387 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| WRBY | 20.983% | offen | 1.788 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| COHR | 18.549% | offen | 1.074 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| QXO | 17.322% | offen | 0.825 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| TTD | 16.203% | offen | 1.485 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| VSAT | 15.082% | offen | 0.888 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ALAB | 14.871% | offen | 0.623 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ASTS | 14.599% | offen | 1.046 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CNH | 14.49% | offen | 0.502 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| STRL | 14.087% | offen | 0.691 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| MPWR | 14.077% | offen | 0.539 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| BE | 14.043% | offen | 0.671 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| FLY | 13.68% | offen | 1.464 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| MXL | 13.644% | offen | 0.356 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| TTMI | 13.412% | offen | 0.408 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| COHU | 13.315% | offen | 0.344 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| FPS | 13.116% | offen | 0.408 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| SMTC | 13.109% | offen | 0.359 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| OKLO | 12.905% | offen | 0.795 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 
 Kurse in Rohdaten mit Originalwährung und Zeitstempel. EUR-Umrechnung erst mit geprüftem Wechselkurs. Tagesänderung ist nicht die Reaktion seit einer Nachricht.
 
