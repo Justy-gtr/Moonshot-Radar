@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-11-10T10:40:38.719305+00:00 · Status: **partial**
+Stand: 2026-11-10T11:37:35.633446+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -25,7 +25,7 @@ Stand: 2026-11-10T10:40:38.719305+00:00 · Status: **partial**
 |---|---:|---:|---:|---|
 | FRVO | 26.094% | offen | 3.113 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | PRAX | 19.937% | offen | 2.43 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| QXO | 19.204% | offen | 2.216 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| QXO | 19.204% | offen | 2.159 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | CECO | 18.966% | offen | 4.735 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | WRBY | 18.564% | offen | 3.682 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | FLY | 17.1% | offen | 2.74 | BEREITS GESTIEGEN / DATEN PRÜFEN |
@@ -42,7 +42,7 @@ Stand: 2026-11-10T10:40:38.719305+00:00 · Status: **partial**
 | ASTS | 14.104% | offen | 1.98 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | SGRY | 14.009% | offen | 4.676 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | OKLO | 13.97% | offen | 1.983 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| DPC | 13.725% | offen | 1.128 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| DPC | 13.725% | offen | 1.12 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 
 Kurse in Rohdaten mit Originalwährung und Zeitstempel. EUR-Umrechnung erst mit geprüftem Wechselkurs. Tagesänderung ist nicht die Reaktion seit einer Nachricht.
 
