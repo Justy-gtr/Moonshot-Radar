@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-11-10T22:00:39.241115+00:00 · Status: **partial**
+Stand: 2026-11-10T22:43:55.750574+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -16,8 +16,7 @@ Stand: 2026-11-10T22:00:39.241115+00:00 · Status: **partial**
 
 ## Originalmeldungen · letzte 24 Stunden
 
-- **ORIGINALMELDUNG PRÜFEN** · [FDA Approves First Factor Xla Inhibitor to Help Prevent Stroke in Certain Adults at High Risk](http://www.fda.gov/news-events/press-announcements/fda-approves-first-factor-xla-inhibitor-help-prevent-stroke-certain-adults-high-risk)
-  Quelle: FDA · Feedzeit: 2026-11-09T22:15:46+00:00 · entdeckt: 2026-11-09T22:49:27.873393+00:00
+Keine zeitlich zuordenbaren Meldungen im erfassten Fenster. Quellenstatus beachten.
 
 ## Momentum-Beobachtungen · keine Handelssignale
 
