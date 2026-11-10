@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-11-10T15:49:55.393811+00:00 · Status: **partial**
+Stand: 2026-11-10T16:34:35.849347+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -12,7 +12,7 @@ Stand: 2026-11-10T15:49:55.393811+00:00 · Status: **partial**
 | SEC 8-K | error | 0 | HTTPError: HTTP Error 403: Forbidden |
 | SEC 6-K | error | 0 | HTTPError: HTTP Error 403: Forbidden |
 | SEC Finanzierung | error | 0 | HTTPError: HTTP Error 403: Forbidden |
-| Yahoo Tagesgewinner | ok | 37 | keine erkannte; Vollständigkeit nicht garantiert |
+| Yahoo Tagesgewinner | ok | 46 | keine erkannte; Vollständigkeit nicht garantiert |
 
 ## Originalmeldungen · letzte 24 Stunden
 
@@ -23,26 +23,26 @@ Stand: 2026-11-10T15:49:55.393811+00:00 · Status: **partial**
 
 | Symbol | Tagesänderung | Seit vorherigem Scan | Tagesvolumen / Ø ganzer Tag | Status |
 |---|---:|---:|---:|---|
-| AAON | 21.462% | -2.017 | 1.701 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CSQR | 17.813% | -0.52 | 1.306 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| MARA | 11.146% | 1.514 | 0.612 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| TTWO | 7.76% | 2.394 | 1.428 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| EMBJ | 6.786% | 0.593 | 0.979 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| SE | 6.497% | -1.384 | 1.275 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ZETA | 6.479% | 1.893 | 0.671 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| SANM | 6.255% | -2.55 | 2.5 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| MBX | 5.642% | offen | 0.325 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| TRAX | 5.634% | -0.962 | 0.472 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| GPN | 4.889% | 1.379 | 0.296 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| TWLO | 4.533% | 0.528 | 0.175 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CXW | 4.492% | -0.048 | 0.162 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ABVX | 4.489% | offen | 0.294 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CLF | 4.445% | 0.593 | 0.179 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ACAD | 4.424% | -0.405 | 0.821 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| AMG | 4.22% | offen | 0.231 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| TDW | 4.208% | offen | 0.49 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| DOCN | 4.176% | -2.945 | 0.408 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| TGTX | 4.134% | 0.418 | 0.602 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| SANM | 4.277% | -1.862 | 2.996 | MOMENTUM PRÜFEN |
+| SE | 3.284% | -3.017 | 1.61 | MOMENTUM PRÜFEN |
+| AAON | 22.881% | 1.192 | 2.012 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CSQR | 15.684% | -1.807 | 1.775 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| MARA | 9.262% | -1.695 | 0.778 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| EMBJ | 7.811% | 0.96 | 1.29 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| TTWO | 7.189% | -0.53 | 1.736 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ZETA | 7.094% | 0.579 | 0.935 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ACAD | 6.545% | 2.031 | 1.089 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CLF | 5.383% | 0.898 | 0.237 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| TNGX | 5.057% | 0.929 | 0.398 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ARQT | 5.019% | 1.382 | 0.258 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| MBX | 4.994% | -0.613 | 0.579 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| AMG | 4.985% | 0.734 | 0.488 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CXW | 4.978% | 0.465 | 0.254 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| PRCH | 4.942% | 1.5 | 0.414 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CHTR | 4.653% | offen | 0.351 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| INGM | 4.502% | 1.2 | 0.259 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| TWLO | 4.457% | -0.074 | 0.253 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| GPN | 4.398% | -0.468 | 0.376 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 
 Kurse in Rohdaten mit Originalwährung und Zeitstempel. EUR-Umrechnung erst mit geprüftem Wechselkurs. Tagesänderung ist nicht die Reaktion seit einer Nachricht.
 
