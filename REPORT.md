@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-11-10T00:10:20.397800+00:00 · Status: **partial**
+Stand: 2026-11-10T01:27:51.486919+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -35,11 +35,11 @@ Stand: 2026-11-10T00:10:20.397800+00:00 · Status: **partial**
 | FPS | 16.016% | offen | 1.239 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | UI | 15.66% | offen | 1.235 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | TTD | 15.468% | offen | 4.282 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| LGN | 15.228% | offen | 1.953 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| LGN | 15.227% | offen | 1.953 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | IMVT | 15.133% | offen | 2.854 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | STRL | 14.971% | offen | 1.728 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | PL | 14.502% | offen | 1.158 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ASTS | 14.105% | offen | 1.98 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ASTS | 14.104% | offen | 1.98 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | SGRY | 14.009% | offen | 4.676 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | OKLO | 13.97% | offen | 1.983 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | DPC | 13.725% | offen | 1.128 | BEREITS GESTIEGEN / DATEN PRÜFEN |
