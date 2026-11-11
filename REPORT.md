@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-11-11T12:31:32.546450+00:00 · Status: **partial**
+Stand: 2026-11-11T13:49:11.251720+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -40,7 +40,7 @@ Keine zeitlich zuordenbaren Meldungen im erfassten Fenster. Quellenstatus beacht
 | SKWD | 5.853% | offen | 1.085 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | TRAX | 5.292% | offen | 1.375 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | AXSM | 5.233% | offen | 1.523 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| LKNCY | 5.228% | offen | 0.432 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| LKNCY | 5.228% | offen | 0.002 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | OUT | 5.15% | offen | 1.049 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 
 Kurse in Rohdaten mit Originalwährung und Zeitstempel. EUR-Umrechnung erst mit geprüftem Wechselkurs. Tagesänderung ist nicht die Reaktion seit einer Nachricht.
