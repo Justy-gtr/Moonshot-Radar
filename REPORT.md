@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-11-11T16:29:31.678390+00:00 · Status: **partial**
+Stand: 2026-11-11T17:32:54.142331+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -22,26 +22,26 @@ Keine zeitlich zuordenbaren Meldungen im erfassten Fenster. Quellenstatus beacht
 
 | Symbol | Tagesänderung | Seit vorherigem Scan | Tagesvolumen / Ø ganzer Tag | Status |
 |---|---:|---:|---:|---|
-| CRWV | 24.154% | 2.041 | 2.099 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| AXTI | 22.844% | 1.985 | 0.824 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| RUM | 18.982% | 7.611 | 0.981 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| AZTA | 18.651% | 0.861 | 0.593 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| AAOI | 17.405% | 3.768 | 0.648 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| NBIS | 16.791% | 0.643 | 0.904 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| SNDK | 16.306% | 1.532 | 0.796 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| BE | 15.543% | 0.417 | 0.67 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| MXL | 15.397% | 4.298 | 0.482 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| LITE | 15.023% | 1.714 | 0.654 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| GLXY | 14.681% | 4.051 | 0.487 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| FRVO | 13.84% | 4.392 | 0.564 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CECO | 13.602% | 0.917 | 0.73 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| AEHR | 13.48% | 1.046 | 0.511 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| DELL | 13.265% | 1.942 | 0.546 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| MU | 13.176% | 1.818 | 0.65 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| FORM | 13.045% | 1.911 | 0.331 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| SMTC | 12.97% | 1.972 | 0.339 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ARM | 12.865% | 3.496 | 0.456 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| COHR | 12.627% | 1.182 | 0.858 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CRWV | 25.99% | offen | 2.501 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| AXTI | 24.548% | offen | 0.942 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| AZTA | 20.973% | offen | 0.77 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| AAOI | 19.226% | offen | 0.813 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| NBIS | 19.019% | offen | 1.06 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| MXL | 17.239% | offen | 0.621 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| RUM | 16.816% | offen | 1.222 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| SNDK | 16.661% | offen | 0.96 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| BE | 16.659% | offen | 0.77 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| REZI | 16.607% | offen | 2.366 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| GLXY | 15.405% | offen | 0.674 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| LITE | 15.358% | offen | 0.787 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| FRVO | 15.026% | offen | 0.774 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| FORM | 14.855% | offen | 0.439 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| AMKR | 14.534% | offen | 0.711 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| DELL | 14.513% | offen | 0.682 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| AEHR | 14.437% | offen | 0.624 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| EQPT | 14.185% | offen | 0.952 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| FPS | 14.106% | offen | 0.428 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| MTSI | 14.005% | offen | 0.493 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 
 Kurse in Rohdaten mit Originalwährung und Zeitstempel. EUR-Umrechnung erst mit geprüftem Wechselkurs. Tagesänderung ist nicht die Reaktion seit einer Nachricht.
 
