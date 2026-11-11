@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-11-11T13:49:11.251720+00:00 · Status: **partial**
+Stand: 2026-11-11T14:39:10.207594+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -12,7 +12,7 @@ Stand: 2026-11-11T13:49:11.251720+00:00 · Status: **partial**
 | SEC 8-K | error | 0 | HTTPError: HTTP Error 403: Forbidden |
 | SEC 6-K | error | 0 | HTTPError: HTTP Error 403: Forbidden |
 | SEC Finanzierung | error | 0 | HTTPError: HTTP Error 403: Forbidden |
-| Yahoo Tagesgewinner | ok | 88 | keine erkannte; Vollständigkeit nicht garantiert |
+| Yahoo Tagesgewinner | ok | 100 | keine erkannte; Vollständigkeit nicht garantiert |
 
 ## Originalmeldungen · letzte 24 Stunden
 
@@ -22,26 +22,26 @@ Keine zeitlich zuordenbaren Meldungen im erfassten Fenster. Quellenstatus beacht
 
 | Symbol | Tagesänderung | Seit vorherigem Scan | Tagesvolumen / Ø ganzer Tag | Status |
 |---|---:|---:|---:|---|
-| AAON | 19.31% | offen | 4.018 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CSQR | 14.735% | offen | 3.857 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ACAD | 10.788% | offen | 2.976 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CHTR | 10.611% | offen | 1.463 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| MARA | 10.542% | offen | 1.519 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| TTWO | 8.312% | offen | 3.106 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ZETA | 8.174% | offen | 1.879 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| LQDA | 7.374% | offen | 0.805 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| EMBJ | 7.046% | offen | 2.439 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| TNGX | 6.86% | offen | 1.355 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| RKLB | 6.541% | offen | 1.637 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| PRCH | 6.347% | offen | 2.43 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| GRDN | 6.019% | offen | 2.229 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| GEO | 5.972% | offen | 1.528 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CXW | 5.9% | offen | 1.172 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| SKWD | 5.853% | offen | 1.085 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| TRAX | 5.292% | offen | 1.375 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| AXSM | 5.233% | offen | 1.523 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| LKNCY | 5.228% | offen | 0.002 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| OUT | 5.15% | offen | 1.049 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CECO | 15.973% | offen | 0.122 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| AXTI | 15.553% | offen | 0.226 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CRWV | 14.264% | offen | 0.683 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| NBIS | 13.036% | offen | 0.372 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| AAOI | 10.637% | offen | 0.199 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| LITE | 10.24% | offen | 0.196 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| BE | 10.231% | offen | 0.193 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| AEHR | 9.82% | offen | 0.16 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| FLY | 9.658% | offen | 0.319 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| TWST | 9.547% | offen | 0.082 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| SNDK | 8.957% | offen | 0.205 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| DELL | 8.538% | offen | 0.143 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| DOCN | 8.455% | offen | 0.159 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| FPS | 8.43% | offen | 0.088 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CIFR | 8.423% | offen | 0.132 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| COHR | 7.911% | offen | 0.21 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| SMTC | 7.772% | offen | 0.041 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| TXG | 7.468% | offen | 0.038 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| MXL | 7.338% | offen | 0.101 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ORCL | 7.249% | offen | 0.141 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 
 Kurse in Rohdaten mit Originalwährung und Zeitstempel. EUR-Umrechnung erst mit geprüftem Wechselkurs. Tagesänderung ist nicht die Reaktion seit einer Nachricht.
 
