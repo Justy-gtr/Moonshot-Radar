@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-11-11T14:39:10.207594+00:00 · Status: **partial**
+Stand: 2026-11-11T15:31:23.873922+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -22,26 +22,26 @@ Keine zeitlich zuordenbaren Meldungen im erfassten Fenster. Quellenstatus beacht
 
 | Symbol | Tagesänderung | Seit vorherigem Scan | Tagesvolumen / Ø ganzer Tag | Status |
 |---|---:|---:|---:|---|
-| CECO | 15.973% | offen | 0.122 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| AXTI | 15.553% | offen | 0.226 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CRWV | 14.264% | offen | 0.683 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| NBIS | 13.036% | offen | 0.372 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| AAOI | 10.637% | offen | 0.199 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| LITE | 10.24% | offen | 0.196 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| BE | 10.231% | offen | 0.193 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| AEHR | 9.82% | offen | 0.16 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| FLY | 9.658% | offen | 0.319 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| TWST | 9.547% | offen | 0.082 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| SNDK | 8.957% | offen | 0.205 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| DELL | 8.538% | offen | 0.143 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| DOCN | 8.455% | offen | 0.159 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| FPS | 8.43% | offen | 0.088 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CIFR | 8.423% | offen | 0.132 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| COHR | 7.911% | offen | 0.21 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| SMTC | 7.772% | offen | 0.041 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| TXG | 7.468% | offen | 0.038 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| MXL | 7.338% | offen | 0.101 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ORCL | 7.249% | offen | 0.141 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CRWV | 21.67% | 6.483 | 1.585 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| AXTI | 20.453% | 4.226 | 0.551 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| AZTA | 17.752% | offen | 0.421 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| NBIS | 16.045% | 2.661 | 0.721 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| BE | 15.063% | 4.335 | 0.47 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| SNDK | 14.545% | 5.132 | 0.546 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| AAOI | 13.142% | 2.263 | 0.418 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| LITE | 13.085% | 2.578 | 0.405 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CECO | 12.57% | -3.065 | 0.456 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| AEHR | 12.305% | 2.262 | 0.369 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| DOCN | 11.601% | 2.881 | 0.36 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| COHR | 11.311% | 3.102 | 0.529 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| MU | 11.156% | 4.662 | 0.434 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| DELL | 11.107% | 2.387 | 0.374 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| FORM | 10.925% | 3.979 | 0.165 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| FPS | 10.792% | 2.226 | 0.217 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| SMTC | 10.785% | 2.796 | 0.194 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| MXL | 10.645% | 3.081 | 0.233 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| RUM | 10.568% | offen | 0.532 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| AMKR | 10.535% | 4.328 | 0.313 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 
 Kurse in Rohdaten mit Originalwährung und Zeitstempel. EUR-Umrechnung erst mit geprüftem Wechselkurs. Tagesänderung ist nicht die Reaktion seit einer Nachricht.
 
