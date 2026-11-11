@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-11-11T03:56:04.054407+00:00 · Status: **partial**
+Stand: 2026-11-11T04:59:27.615161+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -35,12 +35,12 @@ Keine zeitlich zuordenbaren Meldungen im erfassten Fenster. Quellenstatus beacht
 | RKLB | 6.541% | offen | 1.639 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | PRCH | 6.347% | offen | 2.507 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | GRDN | 6.019% | offen | 2.261 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| LKNCY | 6.013% | offen | 0.438 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | GEO | 5.972% | offen | 1.53 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | CXW | 5.9% | offen | 1.174 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | SKWD | 5.853% | offen | 1.085 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | TRAX | 5.292% | offen | 1.389 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | AXSM | 5.233% | offen | 1.536 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| LKNCY | 5.228% | offen | 0.438 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | OUT | 5.15% | offen | 1.047 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 
 Kurse in Rohdaten mit Originalwährung und Zeitstempel. EUR-Umrechnung erst mit geprüftem Wechselkurs. Tagesänderung ist nicht die Reaktion seit einer Nachricht.
