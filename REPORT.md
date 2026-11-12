@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-11-12T01:12:17.562237+00:00 · Status: **partial**
+Stand: 2026-11-12T02:22:08.675572+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -22,15 +22,15 @@ Keine zeitlich zuordenbaren Meldungen im erfassten Fenster. Quellenstatus beacht
 
 | Symbol | Tagesänderung | Seit vorherigem Scan | Tagesvolumen / Ø ganzer Tag | Status |
 |---|---:|---:|---:|---|
-| CRWV | 24.708% | offen | 3.739 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CRWV | 24.708% | offen | 3.733 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | AZTA | 20.8% | offen | 2.582 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | AXTI | 19.486% | offen | 1.51 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | REZI | 18.252% | offen | 3.441 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | EQPT | 18.138% | offen | 1.995 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| RUM | 16.634% | offen | 2.031 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| RUM | 16.634% | offen | 2.03 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | LGN | 15.725% | offen | 2.288 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | AAOI | 15.604% | offen | 1.455 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| NBIS | 15.44% | offen | 1.876 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| NBIS | 15.44% | offen | 1.875 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | AXGN | 15.209% | offen | 3.05 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | FPS | 14.386% | offen | 1.28 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | FRVO | 13.708% | offen | 1.588 | BEREITS GESTIEGEN / DATEN PRÜFEN |
