@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-11-12T18:25:47.091777+00:00 · Status: **partial**
+Stand: 2026-11-12T19:31:29.342717+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -12,7 +12,7 @@ Stand: 2026-11-12T18:25:47.091777+00:00 · Status: **partial**
 | SEC 8-K | error | 0 | HTTPError: HTTP Error 403: Forbidden |
 | SEC 6-K | error | 0 | HTTPError: HTTP Error 403: Forbidden |
 | SEC Finanzierung | error | 0 | HTTPError: HTTP Error 403: Forbidden |
-| Yahoo Tagesgewinner | ok | 48 | keine erkannte; Vollständigkeit nicht garantiert |
+| Yahoo Tagesgewinner | ok | 46 | keine erkannte; Vollständigkeit nicht garantiert |
 
 ## Originalmeldungen · letzte 24 Stunden
 
@@ -22,26 +22,26 @@ Keine zeitlich zuordenbaren Meldungen im erfassten Fenster. Quellenstatus beacht
 
 | Symbol | Tagesänderung | Seit vorherigem Scan | Tagesvolumen / Ø ganzer Tag | Status |
 |---|---:|---:|---:|---|
-| CDLR | 4.863% | -0.719 | 1.729 | MOMENTUM PRÜFEN |
-| TTEK | 4.015% | -0.319 | 1.518 | MOMENTUM PRÜFEN |
-| PLBL | 27.206% | 5.059 | 4.298 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| MBGL | 16.566% | 1.442 | 0.928 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| LUNR | 12.315% | -0.146 | 2.517 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CHA | 11.233% | 2.122 | 2.251 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| FIGR | 8.805% | -3.218 | 1.478 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| HUBS | 6.809% | -0.307 | 0.843 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| BLTE | 6.451% | -0.3 | 1.779 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| IRTC | 6.258% | 1.634 | 0.891 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| DPC | 5.745% | -0.726 | 0.992 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| IBP | 5.681% | -0.704 | 0.865 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| VG | 5.648% | 0.602 | 0.59 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| AVGO | 5.55% | 0.383 | 1.171 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| TRMK | 5.356% | -0.021 | 5.833 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| AMD | 5.235% | 0.926 | 1.779 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CLS | 5.133% | -0.238 | 1.148 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| LQDA | 5.108% | -0.557 | 0.377 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CECO | 5.084% | 1.922 | 0.772 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| LMND | 5.042% | 0.719 | 0.664 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| TRMK | 4.576% | offen | 6.767 | MOMENTUM PRÜFEN |
+| TTEK | 3.51% | offen | 1.706 | MOMENTUM PRÜFEN |
+| PLBL | 26.838% | offen | 5.233 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| MBGL | 14.91% | offen | 1.212 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| LUNR | 10.222% | offen | 2.747 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CHA | 9.165% | offen | 2.399 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| FIGR | 7.234% | offen | 1.626 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| HUBS | 7.177% | offen | 0.968 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| BLTE | 6.567% | offen | 1.912 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| LMND | 6.05% | offen | 0.919 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| DPC | 5.871% | offen | 1.2 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| LQDA | 5.687% | offen | 0.486 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CDLR | 5.623% | offen | 1.802 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| AVGO | 5.411% | offen | 1.303 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| AMD | 5.298% | offen | 1.921 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| IBP | 5.233% | offen | 0.934 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CLS | 5.181% | offen | 1.241 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| SM | 5.15% | offen | 0.496 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| XE | 4.715% | offen | 0.794 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ANET | 4.584% | offen | 0.802 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 
 Kurse in Rohdaten mit Originalwährung und Zeitstempel. EUR-Umrechnung erst mit geprüftem Wechselkurs. Tagesänderung ist nicht die Reaktion seit einer Nachricht.
 
