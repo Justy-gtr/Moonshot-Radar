@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-11-13T01:06:57.648524+00:00 · Status: **partial**
+Stand: 2026-11-13T02:09:54.788434+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -27,11 +27,11 @@ Keine zeitlich zuordenbaren Meldungen im erfassten Fenster. Quellenstatus beacht
 | CHA | 9.57% | offen | 2.717 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | BLTE | 8.991% | offen | 2.721 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | DPC | 8.365% | offen | 2.119 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| LUNR | 6.979% | offen | 3.37 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| LUNR | 6.979% | offen | 3.369 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | IBP | 6.786% | offen | 1.651 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | HUBS | 6.388% | offen | 1.609 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | FIGR | 6.118% | offen | 2.143 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| AMD | 5.86% | offen | 2.321 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| AMD | 5.86% | offen | 2.319 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | LMND | 5.657% | offen | 1.613 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | AVGO | 5.544% | offen | 1.756 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | IRTC | 5.503% | offen | 2.155 | BEREITS GESTIEGEN / DATEN PRÜFEN |
