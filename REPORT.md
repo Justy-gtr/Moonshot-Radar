@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-11-15T17:57:26.247119+00:00 · Status: **partial**
+Stand: 2026-11-15T22:44:12.999190+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -22,23 +22,23 @@ Keine zeitlich zuordenbaren Meldungen im erfassten Fenster. Quellenstatus beacht
 
 | Symbol | Tagesänderung | Seit vorherigem Scan | Tagesvolumen / Ø ganzer Tag | Status |
 |---|---:|---:|---:|---|
-| LFTO | 30.625% | offen | 10.444 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| LFTO | 30.625% | offen | 10.451 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | MOD | 27.86% | offen | 4.809 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | STN | 14.056% | offen | 2.605 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | NU | 11.75% | offen | 1.874 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CBRS | 11.223% | offen | 3.837 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CBRS | 11.223% | offen | 3.9 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | TOP | 10.175% | offen | 2.631 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | STVN | 10.028% | offen | 2.308 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | WWW | 8.833% | offen | 2.942 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | KLAR | 8.576% | offen | 1.88 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | FOUR | 7.852% | offen | 1.322 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ALM | 7.733% | offen | 1.214 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ALM | 7.733% | offen | 1.215 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | BROS | 6.497% | offen | 1.332 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| IONS | 6.408% | offen | 1.554 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CHA | 6.366% | offen | 1.931 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CGON | 6.058% | offen | 3.241 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| VKTX | 5.946% | offen | 1.713 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CLBT | 5.877% | offen | 1.954 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| IONS | 6.408% | offen | 1.556 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CHA | 6.366% | offen | 1.943 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CGON | 6.058% | offen | 3.316 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| VKTX | 5.946% | offen | 1.716 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CLBT | 5.877% | offen | 1.955 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | ALNY | 5.356% | offen | 1.754 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | VEON | 5.349% | offen | 0.817 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | CPRI | 5.299% | offen | 0.777 | BEREITS GESTIEGEN / DATEN PRÜFEN |
