@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-11-15T03:33:50.797069+00:00 · Status: **partial**
+Stand: 2026-11-15T11:27:23.084254+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -23,14 +23,14 @@ Keine zeitlich zuordenbaren Meldungen im erfassten Fenster. Quellenstatus beacht
 | Symbol | Tagesänderung | Seit vorherigem Scan | Tagesvolumen / Ø ganzer Tag | Status |
 |---|---:|---:|---:|---|
 | LFTO | 30.625% | offen | 10.444 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| MOD | 27.86% | offen | 4.809 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| STN | 14.056% | offen | 2.605 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| NU | 11.75% | offen | 1.874 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| MOD | 27.86% | offen | 4.817 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| STN | 14.056% | offen | 2.85 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| NU | 11.75% | offen | 1.876 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | CBRS | 11.223% | offen | 3.837 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | TOP | 10.175% | offen | 2.631 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | STVN | 10.028% | offen | 2.308 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| WWW | 8.833% | offen | 2.942 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| KLAR | 8.576% | offen | 1.88 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| WWW | 8.833% | offen | 2.943 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| KLAR | 8.576% | offen | 1.883 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | FOUR | 7.852% | offen | 1.322 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | ALM | 7.733% | offen | 1.214 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | BROS | 6.497% | offen | 1.332 | BEREITS GESTIEGEN / DATEN PRÜFEN |
