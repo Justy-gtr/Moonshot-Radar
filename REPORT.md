@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-11-16T20:34:04.270712+00:00 · Status: **partial**
+Stand: 2026-11-17T03:07:58.164191+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -12,7 +12,7 @@ Stand: 2026-11-16T20:34:04.270712+00:00 · Status: **partial**
 | SEC 8-K | error | 0 | HTTPError: HTTP Error 403: Forbidden |
 | SEC 6-K | error | 0 | HTTPError: HTTP Error 403: Forbidden |
 | SEC Finanzierung | error | 0 | HTTPError: HTTP Error 403: Forbidden |
-| Yahoo Tagesgewinner | ok | 36 | keine erkannte; Vollständigkeit nicht garantiert |
+| Yahoo Tagesgewinner | ok | 38 | keine erkannte; Vollständigkeit nicht garantiert |
 
 ## Originalmeldungen · letzte 24 Stunden
 
@@ -22,26 +22,26 @@ Keine zeitlich zuordenbaren Meldungen im erfassten Fenster. Quellenstatus beacht
 
 | Symbol | Tagesänderung | Seit vorherigem Scan | Tagesvolumen / Ø ganzer Tag | Status |
 |---|---:|---:|---:|---|
-| TIGO | 4.228% | offen | 1.703 | MOMENTUM PRÜFEN |
-| MBGL | 3.909% | offen | 1.738 | MOMENTUM PRÜFEN |
-| XPEV | 3.415% | offen | 1.697 | MOMENTUM PRÜFEN |
-| STWD | 3.261% | offen | 1.683 | MOMENTUM PRÜFEN |
-| CGON | 13.474% | offen | 7.406 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| TU | 11.688% | offen | 6.187 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| MOH | 9.919% | offen | 1.634 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| HTHT | 8.712% | offen | 1.687 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| TSN | 7.871% | offen | 1.639 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| HUBS | 6.419% | offen | 0.967 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| POWL | 5.581% | offen | 2.837 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| HNGE | 5.165% | offen | 0.522 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| BILL | 5.149% | offen | 0.905 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CNC | 5.093% | offen | 1.045 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| SRRK | 4.849% | offen | 0.978 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| MSGR | 4.485% | offen | 0.819 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| QLYS | 4.464% | offen | 0.893 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| WSE | 4.452% | offen | 0.943 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| BEKE | 4.451% | offen | 1.268 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| SEZL | 4.34% | offen | 1.18 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CGON | 13.952% | offen | 9.888 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| TU | 12.192% | offen | 7.263 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| MOH | 11.265% | offen | 2.35 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| HTHT | 8.911% | offen | 2.195 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| TSN | 8.722% | offen | 2.371 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| HUBS | 6.78% | offen | 1.517 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| POWL | 5.942% | offen | 4.028 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| BILL | 5.782% | offen | 1.514 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| QLYS | 5.245% | offen | 1.284 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| HNGE | 5.113% | offen | 1.096 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CNC | 4.911% | offen | 1.582 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| SEZL | 4.735% | offen | 1.495 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| GXO | 4.631% | offen | 1.95 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| MSGR | 4.618% | offen | 1.502 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| FRSH | 4.42% | offen | 0.947 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| TIGO | 4.374% | offen | 2.247 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| BEKE | 4.367% | offen | 1.834 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ASO | 4.291% | offen | 1.273 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| RCI | 4.242% | offen | 1.352 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| TSCO | 4.115% | offen | 1.397 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 
 Kurse in Rohdaten mit Originalwährung und Zeitstempel. EUR-Umrechnung erst mit geprüftem Wechselkurs. Tagesänderung ist nicht die Reaktion seit einer Nachricht.
 
