@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-11-18T10:46:18.627998+00:00 · Status: **partial**
+Stand: 2026-11-18T19:08:39.594150+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -12,7 +12,7 @@ Stand: 2026-11-18T10:46:18.627998+00:00 · Status: **partial**
 | SEC 8-K | error | 0 | HTTPError: HTTP Error 403: Forbidden |
 | SEC 6-K | error | 0 | HTTPError: HTTP Error 403: Forbidden |
 | SEC Finanzierung | error | 0 | HTTPError: HTTP Error 403: Forbidden |
-| Yahoo Tagesgewinner | ok | 37 | keine erkannte; Vollständigkeit nicht garantiert |
+| Yahoo Tagesgewinner | ok | 95 | keine erkannte; Vollständigkeit nicht garantiert |
 
 ## Originalmeldungen · letzte 24 Stunden
 
@@ -25,26 +25,26 @@ Stand: 2026-11-18T10:46:18.627998+00:00 · Status: **partial**
 
 | Symbol | Tagesänderung | Seit vorherigem Scan | Tagesvolumen / Ø ganzer Tag | Status |
 |---|---:|---:|---:|---|
-| SLS | 156.359% | offen | 17.126 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| BILL | 12.58% | offen | 5.818 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ACM | 11.076% | offen | 2.469 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| RYTM | 8.495% | offen | 2.521 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| MNSO | 8.363% | offen | 2.502 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| SNAP | 8.055% | offen | 1.966 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| UNFI | 7.44% | offen | 1.477 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| SA | 7.265% | offen | 3.072 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| TME | 6.644% | offen | 1.803 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| TWST | 6.626% | offen | 0.834 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ESLT | 5.845% | offen | 1.224 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CXW | 4.811% | offen | 0.808 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| GFF | 4.792% | offen | 2.216 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| BELFB | 4.783% | offen | 1.495 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ARM | 4.764% | offen | 1.163 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| KLAR | 4.696% | offen | 2.893 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| IBRX | 4.682% | offen | 0.901 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| VIV | 4.626% | offen | 1.393 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ALAB | 4.576% | offen | 1.183 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| VIK | 4.431% | offen | 2.368 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| TENB | 16.075% | offen | 0.595 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| FSLY | 13.176% | offen | 1.049 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| NTSK | 12.399% | offen | 0.567 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| QLYS | 12.223% | offen | 0.75 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| MFP | 11.47% | offen | 0.966 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| BLSH | 11.313% | offen | 1.832 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ATEN | 11.168% | offen | 0.779 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| PLBL | 10.789% | offen | 1.107 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| OKTA | 10.777% | offen | 0.634 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| TJX | 10.504% | offen | 1.372 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| S | 10.121% | offen | 0.66 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| SAIL | 10.04% | offen | 0.356 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| AKAM | 9.428% | offen | 0.922 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| GNRC | 8.997% | offen | 0.786 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CRWD | 8.653% | offen | 0.69 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| RBRK | 8.423% | offen | 0.417 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| FROG | 8.421% | offen | 0.729 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ZS | 8.302% | offen | 0.458 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| RIOT | 8.27% | offen | 0.779 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| PANW | 7.857% | offen | 1.004 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 
 Kurse in Rohdaten mit Originalwährung und Zeitstempel. EUR-Umrechnung erst mit geprüftem Wechselkurs. Tagesänderung ist nicht die Reaktion seit einer Nachricht.
 
