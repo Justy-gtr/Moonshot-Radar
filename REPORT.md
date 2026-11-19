@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-11-18T19:08:39.594150+00:00 · Status: **partial**
+Stand: 2026-11-19T01:17:37.125575+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -12,39 +12,37 @@ Stand: 2026-11-18T19:08:39.594150+00:00 · Status: **partial**
 | SEC 8-K | error | 0 | HTTPError: HTTP Error 403: Forbidden |
 | SEC 6-K | error | 0 | HTTPError: HTTP Error 403: Forbidden |
 | SEC Finanzierung | error | 0 | HTTPError: HTTP Error 403: Forbidden |
-| Yahoo Tagesgewinner | ok | 95 | keine erkannte; Vollständigkeit nicht garantiert |
+| Yahoo Tagesgewinner | ok | 100 | keine erkannte; Vollständigkeit nicht garantiert |
 
 ## Originalmeldungen · letzte 24 Stunden
 
-- **ORIGINALMELDUNG PRÜFEN** · [FDA Launches the Global Reliance Disclosure Program to Expand Patient Access to Medicines Worldwide](http://www.fda.gov/news-events/press-announcements/fda-launches-global-reliance-disclosure-program-expand-patient-access-medicines-worldwide)
-  Quelle: FDA · Feedzeit: 2026-11-17T20:32:16+00:00 · entdeckt: 2026-11-18T02:38:32.398685+00:00
-- **ORIGINALMELDUNG PRÜFEN** · [FDA Approves First Drug Shown to Help Patients with Infantile-Onset Niemann-Pick Disease Type C Live Longer](http://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-shown-help-patients-infantile-onset-niemann-pick-disease-type-c-live-longer)
-  Quelle: FDA · Feedzeit: 2026-11-17T19:15:22+00:00 · entdeckt: 2026-11-17T20:50:21.619906+00:00
+- **ORIGINALMELDUNG PRÜFEN** · [FDA Approves First Drug to Treat Neurological Symptoms of Type 3 Gaucher Disease](http://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-treat-neurological-symptoms-type-3-gaucher-disease)
+  Quelle: FDA · Feedzeit: 2026-11-18T19:13:26+00:00 · entdeckt: 2026-11-19T01:17:37.125575+00:00
 
 ## Momentum-Beobachtungen · keine Handelssignale
 
 | Symbol | Tagesänderung | Seit vorherigem Scan | Tagesvolumen / Ø ganzer Tag | Status |
 |---|---:|---:|---:|---|
-| TENB | 16.075% | offen | 0.595 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| FSLY | 13.176% | offen | 1.049 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| NTSK | 12.399% | offen | 0.567 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| QLYS | 12.223% | offen | 0.75 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| MFP | 11.47% | offen | 0.966 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| BLSH | 11.313% | offen | 1.832 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ATEN | 11.168% | offen | 0.779 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| PLBL | 10.789% | offen | 1.107 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| OKTA | 10.777% | offen | 0.634 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| TJX | 10.504% | offen | 1.372 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| S | 10.121% | offen | 0.66 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| SAIL | 10.04% | offen | 0.356 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| AKAM | 9.428% | offen | 0.922 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| GNRC | 8.997% | offen | 0.786 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CRWD | 8.653% | offen | 0.69 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| RBRK | 8.423% | offen | 0.417 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| FROG | 8.421% | offen | 0.729 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ZS | 8.302% | offen | 0.458 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| RIOT | 8.27% | offen | 0.779 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| PANW | 7.857% | offen | 1.004 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| PLBL | 16.842% | offen | 1.461 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| TENB | 15.751% | offen | 1.158 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| MFP | 13.948% | offen | 1.785 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| QLYS | 12.921% | offen | 1.622 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| NTSK | 12.734% | offen | 1.027 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| FSLY | 12.579% | offen | 1.549 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| OKTA | 12.072% | offen | 1.234 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ATEN | 10.519% | offen | 1.581 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| S | 10.355% | offen | 1.08 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| SAIL | 10.258% | offen | 1.179 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| PANW | 9.903% | offen | 2.683 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| GNRC | 9.866% | offen | 1.466 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| RBRK | 9.257% | offen | 0.893 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| WRBY | 8.873% | offen | 1.712 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| FROG | 8.83% | offen | 1.573 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| AKAM | 8.341% | offen | 1.554 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| SYRE | 8.155% | offen | 1.086 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| TJX | 8.048% | offen | 2.252 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CALM | 7.955% | offen | 1.703 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CRWD | 7.947% | offen | 1.165 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 
 Kurse in Rohdaten mit Originalwährung und Zeitstempel. EUR-Umrechnung erst mit geprüftem Wechselkurs. Tagesänderung ist nicht die Reaktion seit einer Nachricht.
 
