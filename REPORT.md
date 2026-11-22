@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-11-22T11:55:45.102618+00:00 · Status: **partial**
+Stand: 2026-11-22T19:28:37.857016+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -28,7 +28,7 @@ Keine zeitlich zuordenbaren Meldungen im erfassten Fenster. Quellenstatus beacht
 | HTFL | 4.616% | offen | 1.029 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | HDB | 4.497% | offen | 2.344 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | KVYO | 4.413% | offen | 1.553 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| PLMR | 4.41% | offen | 2.058 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| PLMR | 4.41% | offen | 2.06 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | BGSI | 4.248% | offen | 1.23 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | RKT | 4.246% | offen | 1.457 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | BIP | 4.237% | offen | 4.463 | BEREITS GESTIEGEN / DATEN PRÜFEN |
