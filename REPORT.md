@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-11-23T20:20:49.082072+00:00 · Status: **partial**
+Stand: 2026-11-24T04:52:17.572170+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -25,26 +25,26 @@ Stand: 2026-11-23T20:20:49.082072+00:00 · Status: **partial**
 
 | Symbol | Tagesänderung | Seit vorherigem Scan | Tagesvolumen / Ø ganzer Tag | Status |
 |---|---:|---:|---:|---|
-| NVDA | 31.367% | offen | 3.828 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| KYMR | 31.238% | offen | 7.947 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| AXTI | 23.88% | offen | 1.161 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| IREN | 23.223% | offen | 1.886 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ALAB | 22.783% | offen | 1.21 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ASX | 21.793% | offen | 1.426 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| MXL | 21.677% | offen | 0.758 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CRDO | 21.573% | offen | 0.835 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| DELL | 21.567% | offen | 1.542 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| SITM | 21.327% | offen | 1.445 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CRWV | 21.273% | offen | 1.66 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CBRS | 20.116% | offen | 1.126 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| UMC | 20.017% | offen | 1.621 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| SKHY | 19.678% | offen | 1.324 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| BE | 19.329% | offen | 1.159 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| NBIS | 19.107% | offen | 2.083 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| APLD | 19.104% | offen | 1.654 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| MU | 18.898% | offen | 1.437 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| SMTC | 18.384% | offen | 0.994 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| PENG | 18.363% | offen | 0.587 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| NVDA | 31.483% | offen | 4.554 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| KYMR | 30.405% | offen | 9.179 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| AXTI | 24.37% | offen | 1.531 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| IREN | 23.858% | offen | 2.239 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ALAB | 23.16% | offen | 1.928 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CRDO | 22.632% | offen | 1.229 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CRWV | 22.323% | offen | 1.963 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| SITM | 21.476% | offen | 1.836 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| MXL | 21.375% | offen | 1.103 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ASX | 21.355% | offen | 2.221 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| DELL | 20.463% | offen | 1.93 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| NBIS | 20.28% | offen | 2.362 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| APLD | 20.279% | offen | 2.028 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| SKHY | 19.996% | offen | 1.723 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| UMC | 19.518% | offen | 2.432 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CBRS | 19.16% | offen | 1.543 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| MU | 19.039% | offen | 1.747 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| SMTC | 18.829% | offen | 1.687 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| MTSI | 18.67% | offen | 1.396 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| TSEM | 18.389% | offen | 1.648 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 
 Kurse in Rohdaten mit Originalwährung und Zeitstempel. EUR-Umrechnung erst mit geprüftem Wechselkurs. Tagesänderung ist nicht die Reaktion seit einer Nachricht.
 
