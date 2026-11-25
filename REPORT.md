@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-11-24T15:44:37.851611+00:00 · Status: **partial**
+Stand: 2026-11-25T00:09:33.036975+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -16,35 +16,32 @@ Stand: 2026-11-24T15:44:37.851611+00:00 · Status: **partial**
 
 ## Originalmeldungen · letzte 24 Stunden
 
-- **ORIGINALMELDUNG PRÜFEN** · [FDA Approves First Treatment for Limb-Girdle Muscular Dystrophy Type 2I/R9](http://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-limb-girdle-muscular-dystrophy-type-2ir9)
-  Quelle: FDA · Feedzeit: 2026-11-23T18:25:08+00:00 · entdeckt: 2026-11-23T20:20:49.082072+00:00
-- **ORIGINALMELDUNG PRÜFEN** · [FDA Approves First New Hormone Therapy for Early-Stage Breast Cancer in More Than 20 Years](http://www.fda.gov/news-events/press-announcements/fda-approves-first-new-hormone-therapy-early-stage-breast-cancer-more-20-years)
-  Quelle: FDA · Feedzeit: 2026-11-23T15:55:37+00:00 · entdeckt: 2026-11-23T20:20:49.082072+00:00
+Keine zeitlich zuordenbaren Meldungen im erfassten Fenster. Quellenstatus beachten.
 
 ## Momentum-Beobachtungen · keine Handelssignale
 
 | Symbol | Tagesänderung | Seit vorherigem Scan | Tagesvolumen / Ø ganzer Tag | Status |
 |---|---:|---:|---:|---|
-| ANF | 24.382% | offen | 1.355 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| AMTM | 16.538% | offen | 2.014 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| COGT | 15.657% | offen | 1.274 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| DKS | 15.572% | offen | 0.602 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| INSM | 14.267% | offen | 13.678 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| KSS | 13.632% | offen | 0.704 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| GLOB | 12.179% | offen | 0.804 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| NAMS | 11.98% | offen | 0.475 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| DLTR | 11.657% | offen | 0.772 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| TRAX | 10.188% | offen | 0.127 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| PINS | 10.148% | offen | 0.686 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| MMED | 10.081% | offen | 0.348 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| SNY | 9.579% | offen | 2.111 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CELC | 9.406% | offen | 0.243 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| KYMR | 9.031% | offen | 1.88 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| BURL | 8.72% | offen | 0.77 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| TEX | 8.546% | offen | 1.098 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| VRDN | 8.467% | offen | 0.238 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| BMRN | 8.277% | offen | 0.718 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| WIX | 8.142% | offen | 0.197 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| AMTM | 20.097% | offen | 5.736 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ANF | 19.687% | offen | 2.964 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| KSS | 19.481% | offen | 2.648 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CELC | 18.481% | offen | 1.452 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| COGT | 17.432% | offen | 3.417 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| NAMS | 16.93% | offen | 2.209 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| STOK | 16.744% | offen | 1.585 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| KYMR | 15.661% | offen | 6.734 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| IRON | 15.296% | offen | 0.989 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| DKS | 14.588% | offen | 1.673 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| INSM | 14.126% | offen | 25.167 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| MMED | 14.089% | offen | 1.518 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ERAS | 13.967% | offen | 2.004 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| IMNM | 13.26% | offen | 1.483 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| TRAX | 12.477% | offen | 1.19 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| TRVI | 12.217% | offen | 1.58 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| PRAX | 12.212% | offen | 1.368 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| VRDN | 11.947% | offen | 1.648 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| LEGN | 11.899% | offen | 1.27 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| PBLS | 11.695% | offen | 0.829 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 
 Kurse in Rohdaten mit Originalwährung und Zeitstempel. EUR-Umrechnung erst mit geprüftem Wechselkurs. Tagesänderung ist nicht die Reaktion seit einer Nachricht.
 
