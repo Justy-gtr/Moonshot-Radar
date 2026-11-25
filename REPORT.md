@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-11-25T08:51:13.883704+00:00 · Status: **partial**
+Stand: 2026-11-25T18:53:46.910472+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -22,26 +22,26 @@ Keine zeitlich zuordenbaren Meldungen im erfassten Fenster. Quellenstatus beacht
 
 | Symbol | Tagesänderung | Seit vorherigem Scan | Tagesvolumen / Ø ganzer Tag | Status |
 |---|---:|---:|---:|---|
-| AMTM | 20.097% | offen | 5.736 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ANF | 19.687% | offen | 2.964 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| KSS | 19.481% | offen | 2.647 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| CELC | 18.481% | offen | 1.452 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| COGT | 17.431% | offen | 3.417 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| NAMS | 16.93% | offen | 2.209 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| STOK | 16.744% | offen | 1.585 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| KYMR | 15.661% | offen | 6.734 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| IRON | 15.296% | offen | 0.989 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| DKS | 14.588% | offen | 1.673 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| INSM | 14.126% | offen | 25.167 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| MMED | 14.089% | offen | 1.518 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| ERAS | 13.967% | offen | 2.004 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| IMNM | 13.26% | offen | 1.483 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| TRAX | 12.477% | offen | 1.19 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| TRVI | 12.216% | offen | 1.58 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| PRAX | 12.212% | offen | 1.368 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| VRDN | 11.947% | offen | 1.648 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| LEGN | 11.899% | offen | 1.27 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| PBLS | 11.695% | offen | 0.829 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| AWI | 4.896% | offen | 1.762 | MOMENTUM PRÜFEN |
+| SNY | 4.75% | offen | 1.901 | MOMENTUM PRÜFEN |
+| LBTYB | 17.04% | offen | 1.559 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| BZ | 11.695% | offen | 0.738 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| HPQ | 11.31% | offen | 1.665 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| ASTS | 11.099% | offen | 1.086 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| IQMX | 9.935% | offen | 1.705 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| LI | 9.895% | offen | 2.425 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| RH | 9.222% | offen | 0.763 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| COGT | 9.194% | offen | 1.67 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| QXO | 8.848% | offen | 0.752 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CNXC | 8.7% | offen | 0.262 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| COMP | 8.685% | offen | 1.035 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| AXON | 8.138% | offen | 0.787 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CHTR | 8.125% | offen | 0.774 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| DKNG | 7.976% | offen | 0.633 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CAR | 7.76% | offen | 0.548 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| CNH | 7.5% | offen | 0.887 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| RKT | 7.333% | offen | 0.951 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| KD | 7.061% | offen | 0.358 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 
 Kurse in Rohdaten mit Originalwährung und Zeitstempel. EUR-Umrechnung erst mit geprüftem Wechselkurs. Tagesänderung ist nicht die Reaktion seit einer Nachricht.
 
