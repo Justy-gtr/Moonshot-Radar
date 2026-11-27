@@ -1,6 +1,6 @@
 # Moonshot Radar · Forschungs-Eingang
 
-Stand: 2026-11-26T20:08:16.223868+00:00 · Status: **partial**
+Stand: 2026-11-27T02:57:13.477452+00:00 · Status: **partial**
 
 **Keine Kaufalarme. Keine belegte Trefferquote.** Frische Meldung bedeutet nicht frühe Kurschance.
 
@@ -41,7 +41,7 @@ Keine zeitlich zuordenbaren Meldungen im erfassten Fenster. Quellenstatus beacht
 | KNF | 7.77% | offen | 0.561 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | COMP | 7.716% | offen | 1.536 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 | CNXC | 7.64% | offen | 0.635 | BEREITS GESTIEGEN / DATEN PRÜFEN |
-| IQMX | 7.492% | offen | 2.655 | BEREITS GESTIEGEN / DATEN PRÜFEN |
+| SMTC | 7.483% | offen | 1.242 | BEREITS GESTIEGEN / DATEN PRÜFEN |
 
 Kurse in Rohdaten mit Originalwährung und Zeitstempel. EUR-Umrechnung erst mit geprüftem Wechselkurs. Tagesänderung ist nicht die Reaktion seit einer Nachricht.
 
